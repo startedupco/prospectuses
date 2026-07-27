@@ -1,0 +1,13 @@
+{
+  "provinces": [
+    { "id": "eastern-cape", "name": "Eastern Cape" },
+    { "id": "free-state", "name": "Free State" },
+    { "id": "gauteng", "name": "Gauteng" },
+    { "id": "kwa-zulu-natal", "name": "KwaZulu-Natal" },
+    { "id": "limpopo", "name": "Limpopo" },
+    { "id": "mpumalanga", "name": "Mpumalanga" },
+    { "id": "northern-cape", "name": "Northern Cape" },
+    { "id": "north-west", "name": "North West" },
+    { "id": "western-cape", "name": "Western Cape" }
+  ]
+}
