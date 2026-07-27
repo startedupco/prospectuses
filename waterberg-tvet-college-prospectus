@@ -1,0 +1,456 @@
+
+   [
+  {
+    "type": "Occupational",
+    "institution": "Waterberg TVET College",
+    "category": "Hospitality",
+    "name": "Chef",
+    "code": null,
+    "nqf_level": 5,
+    "duration_years": 3,
+    "credits": null,
+    "campus": "IT and Computer Science Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 50 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": [
+        {
+          "subjects": ["Mathematics", "Mathematical Literacy"],
+          "min_mark": 40
+        },
+        {
+          "subjects": ["Hospitality", "Consumer Studies"],
+          "min_mark": 0
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 10-12",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 10-12 with Hospitality/Consumer Studies, Mathematics/Mathematical Literacy (pass at 40%) and English (pass at 50%)"
+    },
+    "level": "Occupational",
+    "next_level": null
+  },
+  {
+    "type": "Occupational",
+    "institution": "Waterberg TVET College",
+    "category": "Education and Development",
+    "name": "Early Childhood Development",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 2,
+    "credits": null,
+    "campus": "Thabazimbi Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 40 },
+        { "subject": "Mathematical Literacy", "min_mark": 40 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9-11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9-11 with English 40% and Maths/Maths Literacy 40%. No NCV Level 4 students allowed."
+    },
+    "level": "Occupational",
+    "next_level": null
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Health Sciences",
+    "name": "Primary Health",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Business Studies Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": [
+        {
+          "subjects": ["Life Sciences", "Physical Sciences", "Natural Science"],
+          "min_mark": 0
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Life Sciences/Physical/Natural Science as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Primary Health Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Safety Studies",
+    "name": "Safety in Society",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Business Studies Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": [
+        {
+          "subjects": ["Physical Sciences", "Natural Science"],
+          "min_mark": 0
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Physical Sciences/Natural Science as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Safety in Society Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Masonry)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Engineering and Skills Training Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Masonry) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Engineering Studies",
+    "name": "Civil Engineering and Building Construction (Plumbing)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Engineering and Skills Training Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction (Plumbing) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Engineering and Skills Training Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science (Robotics)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Engineering and Skills Training Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": [
+        {
+          "subjects": ["Physical Science", "Natural Science", "CAT"],
+          "min_mark": 0
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics AND Physical Science/Natural Science/CAT as school subjects"
+    },
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science (Robotics) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science (Software Development and Design)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "IT and Computer Science Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": [
+        {
+          "subjects": ["Physical Science", "Natural Science", "CAT"],
+          "min_mark": 0
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics AND Physical Science/Natural Science/CAT as school subjects"
+    },
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science (Software Development and Design) Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Agriculture",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "IT and Computer Science Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematical Literacy as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Agriculture",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "IT and Computer Science Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "IT and Computer Science Centre",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": [
+        {
+          "subjects": ["Tourism", "Geography"],
+          "min_mark": 0
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Tourism or Geography as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Thabazimbi Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Waterberg TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting and Turning)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Thabazimbi Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "English", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or equivalent qualification; with Mathematics as school subject"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design (Fitting and Turning) Level 3"
+  }
+]
