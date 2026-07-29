@@ -1,0 +1,96 @@
+{
+  "traditional_universities": [
+    {
+      "name": "University of Cape Town",
+      "short_name": "UCT"
+    },
+    {
+      "name": "University of Fort Hare",
+      "short_name": "UFH"
+    },
+    {
+      "name": "University of the Free State",
+      "short_name": "UFS"
+    },
+    {
+      "name": "University of Limpopo",
+      "short_name": "UL"
+    },
+    {
+      "name": "North-West University",
+      "short_name": "NWU"
+    },
+    {
+      "name": "University of Pretoria",
+      "short_name": "UP"
+    },
+    {
+      "name": "Rhodes University",
+      "short_name": "RU"
+    },
+    {
+      "name": "Sefako Makgatho Health Sciences University",
+      "short_name": "SMU"
+    },
+    {
+      "name": "Stellenbosch University",
+      "short_name": "SU"
+    },
+    {
+      "name": "University of the Western Cape",
+      "short_name": "UWC"
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "short_name": "Wits"
+    }
+  ],
+  "comprehensive_universities": [
+    {
+      "name": "University of Johannesburg",
+      "short_name": "UJ"
+    },
+    {
+      "name": "Nelson Mandela University",
+      "short_name": "NMU"
+    },
+    {
+      "name": "University of South Africa",
+      "short_name": "UNISA"
+    },
+    {
+      "name": "University of Venda",
+      "short_name": "Univen"
+    },
+    {
+      "name": "Walter Sisulu University",
+      "short_name": "WSU"
+    }
+  ],
+  "universities_of_technology": [
+    {
+      "name": "Cape Peninsula University of Technology",
+      "short_name": "CPUT"
+    },
+    {
+      "name": "Central University of Technology",
+      "short_name": "CUT"
+    },
+    {
+      "name": "University of Mpumalanga",
+      "short_name": "UMP"
+    },
+    {
+      "name": "Sol Plaatje University",
+      "short_name": "SPU"
+    },
+    {
+      "name": "Tshwane University of Technology",
+      "short_name": "TUT"
+    },
+    {
+      "name": "Vaal University of Technology",
+      "short_name": "VUT"
+    }
+  ]
+}
