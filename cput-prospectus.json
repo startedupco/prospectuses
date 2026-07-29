@@ -1,0 +1,1956 @@
+[
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Agriculture (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5). Life Sciences or Physical Sciences required."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Agriculture (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4). Life Sciences or Physical Sciences required. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Agricultural Management (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5) or Mathematical Literacy (6). Life Sciences or Physical Sciences required."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Agricultural Management (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4) or Mathematical Literacy (5). Life Sciences or Physical Sciences required. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Analytical Chemistry (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5). 45% or above in Mathematics or Physical Sciences if the other one is 50% or above."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Analytical Chemistry (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4). 45% or above in Mathematics or Physical Sciences if the other one is 50% or above. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Biotechnology (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5). 45% or above in Mathematics or Physical Sciences or Life Sciences if the other three are 50% or above."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Biotechnology (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4). 45% or above in Mathematics or Physical Sciences or Life Sciences if the other three are 50% or above. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Consumer Science: Food & Nutrition (Mainstream)",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4). 45% or above in Mathematics or Physical Sciences if the other three are 50% and above."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Consumer Science: Food & Nutrition (ECP)",
+    "duration": "4 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 3 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (3). 45% or above in Mathematics or Physical Sciences if the other three are 50% and above. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Environmental Management (Mainstream)",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Geography or Life Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 },
+        { "name": "Any other subject (excluding Life Orientation)", "level": 3 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4) or Mathematical Literacy (5). 50% (4) for Geography or Life Sciences; and any other 2 subjects at 40% (3) except Life Orientation."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Environmental Management (ECP)",
+    "duration": "4 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Geography or Life Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Any other subject (excluding Life Orientation)", "level": 3 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (3) or Mathematical Literacy (4). 50% (4) for Geography or Life Sciences; and any other 2 subjects at 40% (3) except Life Orientation. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Bachelor of Environmental Health (Mainstream)",
+    "duration": "4 years",
+    "aps": 32,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Any other two subjects (excluding Life Orientation)", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5). Plus any other two subjects (4) except Life Orientation."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Bachelor of Environmental Health (ECP)",
+    "duration": "5 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Any other two subjects (excluding Life Orientation)", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4). Plus any other two subjects (4) except Life Orientation. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Bachelor of Food Science & Technology (Mainstream)",
+    "duration": "4 years",
+    "aps": 32,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 5 },
+        { "name": "Life Sciences", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 },
+        { "name": "Any two other subjects (excluding languages)", "level": 3 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5). Plus any two other subjects (excl. languages) – each at a minimum of a Level 3 pass (40–49%) (corresponding with an APS of 4)."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Marine Science (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5). 45% or above in Mathematics or Physical Sciences if the other one is 50% or above."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Marine Science (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4). 45% or above in Mathematics or Physical Sciences if the other one is 50% or above. Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Nature Conservation (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5) or Mathematical Literacy (6)."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Nature Conservation (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4) or Mathematical Literacy (5). Subject to space."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Horticulture (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5) or Mathematical Literacy (6). Subject to space, students may be admitted to the Foundation Programme if they have at least 40% (3) for Life Sciences."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Horticulture (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4) or Mathematical Literacy (5). Subject to space, students may be admitted to the Foundation Programme if they have at least 40% (3) for Life Sciences."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Landscape Architecture (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 5 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (5) or Mathematical Literacy (6). Subject to space, students may be admitted to the Foundation Programme if they have at least 40% (3) for Life Sciences."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Landscape Architecture (ECP)",
+    "duration": "4 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (4) or Mathematical Literacy (5). Subject to space, students may be admitted to the Foundation Programme if they have at least 40% (3) for Life Sciences."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Mathematical Sciences (Mainstream)",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Accounting", "level": 4 },
+        { "name": "Business Studies", "level": 4 },
+        { "name": "Economics", "level": 4 },
+        { "name": "Geography", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (4). 40% or above in Physical Sciences (3); or Accounting (3); or Business Studies (3); or Economics (3); or Geography (3)."
+  },
+  {
+    "faculty": "Applied Sciences",
+    "programme": "Diploma in Mathematical Sciences (ECP)",
+    "duration": "4 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Accounting", "level": 4 },
+        { "name": "Business Studies", "level": 4 },
+        { "name": "Economics", "level": 4 },
+        { "name": "Geography", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (3). 40% or above in Physical Sciences (3); or Accounting (3); or Business Studies (3); or Economics (3); or Geography (3). Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Accountancy",
+    "duration": "3 years",
+    "aps": 38,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 },
+        { "name": "Accounting", "level": 4 }
+      ]
+    },
+    "notes": "One of: Mathematics(3), Mathematical Literacy(5) or Accounting(4). For each of the subjects Mathematics (excl. Mathematical Literacy) and Accounting, the actual achievement is multiplied by 2."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Accountancy (Extended)",
+    "duration": "4 years",
+    "aps": 35,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Accounting", "level": 3 }
+      ]
+    },
+    "notes": "One of: Mathematics(3), Mathematical Literacy(4) or Accounting(3). For each of the subjects Mathematics (excl. Mathematical Literacy) and Accounting, the actual achievement is multiplied by 2."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Entrepreneurship",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Business Studies or Economics or Accounting or Consumer Studies", "level": 4 }
+      ]
+    },
+    "notes": "Applicants with Technical Mathematics at level 5 (60%) would be considered."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Entrepreneurship (Extended)",
+    "duration": "4 years",
+    "aps": 22,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Business Studies or Economics or Accounting or Consumer Studies", "level": 3 }
+      ]
+    },
+    "notes": "Applicants with Technical Mathematics at level 4 (50%) would be considered. Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Banking",
+    "duration": "3 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Information and Communication Technology or Accounting or Economics or Business Studies or Consumer Studies or Management Practice or Financial Management or Marketing", "level": 4 }
+      ]
+    },
+    "notes": "All part-time students must provide a letter of full-time employment, preferably in a banking environment."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Bachelor of Business Informatics",
+    "duration": "3 years",
+    "aps": 25,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "NCV applicable requirement: At least 60-69% in three fundamental subjects, including LoLT; at least 60% in four vocational subjects."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Human Resources Management",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Economics or Business Studies or Accounting", "level": 4 }
+      ]
+    },
+    "notes": "Part-time applicants must provide a letter of full-time employment, preferably in an HR environment."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Human Resources Management (Extended)",
+    "duration": "4 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Economics or Business Studies or Accounting", "level": 3 }
+      ]
+    },
+    "notes": "Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Management",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Economics or Business Studies or Accounting", "level": 4 }
+      ]
+    },
+    "notes": "Part-time applicants must provide a letter of full-time employment and preferably have relevant practical (supervisory, management) experience."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Management (Extended)",
+    "duration": "4 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Economics or Business Studies or Accounting", "level": 3 }
+      ]
+    },
+    "notes": "Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Marketing",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Business Studies or Accounting or Economics", "level": 4 }
+      ]
+    },
+    "notes": "Part-time applicants must be employed full-time and have relevant practical experience (i.e. marketing-related)."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Marketing (Extended)",
+    "duration": "4 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Business Studies or Accounting or Economics", "level": 3 }
+      ]
+    },
+    "notes": "Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Business & Information Administration",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Business Studies or Economics or Accounting or Computer Applications Technology or Information Technology", "level": 4 }
+      ]
+    },
+    "notes": "Part-time applicants must be employed (preferably in an administrative environment), submit CV, and a letter of employment."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Business & Information Administration (Extended)",
+    "duration": "4 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Business Studies or Economics or Accounting or Computer Applications Technology or Information Technology", "level": 3 }
+      ]
+    },
+    "notes": "Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Operations Management",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Public Administration",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Economics or Business Studies or Accounting", "level": 3 }
+      ]
+    },
+    "notes": "Part-time applicants should preferably be employed full-time in the public sector environment."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Public Administration (Extended)",
+    "duration": "4 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Economics or Business Studies or Accounting", "level": 2 }
+      ]
+    },
+    "notes": "Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Retail Business Management",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "An NSC with at least three years relevant retail experience will also be considered."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Tourism Management",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Tourism or Economics or Hospitality Studies or Business Studies or Accounting or Consumer Studies or History or Geography", "level": 4 }
+      ]
+    },
+    "notes": "Applicants must submit a motivation letter detailing their reasons for applying and indicating their understanding of the industry."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Tourism Management (Extended)",
+    "duration": "4 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Tourism or Economics or Hospitality Studies or Business Studies or Accounting or Consumer Studies or History or Geography", "level": 3 }
+      ]
+    },
+    "notes": "Applicants must submit a motivation letter detailing their reasons for applying and indicating their understanding of the industry. Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Events Management",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Tourism or Economics or Hospitality Studies or Business Studies or Accounting or Computer Applications Technology or Information Technology", "level": 4 }
+      ]
+    },
+    "notes": "Applicants must submit a motivation letter detailing their reasons for applying and indicating their understanding of the industry."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Events Management (Extended)",
+    "duration": "4 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Tourism or Economics or Hospitality Studies or Business Studies or Accounting or Computer Applications Technology or Information Technology", "level": 3 }
+      ]
+    },
+    "notes": "Applicants must submit a motivation letter detailing their reasons for applying and indicating their understanding of the industry. Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Sport and Leisure Management",
+    "duration": "3 years",
+    "aps": 25,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Applicants are required to complete the form entitled 'Non-Academic Review Component for Sport Management'. Participation as a player, coach or administrator at international/national/provincial level will be a recommendation."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Sport and Leisure Management (Extended)",
+    "duration": "4 years",
+    "aps": 23,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": "Subject to space."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Hospitality and Hotel Management",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Accounting or Consumer Studies or Business Studies or Hospitality Studies or Life Sciences or Tourism", "level": 4 }
+      ]
+    },
+    "notes": "Work experience recommended. Informative one-on-one discussion or telephonic discussion with students to give an overview of the hospitality sector."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Hospitality and Food & Beverage Management",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Accounting or Consumer Studies or Business Studies or Hospitality Studies or Life Sciences or Tourism", "level": 4 }
+      ]
+    },
+    "notes": "Work experience recommended. Informative one-on-one discussion or telephonic discussion with students to give an overview of the hospitality sector."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Hospitality Management & Professional Cookery",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Accounting or Consumer Studies or Business Studies or Hospitality Studies or Life Sciences or Tourism", "level": 4 }
+      ]
+    },
+    "notes": "Work experience recommended. Informative one-on-one discussion or telephonic discussion with students to give an overview of the hospitality sector."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Diploma in Real Estate",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Economics or Business Studies or Accounting", "level": 4 }
+      ]
+    },
+    "notes": "Distance students: must be full-time employed and have relevant practical experience (real estate/property related)."
+  },
+  {
+    "faculty": "Business & Management Sciences",
+    "programme": "Bachelor of Paralegal Studies",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Another official language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Including one official language at level 4 (Excluding English)."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Foundation Phase Teaching",
+    "duration": "4 years",
+    "aps": 32,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Home Language (Afrikaans, English or isiXhosa)", "level": 4 },
+        { "name": "First Additional Language (Afrikaans, English or isiXhosa)", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "One of the languages must be the language of instruction. Due to limited spaces, admission is not guaranteed. Selection based on Grade 11 final results for provisional acceptance."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Intermediate Phase Teaching",
+    "duration": "4 years",
+    "aps": 32,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Home Language (Afrikaans, English or isiXhosa)", "level": 4 },
+        { "name": "First Additional Language (Afrikaans, English or isiXhosa)", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 },
+        { "name": "Dramatic Art", "level": 4 },
+        { "name": "Geography", "level": 4 },
+        { "name": "History", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Music", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Technology related subjects", "level": 4 },
+        { "name": "Visual Arts", "level": 4 }
+      ]
+    },
+    "notes": "One of the languages must be the language of instruction. Any 2/3 subjects (4). Due to limited spaces, admission is not guaranteed."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching",
+    "duration": "4 years",
+    "aps": 32,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Home Language (Afrikaans, English or isiXhosa)", "level": 4 },
+        { "name": "First Additional Language (Afrikaans, English or isiXhosa)", "level": 3 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Accounting", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Life Sciences", "level": 4 }
+      ]
+    },
+    "notes": "One of the languages must be the language of instruction. Students who wish to choose Mathematics, Mathematical Literacy, Accounting, Physical Sciences, or Life Sciences as electives must obtain at least (50%) in those subjects."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Diploma in Early Childhood Care and Education",
+    "duration": "Part-time",
+    "aps": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Currently only on Mowbray campus (Friday afternoons and Saturday mornings). Level 4 or 5 Early Childhood Diploma or matric with a diploma endorsement. Evidence of working in an early childhood centre (registered with the WCED) specifically working with children from birth to four."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Diploma in Grade R Teaching",
+    "duration": "Part-time",
+    "aps": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Currently offered part time both on the Mowbray and Wellington campuses. Matric with a diploma endorsement and/or an Early Childhood Diploma with Level 4 and/or 5. Evidence that they are working in a Grade R classroom at a registered WCED ECD centre or school."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Higher Certificate in Dental Assisting",
+    "duration": "1 year",
+    "aps": 25,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Life Sciences", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Health Sciences in Medical Laboratory Sciences (Mainstream)",
+    "duration": "4 years",
+    "aps": 38,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Health Sciences in Medical Laboratory Sciences (ECP)",
+    "duration": "5 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Consideration will be given for applicants with a level 3 (min 48%) in either Mathematics or Physical Sciences, subject to space availability."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Higher Certificate in Emergency Medical Care",
+    "duration": "1 year",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Life Sciences", "level": 6 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "As part of the selection for all EMS programmes you will be invited to a selection interview, medical, physical and environmental assessment. Mathematical Literacy (4) considered."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Diploma in Emergency Care",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Life Sciences", "level": 3 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "As part of the selection for all EMS programmes you will be invited to a selection interview, medical, physical and environmental assessment."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Emergency Medical Care (Mainstream)",
+    "duration": "4 years",
+    "aps": 35,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "As part of the selection for all EMS programmes you will be invited to a selection interview, medical, physical and environmental assessment."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Emergency Medical Care (ECP)",
+    "duration": "5 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "As part of the selection for all EMS programmes you will be invited to a selection interview, medical, physical and environmental assessment. Consideration for students with 47-49% for any one of the four subjects. Subject to space."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Diploma in Somatology",
+    "duration": "3 years",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "All students accepted for the Somatology course will be required to have received Hepatitis inoculation."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Nursing (Mainstream)",
+    "duration": "4 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "In addition to the application form, selected applicants will be invited for an online interview."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Nursing (ECP)",
+    "duration": "5 years",
+    "aps": 27,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "In addition to the application form, selected applicants will be invited for an online interview. Subject to space."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Health Sciences in Opticianry",
+    "duration": "4 years",
+    "aps": 32,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Science in Diagnostic Radiography",
+    "duration": "4 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "In addition to the application form, selected applicants will be invited for an online digital health screening questionnaire. Max 65 candidates/year."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Science in Diagnostic Ultrasound",
+    "duration": "4 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "In addition to the application form, selected applicants will be invited for an online digital health screening questionnaire. Max 12 candidates/year."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Science in Radiation Therapy",
+    "duration": "4 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "In addition to the application form, selected applicants will be invited for an online digital health screening questionnaire. Max 14 candidates/year."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Science in Nuclear Medicine Technology",
+    "duration": "4 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Life Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "In addition to the application form, selected applicants will be invited for an online digital health screening questionnaire. Max 7 candidates/year. Life Sciences and Physical Sciences are compulsory."
+  },
+  {
+    "faculty": "Health & Wellness Sciences",
+    "programme": "Bachelor of Health Sciences in Dental Technology",
+    "duration": "4 years",
+    "aps": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "The Department of Dental Sciences regrettably cannot accept applications for the BHSc in Dental Technology for the 2027 application cycle at this stage due to unresolved issues with the South African Dental Technology Council (SADTC)."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Architectural Technology (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Architectural Technology & Interior Design. Mathematics (4) or Technical Mathematics (4) or Mathematical Literacy (5)."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Architectural Technology (ECP)",
+    "duration": "4 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (3) or Mathematical Literacy (4). Subject to space."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Interior Design (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematics (4) or Technical Mathematics (4) or Mathematical Literacy (5)."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Interior Design (ECP)",
+    "duration": "4 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematics (3) or Technical Mathematics (3) or Mathematical Literacy (4). Subject to space."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Fashion",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics or Mathematical Literacy", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Visual Communication Design",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics or Mathematical Literacy", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Product Design",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics or Mathematical Literacy", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Jewellery Design & Manufacture",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics or Mathematical Literacy", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Film Production",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Photography",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Journalism",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Another Official Language (Home Language or First Additional Language) excluding English", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "APS with Mathematics: 28; with Mathematical Literacy: 30."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Public Relations & Communication",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Another Official Language (Home Language or First Additional Language) excluding English", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Technical Mathematics", "level": 3 }
+      ]
+    },
+    "notes": "APS with Mathematics: 28; with Mathematical Literacy: 30."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Applications Development",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 28; with Mathematical Literacy: 30."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Communication Networks",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 28; with Mathematical Literacy: 30."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Multimedia Applications",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 28; with Mathematical Literacy: 30."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Higher Certificate in Information and Communication Technology",
+    "duration": "1 year",
+    "aps": 24,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics or Technical Mathematics", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 24; with Mathematical Literacy: 26."
+  },
+  {
+    "faculty": "Informatics & Design",
+    "programme": "Diploma in Urban & Regional Planning",
+    "duration": "3 years",
+    "aps": 28,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Another Official Language (Home Language or First Additional Language) excluding English", "level": 4 },
+        { "name": "Geography or Economics or Business Studies or Tourism", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 28; with Mathematical Literacy: 30. Compulsory: Geography (4) or Economics (4) or Business Studies (4) or Tourism (4)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Chemical Engineering (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematics (N4) – 60%; Engineering Science (N4) – 60%. English (5) (60–69%); Mathematics (5) (60–69%); Engineering Science (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Chemical Engineering (ECP)",
+    "duration": "4 years",
+    "aps": 27,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "ECP waitlist: 23-26. Mathematics (N4) – 60%; Engineering Science (N4) – 60%. English (5) (60–69%); Mathematics (5) (60–69%); Engineering Science (3) with 60%. Subject to space."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Engineering Technology in Chemical Engineering",
+    "duration": "4 years",
+    "aps": 36,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematics (N4) – 60%; Engineering Science (N4) – 60%. English (5) (60–69%); Mathematics (5) (60–69%); Physical Sciences (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Civil Engineering (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematics (N4) – 60%; Engineering Science (N4) – 60%. English (5) (60–69%); Mathematics (5) (60–69%); Engineering Science (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Civil Engineering (ECP)",
+    "duration": "4 years",
+    "aps": 27,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "ECP waitlist: 23-26. Mathematics (N4) – 60%; Engineering Science (N4) – 60%. English (5) (60–69%); Mathematics (5) (60–69%); Engineering Science (3) with 60%. Subject to space."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Engineering Technology in Civil Engineering",
+    "duration": "4 years",
+    "aps": 36,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematics (N4) – 60%; Engineering Science (N4) – 60%. English (5) (60–69%); Mathematics (5) (60–69%); Engineering Science (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Geomatics",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": ""
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Geomatics",
+    "duration": "4 years",
+    "aps": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Information not fully specified in the provided text."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Construction",
+    "duration": "3 years",
+    "aps": 25,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Accounting", "level": 3 },
+        { "name": "Business Studies", "level": 3 },
+        { "name": "Economics", "level": 3 },
+        { "name": "Civil Technology", "level": 3 },
+        { "name": "Engineering Graphics and Design", "level": 3 },
+        { "name": "Computer Applications Technology", "level": 3 },
+        { "name": "Information Technology", "level": 3 },
+        { "name": "Physical Sciences", "level": 3 },
+        { "name": "Technical Sciences", "level": 3 }
+      ]
+    },
+    "notes": "ECP waitlist: 23-24. Recommended: any of the following: Accounting (3), Business Studies (3), Economics (3), Civil Technology (3), Engineering Graphics and Design (3), Computer Applications Technology (3), Information Technology (3), Physical Sciences (3), Technical Sciences (3). Mathematics (N4) – 60%; English (5) (60–69%); Mathematics (5) (60–69%)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Clothing & Textile Technology",
+    "duration": "3 years",
+    "aps": 26,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 26; with Mathematical Literacy: 28. Online selection test. Mathematics (N4) – 50%; Clothing Production (N4) – 60%. English (5) (60–69%); Mathematical Literacy (5) (60-69%) or Mathematics (3) (40-49%)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Engineering Technology in Electrical Engineering (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences or Electrical Technology", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Computer Applications Technology", "level": 4 },
+        { "name": "Information Technology", "level": 4 },
+        { "name": "Electronics", "level": 4 }
+      ]
+    },
+    "notes": "Mathematics (N4) – 60%; Engineering Science (N4) – 60%; Electrotechnics (N4) 60%; Digital Electronics (N4) 60%. English (5) (60–69%), Mathematics (5) (60–69%). At least 3 of: Engineering Science (3) with 60%, Electrical Principles and Practice (3) with 60%, Electronic Control and Digital Electronics (3) with 60%, Electrical Workmanship (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Engineering Technology in Electrical Engineering (ECP)",
+    "duration": "4 years",
+    "aps": 27,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences or Electrical Technology", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Computer Applications Technology", "level": 4 },
+        { "name": "Information Technology", "level": 4 },
+        { "name": "Electronics", "level": 4 }
+      ]
+    },
+    "notes": "ECP waitlist: 23-26. Same requirements as mainstream. Subject to space."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Engineering Technology in Computer Engineering (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences or Electrical Technology", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Computer Applications Technology", "level": 4 },
+        { "name": "Information Technology", "level": 4 },
+        { "name": "Electronics", "level": 4 }
+      ]
+    },
+    "notes": "Same requirements as Electrical Engineering."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Engineering Technology in Computer Engineering (ECP)",
+    "duration": "4 years",
+    "aps": 27,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences or Electrical Technology", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Computer Applications Technology", "level": 4 },
+        { "name": "Information Technology", "level": 4 },
+        { "name": "Electronics", "level": 4 }
+      ]
+    },
+    "notes": "ECP waitlist: 23-26. Same requirements as mainstream. Subject to space."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Engineering Technology in Electrical Engineering",
+    "duration": "4 years",
+    "aps": 36,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Engineering Science or Physical Sciences or Electrical Technology", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Computer Applications Technology", "level": 5 },
+        { "name": "Information Technology", "level": 5 },
+        { "name": "Electronics", "level": 5 }
+      ]
+    },
+    "notes": "Mathematics (N4) – 60%; Engineering Science (N4) – 60%; Electrotechnics (N4) 60%; Digital Electronics (N4) 60%. English (5) (60–69%), Mathematics (5) (60–69%). At least 3 of: Engineering Science (3) with 60%, Electrical Principles and Practice (3) with 60%, Electronic Control and Digital Electronics (3) with 60%, Electrical Workmanship (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Engineering Technology in Computer Engineering",
+    "duration": "4 years",
+    "aps": 36,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Engineering Science or Physical Sciences or Electrical Technology", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Computer Applications Technology", "level": 5 },
+        { "name": "Information Technology", "level": 5 },
+        { "name": "Electronics", "level": 5 }
+      ]
+    },
+    "notes": "Same requirements as BEng Tech Electrical Engineering."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Industrial Engineering (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mechanical Technology", "level": 3 }
+      ]
+    },
+    "notes": "English (N4) - 60%; Mathematics (N4) - 60%; Engineering Science (N4) - 60%. English (5) (60–69%); Mathematics (5) (60–69%); Engineering Science (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Industrial Engineering (ECP)",
+    "duration": "4 years",
+    "aps": 27,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mechanical Technology", "level": 3 }
+      ]
+    },
+    "notes": "ECP waitlist: 23-26. Same requirements as mainstream. Subject to space."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Mechanical Engineering (Mainstream)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Electrical Technology", "level": 3 },
+        { "name": "Engineering Graphics and Design", "level": 3 },
+        { "name": "Mechanical Technology", "level": 3 }
+      ]
+    },
+    "notes": "English (N4) - 60%; Mathematics (N4) - 60%; Engineering Science (N4) - 60%. English (5) (60–69%); Mathematics (5) (60–69%); Engineering Science (3) with 60%."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Mechanical Engineering (ECP)",
+    "duration": "4 years",
+    "aps": 27,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Electrical Technology", "level": 3 },
+        { "name": "Engineering Graphics and Design", "level": 3 },
+        { "name": "Mechanical Technology", "level": 3 }
+      ]
+    },
+    "notes": "ECP waitlist: 23-26. Same requirements as mainstream. Subject to space."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Diploma in Mechanical Engineering (Mechatronics)",
+    "duration": "3 years",
+    "aps": 30,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Engineering Science or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Electrical Technology", "level": 4 },
+        { "name": "Engineering Graphics and Design", "level": 4 },
+        { "name": "Mechanical Technology", "level": 4 }
+      ]
+    },
+    "notes": "English (N4) - 60%; Mathematics (N4) - 60%; Engineering Science (N4) - 60%. English (5) (60–69%), Mathematics (5) (60–69%), Engineering Science (3) with 60%. Recommended: Electrical Technology (3) (50–69%), Mechatronic Systems (3) (50–69%)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Marine Engineering (Mainstream)",
+    "duration": "4 years",
+    "aps": 36,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Eyesight and Medical at approved SAMSA Medical Practitioner. Mathematics (N4) - 70%; Physical Sciences (N4) - 70%; English (4); Mathematics (6); Physical Sciences (4)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Marine Engineering (ECP)",
+    "duration": "5 years",
+    "aps": 31,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "ECP waitlist: 28-30. Mathematics (N4) - 60%; Physical Sciences (N4) - 60%; English (5); Mathematics (5); Physical Sciences (3). Subject to space."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Nautical Science (Mainstream)",
+    "duration": "4 years",
+    "aps": 36,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Eyesight and Medical at approved SAMSA Medical Practitioner."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Nautical Science (ECP)",
+    "duration": "5 years",
+    "aps": 31,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "ECP waitlist: 28-30. Subject to space."
+  }
+]
