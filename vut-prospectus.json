@@ -1,0 +1,1036 @@
+[
+  {
+    "faculty": "Applied and Physical Sciences",
+    "programme": "Diploma in Analytical Chemistry",
+    "code": "DAC",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Engineering Mathematics (N4)", "level": "4 (or 60% for N4)", "percentage_range": "50-59% (or 60% for N4)" },
+          { "name": "Physical Science OR Engineering Sciences (N4)", "level": "4 (or 60% for N4)", "percentage_range": "50-59% (or 60% for N4)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Diploma or Bachelor's degree. Any other 3 subjects count towards APS. Enquiries: Dineo Mohapi (dineos@vut.ac.za, 016-950-9471)."
+  },
+  {
+    "faculty": "Applied and Physical Sciences",
+    "programme": "Diploma in Agricultural Management (Mathematics Route)",
+    "code": "DAM-M",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Agriculture OR Life Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Diploma or Bachelor's degree. Recommended: Business Studies, Economics, Computer Studies, Geography. Enquiries: Dineo Mohapi."
+  },
+  {
+    "faculty": "Applied and Physical Sciences",
+    "programme": "Diploma in Agricultural Management (Mathematical Literacy Route)",
+    "code": "DAM-L",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Agriculture OR Life Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Diploma or Bachelor's degree. Recommended: Business Studies, Economics, Computer Studies, Geography. Enquiries: Dineo Mohapi."
+  },
+  {
+    "faculty": "Applied and Physical Sciences",
+    "programme": "Diploma in Biotechnology",
+    "code": "DBT",
+    "duration_years": 3,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Engineering Mathematics (N4)", "level": "4 (or 60% for N4)", "percentage_range": "50-59% (or 60% for N4)" },
+          { "name": "Physical Science OR Engineering Sciences (N4)", "level": "4 (or 60% for N4)", "percentage_range": "50-59% (or 60% for N4)" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Diploma or Bachelor's degree. Enquiries: Maluna Ntsoereng (malunan@vut.ac.za, 016-950-6685)."
+  },
+  {
+    "faculty": "Applied and Physical Sciences",
+    "programme": "Diploma in Non-Destructive Testing",
+    "code": "DNDT",
+    "duration_years": 3,
+    "aps": 19,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Science OR Technical Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Enquiries: Maluna Ntsoereng."
+  },
+  {
+    "faculty": "Computer Sciences",
+    "programme": "Diploma in Information Technology (Mathematics Route)",
+    "code": "DIT-M",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": [
+          { "name": "Any other 4 subjects (excluding LO)", "level": null, "percentage_range": null }
+        ]
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Max 6 subjects for APS calculation. Enquiries: Sheila Kabi (sheilak@vut.ac.za, 016-950-9478). Extended IT available (APS 24/26)."
+  },
+  {
+    "faculty": "Computer Sciences",
+    "programme": "Diploma in Information Technology (Mathematical Literacy Route)",
+    "code": "DIT-L",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": [
+          { "name": "Any other 4 subjects (excluding LO)", "level": null, "percentage_range": null }
+        ]
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Max 6 subjects for APS calculation. Enquiries: Sheila Kabi. Extended IT available (APS 24/26)."
+  },
+  {
+    "faculty": "Computer Sciences",
+    "programme": "Extended Diploma in Information Technology (Mathematics Route)",
+    "code": "DITE-M",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": [
+          { "name": "Any other 4 subjects (excluding LO)", "level": null, "percentage_range": null }
+        ]
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Max 6 subjects for APS calculation. Enquiries: Sheila Kabi."
+  },
+  {
+    "faculty": "Computer Sciences",
+    "programme": "Extended Diploma in Information Technology (Mathematical Literacy Route)",
+    "code": "DITE-L",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": [
+          { "name": "Any other 4 subjects (excluding LO)", "level": null, "percentage_range": null }
+        ]
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Max 6 subjects for APS calculation. Enquiries: Sheila Kabi."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Financial Information Systems (Mathematics Route)",
+    "code": "DFIS-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Accounting", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Maria Mpondo (mariamp@vut.ac.za, 016-950-9217)."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Financial Information Systems (Mathematical Literacy Route)",
+    "code": "DFIS-L",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Accounting", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Maria Mpondo."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Cost and Management Accounting (Mathematics Route)",
+    "code": "DCMA-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Accounting", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Maria Mpondo."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Cost and Management Accounting (Mathematical Literacy Route)",
+    "code": "DCMA-L",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Accounting", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Maria Mpondo."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Internal Auditing (Mathematics Route)",
+    "code": "DIA-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Accounting", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Maria Mpondo."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Internal Auditing (Mathematical Literacy Route)",
+    "code": "DIA-L",
+    "duration_years": 3,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Accounting", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Maria Mpondo."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Human Resources Management (Mathematics Route)",
+    "code": "DHRM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Esther Mokoena (motsekuwam@vut.ac.za, 016-950-9366)."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Human Resources Management (Mathematical Literacy Route)",
+    "code": "DHRM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Esther Mokoena."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Logistics and Supply Chain Management (Mathematics Route)",
+    "code": "DLSCM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Queen Dhlamini (queend@vut.ac.za, 016-950-6762)."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Logistics and Supply Chain Management (Mathematical Literacy Route)",
+    "code": "DLSCM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Queen Dhlamini."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Marketing Management (Mathematics Route)",
+    "code": "DMM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Benjamin Letebele (benjaminl@vut.ac.za, 016-950-6877)."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Marketing Management (Mathematical Literacy Route)",
+    "code": "DMM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Benjamin Letebele."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Retail Business Management (Mathematics Route)",
+    "code": "DRBM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Benjamin Letebele."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Retail Business Management (Mathematical Literacy Route)",
+    "code": "DRBM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Benjamin Letebele."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Sport Management (Mathematics Route)",
+    "code": "DSM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Benjamin Letebele."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Sport Management (Mathematical Literacy Route)",
+    "code": "DSM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "One other subject", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma or Degree. Enquiries: Benjamin Letebele."
+  },
+  {
+    "faculty": "Applied and Physical Sciences",
+    "programme": "Diploma in Environmental Science",
+    "code": "DES",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Enquiries: Maluna Ntsoereng."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Health Sciences in Medical Laboratory Science",
+    "code": "BHScMLS",
+    "duration_years": 4,
+    "aps": 27,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Science", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Bachelor's degree. Enquiries: VUT Student Contact Centre (086 186 1888, studentenquiries@vut.ac.za)."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Fashion Design (Mathematics Route)",
+    "code": "DFD-M",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "2", "percentage_range": "30-39%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Fashion Design (Mathematical Literacy Route)",
+    "code": "DFD-L",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Photography (Mathematics Route)",
+    "code": "DPH-M",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "2", "percentage_range": "30-39%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Photography (Mathematical Literacy Route)",
+    "code": "DPH-L",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Graphic Design (Mathematics Route)",
+    "code": "DGD-M",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "2", "percentage_range": "30-39%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Graphic Design (Mathematical Literacy Route)",
+    "code": "DGD-L",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Fine Art (Mathematics Route)",
+    "code": "DFA-M",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "2", "percentage_range": "30-39%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Fine Art (Mathematical Literacy Route)",
+    "code": "DFA-L",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Portfolio required during application process."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Food Service Management (Mathematics Route)",
+    "code": "DFSM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Hospitality OR Hotel OR Tourism OR Catering OR Accounting OR Business Studies OR Consumer Studies", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Chef uniforms compulsory."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Food Service Management (Mathematical Literacy Route)",
+    "code": "DFSM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Hospitality OR Hotel OR Tourism OR Catering OR Accounting OR Business Studies OR Consumer Studies", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Chef uniforms compulsory."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Public Relations Management (Mathematics Route)",
+    "code": "DPRM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Tourism OR Geography OR Business Studies OR History", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Public Relations Management (Mathematical Literacy Route)",
+    "code": "DPRM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Tourism OR Geography OR Business Studies OR History", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Tourism Management (Mathematics Route)",
+    "code": "DTM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Tourism OR Geography OR Business Studies OR History", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Tourism Management (Mathematical Literacy Route)",
+    "code": "DTM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Tourism OR Geography OR Business Studies OR History", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Ecotourism Management (Mathematics Route)",
+    "code": "DETM-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Biology OR Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Ecotourism Management (Mathematical Literacy Route)",
+    "code": "DETM-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Biology OR Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Labour Law (Mathematics Route)",
+    "code": "DLL-M",
+    "duration_years": 3,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Labour Law (Mathematical Literacy Route)",
+    "code": "DLL-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Legal Assistance (Mathematics Route)",
+    "code": "DLA-M",
+    "duration_years": 3,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Legal Assistance (Mathematical Literacy Route)",
+    "code": "DLA-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Safety Management (Mathematics Route)",
+    "code": "DSMgt-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Safety Management (Mathematical Literacy Route)",
+    "code": "DSMgt-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Policing (Mathematics Route)",
+    "code": "DPol-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Additional selection criteria: Practical interview and portfolio submission. Age exemption available for mature applicants (23+ with Grade 12) who are permanently employed in industry."
+  },
+  {
+    "faculty": "Human Sciences",
+    "programme": "Diploma in Policing (Mathematical Literacy Route)",
+    "code": "DPol-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": true,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Other Language", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Eligibility for Diploma. Matric certificate must indicate admission to Diploma. Additional selection criteria: Practical interview and portfolio submission. Age exemption available for mature applicants (23+ with Grade 12) who are permanently employed in industry."
+  },
+  {
+    "faculty": "Engineering and Technology",
+    "programme": "Diploma in Operations Management",
+    "code": "DOM",
+    "duration_years": 3,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September (Academic), 31 October (Residences)",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC endorsement: Not specified. Refer to the Faculty of Engineering & Technology for detailed admission requirements (Table 2 in the prospectus)."
+  }
+]

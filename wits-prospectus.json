@@ -1,0 +1,1188 @@
+[
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Commerce (General)",
+    "code": "CBA00",
+    "duration": "3 years",
+    "aps": 38,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 35–37 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Commerce (in the field of Accounting)",
+    "code": "CBA14",
+    "duration": "3 years",
+    "aps": 38,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 35–37 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Accounting Science (Chartered Accountant stream)",
+    "code": "CBA08",
+    "duration": "3 years",
+    "aps": 44,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 39–43 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Commerce (in the field of Law)",
+    "code": "CBA13",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 35–42, as well as English Level 6 and Mathematics Level 6, may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Economic Science",
+    "code": "CBA17",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 7 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 39–41 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Commerce (in the field of Financial Sciences)",
+    "code": "CBA18",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 7 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 39–41 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Commerce (in the field of Information Systems)",
+    "code": "CBA10",
+    "duration": "3 years",
+    "aps": 38,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 35–37 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Commerce (in the field of Politics, Philosophy and Economics)",
+    "code": "CBA12",
+    "duration": "3 years",
+    "aps": 38,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 35–37 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Laws (two-year stream)",
+    "code": "LFA12",
+    "duration": "2 years",
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Graduate entry: No matric APS calculation. Applicants must have completed a BA Law or BCom Law at Wits to be eligible for the two-year LLB."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Laws (three-year stream)",
+    "code": "LFA13",
+    "duration": "3 years",
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Graduate entry: No matric APS calculation. Applicants with an undergraduate degree (any field) with an average of at least 65% may apply."
+  },
+  {
+    "faculty": "Commerce, Law and Management",
+    "programme": "Bachelor of Laws (four-year stream)",
+    "code": "LFA14",
+    "duration": "4 years",
+    "aps": 46,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 6 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "Waitlisting: Applicants with APS 40–45, as well as English Level 6 AND Mathematics Level 5 OR Mathematical Literacy Level 6, may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Chemical Engineering)",
+    "code": "EFA00",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Metallurgy and Materials Engineering)",
+    "code": "EFA08",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Civil Engineering)",
+    "code": "EFA01",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Electrical Engineering)",
+    "code": "EFA03",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Information Engineering)",
+    "code": "EFA03",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Engineering Science in Biomedical Engineering",
+    "code": "EBA00",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Engineering Science in Digital Arts",
+    "code": "EBA01",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Mechanical Engineering)",
+    "code": "EFA05",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Industrial Engineering)",
+    "code": "EFA07",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Aeronautical Engineering)",
+    "code": "EFA06",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Engineering (Mining Engineering)",
+    "code": "EFA09",
+    "duration": "4 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with Level 5 in English, Mathematics and Physical Sciences may be wait-listed subject to place availability. Generally, applicants with Level 6 stand a greater chance."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Architectural Studies",
+    "code": "FBA00",
+    "duration": "3 years",
+    "aps": 34,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection includes a written and graphic exercise and possibly an interview. Applicants with APS 30–33 may be accepted on exceptional scores."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Urban and Regional Planning",
+    "code": "FBA05",
+    "duration": "3 years",
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–35 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Construction Studies",
+    "code": "FBA04",
+    "duration": "3 years",
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–35 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Science in Property Studies",
+    "code": "FBA07",
+    "duration": "3 years",
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–35 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Health Sciences in Biokinetics",
+    "code": "MBA05",
+    "duration": "3 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Life Sciences or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses a Composite Index (60% matric average, 40% NBT scores). All applicants must write the NBT. See prospectus for details."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Health Sciences in Biomedical Sciences",
+    "code": "MBA05",
+    "duration": "3 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Life Sciences or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses a Composite Index (60% matric average, 40% NBT scores). All applicants must write the NBT. See prospectus for details."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Health Sciences in Health Systems Sciences",
+    "code": "MBA05",
+    "duration": "3 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Life Sciences or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses a Composite Index (60% matric average, 40% NBT scores). All applicants must write the NBT. See prospectus for details."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Clinical Medical Practice",
+    "code": "MBA01",
+    "duration": "3 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematical Literacy", "level": 7 }
+      ]
+    },
+    "notes": "Selection uses a Composite Index (60% matric average, 40% NBT scores). All applicants must write the NBT. South African citizens only."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Dental Science",
+    "code": "MFA08",
+    "duration": "5 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses Composite Index. Requires job shadowing certificate (minimum 16 hours). NBT required."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Oral Health Sciences (Oral Hygiene)",
+    "code": "MBA04",
+    "duration": "3 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematical Literacy", "level": 7 }
+      ]
+    },
+    "notes": "Selection uses Composite Index. Requires job shadowing certificate (minimum 16 hours). NBT required."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Medicine and Bachelor of Surgery",
+    "code": "MFA00",
+    "duration": "6 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Life Sciences or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses Composite Index. NBT required. Also a Graduate Entry Medical Programme (GEMP) exists for degree holders."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Nursing",
+    "code": "MFA07",
+    "duration": "4 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses Composite Index. NBT required."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Science in Occupational Therapy",
+    "code": "MFA03",
+    "duration": "4 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Life Sciences or Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses Composite Index. Requires job shadowing certificate (minimum 16 hours). NBT required."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Pharmacy",
+    "code": "MFA04",
+    "duration": "4 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Life Sciences or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses Composite Index. NBT required."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Science in Physiotherapy",
+    "code": "MFA02",
+    "duration": "4 years",
+    "aps": null,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Life Sciences or Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection uses Composite Index. Requires job shadowing certificate (minimum 16 hours). NBT required. Graduate Entry Physiotherapy Programme available."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts (General)",
+    "code": "ABA00",
+    "duration": "3 years",
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–35 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts (Law)",
+    "code": "ABA02",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Waitlisting: Applicants with APS 40–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Digital Arts",
+    "code": "AFA11",
+    "duration": "4 years",
+    "aps": 36,
+    "selection": true,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–35 may be wait-listed subject to place availability. Additional selection: digital arts workshop or questionnaire."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Film and Television",
+    "code": "AFA10",
+    "duration": "4 years",
+    "aps": 34,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–33 may be wait-listed subject to place availability. Portfolio and interview required."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Fine Arts",
+    "code": "AFA01",
+    "duration": "4 years",
+    "aps": 34,
+    "selection": true,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–33 may be wait-listed subject to place availability. Portfolio required."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Music",
+    "code": "AFA02",
+    "duration": "4 years",
+    "aps": 34,
+    "selection": true,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–33 may be wait-listed subject to place availability. Audition and interview required."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Theatre and Performance",
+    "code": "AFA14",
+    "duration": "4 years",
+    "aps": 34,
+    "selection": true,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–33 may be wait-listed subject to place availability. Audition/interview required."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Education (Foundation Phase Teaching)",
+    "code": "HFA00",
+    "duration": "4 years",
+    "aps": 37,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 },
+        { "name": "Technical Mathematics", "level": 5 }
+      ]
+    },
+    "notes": "Waitlisting: Applicants with APS 34–36 may be wait-listed subject to place availability. Preference to higher English results."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Education (Intermediate Phase Teaching)",
+    "code": "HFA01",
+    "duration": "4 years",
+    "aps": 37,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 5 },
+        { "name": "Technical Mathematics", "level": 5 }
+      ]
+    },
+    "notes": "Waitlisting: Applicants with APS 34–36 may be wait-listed subject to place availability. Preference to higher English results."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Education (Senior Phase and FET Teaching)",
+    "code": "HFA02",
+    "duration": "4 years",
+    "aps": 37,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 31–36 may be wait-listed subject to place availability. Preference to higher English results."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Audiology",
+    "code": "AFA13",
+    "duration": "4 years",
+    "aps": 34,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–33 may be wait-listed subject to place availability. Only 30 places. NBT required. Observation recommended."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Speech-Language Pathology",
+    "code": "AFA12",
+    "duration": "4 years",
+    "aps": 34,
+    "selection": true,
+    "closing_date": "30 June",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 30–33 may be wait-listed subject to place availability. Only 30 places. NBT required. Observation recommended."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Work",
+    "code": "AFA04",
+    "duration": "4 years",
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 34–35 may be wait-listed subject to place availability. Only 60 places."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Biological Sciences – Applied Ecology)",
+    "code": "SBA11",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Biological Sciences – Biodiversity)",
+    "code": "SBA11",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Biological Sciences – Applied Bioinformatics)",
+    "code": "SBA11",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Biological Sciences – Biochemistry and Cell Biology)",
+    "code": "SBA11",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Biological Sciences – Genetics and Developmental Biology)",
+    "code": "SBA11",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Biological Sciences – Microbiology and Biotechnology)",
+    "code": "SBA11",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Geographical and Archaeological Sciences)",
+    "code": "SBA10",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–41 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Environmental Studies)",
+    "code": "SBA22",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–41 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Geospatial Sciences)",
+    "code": "SBA20",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–41 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Geological Sciences)",
+    "code": "SBA09",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–41 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Actuarial Science)",
+    "code": "SBA03",
+    "duration": "3 years",
+    "aps": 44,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 7 },
+        { "name": "Mathematics", "level": 7 },
+        { "name": "Physical Sciences", "level": 7 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with 44+ APS and English Level 6, Mathematics Level 7, Physical Sciences Level 7 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Computational and Applied Mathematics)",
+    "code": "SBA21",
+    "duration": "3 years",
+    "aps": 44,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–43 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Computer Science)",
+    "code": "SBA13",
+    "duration": "3 years",
+    "aps": 44,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 41–43 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Mathematical Sciences)",
+    "code": "SBA08",
+    "duration": "3 years",
+    "aps": 44,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 7 },
+        { "name": "Mathematics", "level": 7 },
+        { "name": "Physical Sciences", "level": 7 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with 44+ APS and English Level 6, Mathematics Level 7, Physical Sciences Level 7 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Physical Sciences – Chemistry)",
+    "code": "SBA12",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–41 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Chemistry with Chemical Engineering)",
+    "code": "SBA04",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 },
+        { "name": "Physical Sciences", "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Astronomy and Astrophysics)",
+    "code": "SBA15",
+    "duration": "3 years",
+    "aps": 43,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 },
+        { "name": "Physical Sciences", "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–42 may be wait-listed subject to place availability."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science (Physical Sciences – Physics)",
+    "code": "SBA12",
+    "duration": "3 years",
+    "aps": 42,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 6 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Waitlisting: Applicants with APS 40–41 may be wait-listed subject to place availability."
+  }
+]

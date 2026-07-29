@@ -1,0 +1,1269 @@
+[
+  {
+    "faculty": "AgriSciences",
+    "programme": "BAgric in Agribusiness Management",
+    "duration": "3 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BScAgric in Agricultural Economics",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BAgric in Agricultural Production and Management: Elsenburg",
+    "duration": "3 years",
+    "aggregator": 55,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50 },
+        { "name": "Mathematical Literacy", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Life Sciences", "percentage": 50 },
+        { "name": "Agricultural Sciences", "percentage": 50 }
+      ]
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BScAgric in Animal Production Systems",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BSc in Conservation Ecology",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "Bachelor of Data Science (BDatSci) – Statistical Genetics",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BSc in Food Science",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BScFor in Forestry and Natural Resources Sciences",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BScFor in Wood and Wood Products Sciences",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BScAgric in Plant and Soil Science",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BScAgric in Viticulture and Oenology",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "AgriSciences",
+    "programme": "BSc (Extended Curriculum Programme) – AgriSciences",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Combination 1: Mathematics between 55-59.9% AND Physical Sciences ≥ 50%. Combination 2: Mathematics ≥ 60% AND Physical Sciences between 45-49.9%. For BScFor Wood: Combination 1: Mathematics 60-69.9% AND Physical Sciences ≥ 60%. Combination 2: Mathematics ≥ 70% AND Physical Sciences 55-59.9%."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Humanities",
+    "duration": "3 years",
+    "aggregator": 63,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50 },
+        { "name": "Mathematical Literacy", "percentage": 70 }
+      ]
+    },
+    "notes": "Mathematics or Mathematical Literacy required if taking Organisational Informatics."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Language and Culture",
+    "duration": "3 years",
+    "aggregator": 63,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Development and the Environment",
+    "duration": "3 years",
+    "aggregator": 63,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 60 }
+      ]
+    },
+    "notes": "Mathematics required if taking Economics as a university subject."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Drama and Theatre Studies",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 60 },
+        { "name": "First Additional Language", "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Audition/interview required during August."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Human Resource Management",
+    "duration": "3 years",
+    "aggregator": 63,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50 },
+        { "name": "Mathematical Literacy", "percentage": 70 }
+      ]
+    }
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in International Studies",
+    "duration": "3 years",
+    "aggregator": 63,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 }
+      ]
+    }
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "Bachelor of Music (BMus)",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 70 }
+      ]
+    },
+    "notes": "Practical standard Grade VII, theory Grade V; audition required. Mathematics required if taking Mathematics as a university subject."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Music",
+    "duration": "3 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 70 }
+      ]
+    },
+    "notes": "Practical standard Grade VII, theory Grade V; audition required. Mathematics required if taking Mathematics as a university subject."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "Diploma in Practical Music",
+    "duration": "3 years",
+    "aggregator": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NSC with at least 40% in four subjects (excluding LO); practical Grade VII, theory Grade III/IV; audition required."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "Advanced Diploma in Practical Music",
+    "duration": "1 year",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 70 }
+      ]
+    },
+    "notes": "Practical Grade VII, theory Grade V; audition required. Mathematics required if taking Mathematics as a university subject. Requires Diploma in Practical Music or equivalent."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "Higher Certificate in Music",
+    "duration": "1 year",
+    "aggregator": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "NSC; practical Grade V/VI, theory Grade III/IV; audition required."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Political, Philosophical and Economic Studies (PPE)",
+    "duration": "3 years",
+    "aggregator": 63,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 },
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "Bachelor of Social Work",
+    "duration": "4 years",
+    "aggregator": 63,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "100 places available."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "BA in Visual Arts",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home Language", "percentage": 50 },
+        { "name": "First Additional Language", "percentage": 40 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Portfolio submission required by 1 September. 60 places available."
+  },
+  {
+    "faculty": "Arts and Social Sciences",
+    "programme": "Bachelor of Data Science (BDatSci) – Geoinformatics",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Diploma in Sustainable Development",
+    "duration": "3 years",
+    "aggregator": 55,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "Mathematics", "percentage": 50 },
+        { "name": "Mathematical Literacy", "percentage": 60 },
+        { "name": "Mathematics", "percentage": 40 },
+        { "name": "Mathematical Literacy", "percentage": 50 },
+        { "name": "Business Studies", "percentage": 60 },
+        { "name": "Economics", "percentage": 60 },
+        { "name": "Accounting", "percentage": 60 }
+      ]
+    },
+    "notes": "Combined score includes academic merit + interest/experiences in key areas."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Economic Sciences)",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    },
+    "notes": "Econometrics and Financial Sector focal areas require Mathematics 70% for Actuarial Science 112."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Management Sciences)",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Management Sciences) Extended Curriculum Programme",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    },
+    "notes": "Only South African citizens. No repeated Grade 12 subjects. No transferring applicants. ~100 places."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Mathematical Sciences)",
+    "duration": "3 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 75 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (International Business)",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 80 }
+      ]
+    },
+    "notes": "Strict selection programme; international exchange semester in third year."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Data Science (BDatSci) – Analytics and Optimisation",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Data Science (BDatSci) – Behavioural Economics",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Data Science (BDatSci) – Statistical Learning",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Actuarial Science)",
+    "duration": "3 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 },
+        { "name": "Home Language", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    },
+    "notes": "If Home Language is not English, English FAL 75% required."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Industrial Psychology)",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BAcc",
+    "duration": "3 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Accounting", "percentage": 70 },
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    },
+    "notes": "Mathematics 70% OR Mathematics 60% with Accounting 70%. Presented in English and Afrikaans."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Management Accounting)",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    }
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "BCom (Financial Accounting)",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    }
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd (Foundation Phase Education)",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "isiXhosa Home Language", "percentage": 60 },
+        { "name": "Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "English (HL or FAL)", "percentage": 50 },
+        { "name": "isiXhosa (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 40 },
+        { "name": "Mathematical Literacy", "percentage": 60 },
+        { "name": "Other Language", "percentage": 50 }
+      ]
+    },
+    "notes": "Language requirements depend on medium of instruction. Learners taught in English: English HL 60% OR Afrikaans/isiXhosa 50%. Learners taught in Afrikaans: Afrikaans HL 60% OR English/isiXhosa 50%. Learners taught in isiXhosa: isiXhosa HL 60% OR English/Afrikaans 50%. 125 places."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd (Intermediate Phase Education)",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "isiXhosa Home Language", "percentage": 60 },
+        { "name": "Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "English (HL or FAL)", "percentage": 50 },
+        { "name": "isiXhosa (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 40 },
+        { "name": "Mathematical Literacy", "percentage": 60 },
+        { "name": "Other Language", "percentage": 50 },
+        { "name": "Life Sciences", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "History", "percentage": 50 },
+        { "name": "Geography", "percentage": 50 }
+      ]
+    },
+    "notes": "Language requirements depend on medium of instruction. Natural Sciences (Ed): Life Sciences or Physical Sciences 50%. Social Sciences (Ed): History or Geography 50%. 125 places."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Postgraduate Certificate in Education (PGCE)",
+    "duration": "1 year",
+    "aggregator": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Entry: NQF level 7 degree with two teaching subjects. See Education yearbook for teaching module requirements."
+  },
+  {
+    "faculty": "Engineering",
+    "programme": "BEng (Chemical)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "English First Additional Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans Second Additional Language", "percentage": 60 }
+      ]
+    },
+    "notes": "Selection mark = Mathematics + Physical Sciences + (6 × Matric average). Selection mark of 600+ gives good chance. ECP available (5 years)."
+  },
+  {
+    "faculty": "Engineering",
+    "programme": "BEng (Civil)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "English First Additional Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans Second Additional Language", "percentage": 60 }
+      ]
+    }
+  },
+  {
+    "faculty": "Engineering",
+    "programme": "BEng (Electrical and Electronic)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "English First Additional Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans Second Additional Language", "percentage": 60 }
+      ]
+    }
+  },
+  {
+    "faculty": "Engineering",
+    "programme": "BEng (Electrical and Electronic) (Data Engineering)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "English First Additional Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans Second Additional Language", "percentage": 60 }
+      ]
+    }
+  },
+  {
+    "faculty": "Engineering",
+    "programme": "BEng (Industrial)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "English First Additional Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans Second Additional Language", "percentage": 60 }
+      ]
+    }
+  },
+  {
+    "faculty": "Engineering",
+    "programme": "BEng (Mechanical)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "English First Additional Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans Second Additional Language", "percentage": 60 }
+      ]
+    }
+  },
+  {
+    "faculty": "Engineering",
+    "programme": "BEng (Mechatronic)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 50 },
+        { "name": "English First Additional Language", "percentage": 60 },
+        { "name": "English First Additional Language", "percentage": 50 },
+        { "name": "Afrikaans Home Language", "percentage": 50 },
+        { "name": "Afrikaans Second Additional Language", "percentage": 60 }
+      ]
+    }
+  },
+  {
+    "faculty": "Law",
+    "programme": "LLB (four-year)",
+    "duration": "4 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 },
+        { "name": "Mathematics", "percentage": 60 }
+      ]
+    },
+    "notes": "NBTs AQL required before 31 July. 120 places. Mathematics required if taking Economics."
+  },
+  {
+    "faculty": "Law",
+    "programme": "LLB (three-year)",
+    "duration": "3 years",
+    "aggregator": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Second bachelor's degree only. Requires prior degree with ≥60% aggregate. 50 places."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BA (Law)",
+    "duration": "3 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 },
+        { "name": "Mathematics", "percentage": 60 }
+      ]
+    },
+    "notes": "NBTs AQL required before 31 July. 55 places. Mathematics required if taking Economics."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BCom (Law)",
+    "duration": "3 years",
+    "aggregator": 70,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 }
+      ]
+    },
+    "notes": "NBTs AQL and MAT required before 31 July. 80 places."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BAccLLB",
+    "duration": "5 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 70 },
+        { "name": "English First Additional Language", "percentage": 70 },
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Accounting", "percentage": 70 }
+      ]
+    },
+    "notes": "NBTs AQL and MAT required before 31 July. 35 places. Mathematics 70% OR Mathematics 60% with Accounting 70%."
+  },
+  {
+    "faculty": "Medicine and Health Sciences",
+    "programme": "MBChB",
+    "duration": "6 years",
+    "aggregator": 75,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Life Sciences", "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "~280 candidates selected annually."
+  },
+  {
+    "faculty": "Medicine and Health Sciences",
+    "programme": "Bachelor of Nursing",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Life Sciences", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40 },
+        { "name": "Mathematical Literacy", "percentage": 70 }
+      ]
+    },
+    "notes": "~50 candidates selected annually."
+  },
+  {
+    "faculty": "Medicine and Health Sciences",
+    "programme": "BSc in Dietetics",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Life Sciences", "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "~35 candidates selected annually."
+  },
+  {
+    "faculty": "Medicine and Health Sciences",
+    "programme": "Bachelor of Occupational Therapy",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50 },
+        { "name": "Life Sciences", "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "~50 candidates selected annually."
+  },
+  {
+    "faculty": "Medicine and Health Sciences",
+    "programme": "BSc in Physiotherapy",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "~55 candidates selected annually."
+  },
+  {
+    "faculty": "Medicine and Health Sciences",
+    "programme": "Bachelor of Speech-Language and Hearing Therapy",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Life Sciences", "percentage": 60 },
+        { "name": "English", "percentage": 60 },
+        { "name": "Afrikaans", "percentage": 60 },
+        { "name": "Third South African Language", "percentage": 60 }
+      ]
+    },
+    "notes": "~30 candidates selected annually. At least TWO of English, Afrikaans, or a third SA language at 60%. Physical Sciences 50% OR Life Sciences 60%."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Biodiversity and Ecology",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Human Life Sciences",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Mathematics", "percentage": 70 }
+      ]
+    },
+    "notes": "Mathematics 60% OR 70% depending on choice of first-year Mathematics and Physics."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Molecular Biology and Biotechnology",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Mathematics", "percentage": 70 }
+      ]
+    },
+    "notes": "Mathematics 60% OR 70% depending on choice of first-year Mathematics and Physics."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Sport Science",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 60 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Chemistry",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 70 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Earth Science",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Mathematics", "percentage": 70 }
+      ]
+    },
+    "notes": "Mathematics 60% OR 70% depending on choice of first-year Mathematics and Physics."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc GeoInformatics",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 60 },
+        { "name": "Mathematics", "percentage": 70 }
+      ]
+    },
+    "notes": "Mathematics 60% OR 70% if choosing Computer Science as a university subject."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physics",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 70 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 70 }
+      ],
+      "optional_any": [
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ]
+    },
+    "notes": "Physical Sciences required if taking Chemistry or Physics."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Computer Science",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 70 }
+      ],
+      "optional_any": [
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ]
+    },
+    "notes": "Physical Sciences required if taking Chemistry or Physics."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Interdisciplinary)",
+    "duration": "3 years",
+    "aggregator": 65,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (HL or FAL) or Afrikaans (HL or FAL)", "percentage": 50 },
+        { "name": "Mathematics", "percentage": 70 },
+        { "name": "Physical Sciences (Physics and Chemistry)", "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Data Science (BDatSci) – Computer Science",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Data Science (BDatSci) – Applied Mathematics",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Data Science (BDatSci) – Statistical Physics",
+    "duration": "4 years",
+    "aggregator": 80,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Afrikaans Home Language", "percentage": 60 },
+        { "name": "English Home Language", "percentage": 60 },
+        { "name": "Afrikaans First Additional Language", "percentage": 75 },
+        { "name": "English First Additional Language", "percentage": 75 }
+      ]
+    }
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Extended Curriculum Programme (ECP)",
+    "duration": "4 years",
+    "aggregator": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "For designated diversity groups and socio-economic categories. Foundational year followed by mainstream BSc curriculum."
+  },
+  {
+    "faculty": "Theology",
+    "programme": "BTh (Bachelor of Theology)",
+    "duration": "3 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Theology",
+    "programme": "BDiv (Bachelor of Divinity)",
+    "duration": "4 years",
+    "aggregator": 60,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Theology",
+    "programme": "BTh or BDiv Extended Curriculum Programme",
+    "duration": "+1 year",
+    "aggregator": 55,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "NSC aggregate 55% but below 60%. Interview with Dean required. Motivational letter from Church denomination/Minister required. Limited spaces."
+  }
+]

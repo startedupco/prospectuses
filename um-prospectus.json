@@ -1,0 +1,370 @@
+[
+  {
+    "faculty": "Not Specified",
+    "programme": "Higher Certificate in Event Management",
+    "code": null,
+    "duration": "1 year",
+    "aps": 19,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Technical Mathematics", "level": 4 }
+      ]
+    },
+    "notes": "Also requires any three Additional Vocational Subjects at Level 2. Diploma/Higher Certificate Endorsement required. APS 21 with Mathematical Literacy or Technical Mathematics. NCV level 4 with Business Studies, Hospitality Studies, and Tourism Discipline recommended."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Diploma in Hospitality Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Also requires One Additional Language and any other Four Subjects (levels not specified). Diploma Endorsement required. APS 25 with Mathematical Literacy."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Development Studies",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Geography or History", "level": null },
+        { "name": "One Other Social or Commercial Subject", "level": null },
+        { "name": "Physical Sciences or Life Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": "Geography/History and one other social/commercial subject required (levels not specified)."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Commerce (General)",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematical Literacy is not accepted."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Administration",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Second Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": "Students who wish to take Economics as an elective must have Mathematics at Level 4."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Arts (General)",
+    "code": null,
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Laws",
+    "code": null,
+    "duration": "4 years",
+    "aps": 33,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Bachelor Endorsement required. Selection occurs monthly; applicants who exceed minimum requirements receive conditional offers; those who meet requirements are placed on hold."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Diploma in Nature Conservation",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": "Recommended subjects: Life Sciences and Geography at Level 4. NCV level 4 in Primary Agriculture with specific requirements. Students considered monthly."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Higher Certificate in ICT in User Support",
+    "code": null,
+    "duration": "1 year",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other Three Content Subjects", "level": 2 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Diploma and/or Higher Certificate Endorsement required. APS 22 with Mathematical Literacy. NCV level 4 in Information Technology and/or Computer Science/Studies Discipline."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Diploma in Agriculture in Plant Production",
+    "code": null,
+    "duration": "3 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Agriculture or Geography or Life Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "APS 24 with Mathematical Literacy. NCV level 4 in Primary Agriculture with specific requirements."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Diploma in Animal Production",
+    "code": null,
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Physical Sciences", "level": 3 },
+        { "name": "Life Sciences or Agriculture", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "APS 27 with Mathematical Literacy. NCV level 4 in Primary Agriculture with specific requirements."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Science in Agriculture",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Sciences or Biology or Agriculture", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Any other Relevant Subjects", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Science in Forestry",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Two of Life Science, Agricultural Science or Geography", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NSC or IEB with Admission for Bachelor Pass required."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Agriculture in Agricultural Extension and Rural Resource Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Agriculture or Life Sciences", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "APS 28 with Mathematical Literacy."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Science in Environmental Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Two of Life Science, Physical Science or Geography", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "South African students with other examination boards and international students with similar scores considered. Students with a 360-credit Diploma in an appropriate field may be considered. Students considered monthly."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Science (General)",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Life Science or Physical Science or Geography", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "South African students with other examination boards and international students with similar scores considered. Students with a 360-credit Diploma in an appropriate field may be considered. Students considered monthly."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Diploma in ICT in Applications Development",
+    "code": null,
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "One Additional Language", "level": null },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires any other Four Modules (levels not specified). Diploma Endorsement required."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of ICT",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Bachelor Endorsement required. NCV level 4 with at least 60% for English, 60% for Mathematics and 70% in four vocational subjects relevant to IT. Students with a Higher Certificate or Diploma in relevant ICT may articulate into BICT."
+  },
+  {
+    "faculty": "Not Specified",
+    "programme": "Bachelor of Education in Foundation Phase Teaching",
+    "code": null,
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "APS 27 with Mathematical Literacy. Preliminary admission based on final Grade 11 results. APS calculated using prescribed seven subjects; Life Orientation divided by 2. If more than three electives, best three used."
+  }
+]

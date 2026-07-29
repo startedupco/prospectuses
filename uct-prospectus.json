@@ -1,0 +1,647 @@
+[
+  {
+    "faculty": "Commerce",
+    "programme": "Bachelor of Business Science",
+    "code": "BBusSc",
+    "duration": "4 years",
+    "aggregator": "435",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "Mathematics", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Upper Intermediate or above for AL & QL. Specialisations: Computer Science, Economics, Economics with Law, Finance, Investment and Banking, Finance with Accounting, Information Systems, Marketing, Organisational Psychology, Statistics and Data Science."
+  },
+  {
+    "faculty": "Commerce",
+    "programme": "Bachelor of Business Science (Actuarial Science)",
+    "code": "BBusSc",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 60 },
+        { "name": "Mathematics", "level": null, "percentage": 80 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Proficient for AL & QL. English FAL 80% accepted but require Proficient NBTs."
+  },
+  {
+    "faculty": "Commerce",
+    "programme": "Bachelor of Commerce",
+    "code": "BCom",
+    "duration": "3 years",
+    "aggregator": "435",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "Mathematics", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Upper Intermediate or above for AL & QL. Specialisations: Financial Accounting (General/Chartered), Economics with Law, Economics with Finance, Economics & Statistics, Information Systems, Information Systems & Computer Science, Information Systems & Finance, Management Studies, Philosophy Politics & Economics."
+  },
+  {
+    "faculty": "Commerce",
+    "programme": "Bachelor of Commerce (Actuarial Science)",
+    "code": "BCom",
+    "duration": "3 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 60 },
+        { "name": "Mathematics", "level": null, "percentage": 80 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Proficient for AL & QL. English FAL 80% accepted but require Proficient NBTs."
+  },
+  {
+    "faculty": "Commerce",
+    "programme": "Bachelor of Commerce (Computer Science)",
+    "code": "BCom",
+    "duration": "3 years",
+    "aggregator": "435",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "Mathematics", "level": null, "percentage": 70 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Upper Intermediate or above for AL & QL."
+  },
+  {
+    "faculty": "Commerce",
+    "programme": "Bachelor of Business Science (Quantitative Finance)",
+    "code": "BBusSc",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 60 },
+        { "name": "Mathematics", "level": null, "percentage": 80 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Proficient for AL & QL. English FAL 80% accepted but require Proficient NBTs."
+  },
+  {
+    "faculty": "Commerce",
+    "programme": "Bachelor of Commerce (Statistics and Data Science)",
+    "code": "BCom",
+    "duration": "3 years",
+    "aggregator": "435",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "Mathematics", "level": null, "percentage": 70 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Upper Intermediate or above for AL & QL."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "Bachelor of Architectural Studies",
+    "code": "BAS",
+    "duration": "3 years",
+    "aggregator": "450",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": 50 },
+        { "name": "Mathematics", "level": null, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Architecture Portfolio Score of 75% or above. NBTs in Mathematics, AL & QL to be written (results not taken into account for admission). All applicants must submit a written motivation and portfolio of creative work."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Engineering in Chemical Engineering",
+    "code": "BSc(Eng)",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 80 },
+        { "name": "Physical Sciences", "level": null, "percentage": 75 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Engineering in Civil Engineering",
+    "code": "BSc(Eng)",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 80 },
+        { "name": "Physical Sciences", "level": null, "percentage": 70 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Engineering in Electrical Engineering",
+    "code": "BSc(Eng)",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 80 },
+        { "name": "Physical Sciences", "level": null, "percentage": 75 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Engineering in Electrical and Computer Engineering",
+    "code": "BSc(Eng)",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 80 },
+        { "name": "Physical Sciences", "level": null, "percentage": 75 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Engineering in Mechanical Engineering",
+    "code": "BSc(Eng)",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 80 },
+        { "name": "Physical Sciences", "level": null, "percentage": 75 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Engineering in Mechanical and Mechatronic Engineering",
+    "code": "BSc(Eng)",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 80 },
+        { "name": "Physical Sciences", "level": null, "percentage": 75 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Engineering in Mechatronics",
+    "code": "BSc(Eng)",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 80 },
+        { "name": "Physical Sciences", "level": null, "percentage": 75 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Construction Studies",
+    "code": "BSc",
+    "duration": "3 years",
+    "aggregator": "450",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 65 },
+        { "name": "Physical Sciences", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Property Studies",
+    "code": "BSc",
+    "duration": "3 years",
+    "aggregator": "450",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 65 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Engineering & the Built Environment",
+    "programme": "BSc in Geomatics",
+    "code": "BSc",
+    "duration": "4 years",
+    "aggregator": "450",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null },
+        { "name": "Mathematics", "level": null, "percentage": 75 },
+        { "name": "Physical Sciences", "level": null, "percentage": 70 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission)."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Medicine & Bachelor of Surgery",
+    "code": "MBChB",
+    "duration": "6 years",
+    "aggregator": "810",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": 65 },
+        { "name": "Mathematics", "level": null, "percentage": 70 },
+        { "name": "Physical Sciences", "level": null, "percentage": 70 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Proficient for AL, QL and Mathematics. 240 places available. Only SADC applicants whose country does not offer a similar programme considered."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Occupational Therapy",
+    "code": "BSc",
+    "duration": "4 years",
+    "aggregator": "730",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": 65 },
+        { "name": "Physical Sciences or Life Sciences", "level": null, "percentage": 65 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": null, "percentage": 60 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": 70 }
+      ]
+    },
+    "notes": "NBT scores of Intermediate or above for AL, QL and Mathematics. 70 places available. SADC applicants considered."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Physiotherapy",
+    "code": "BSc",
+    "duration": "4 years",
+    "aggregator": "730",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": 65 },
+        { "name": "Mathematics", "level": null, "percentage": 60 },
+        { "name": "Physical Sciences or Life Sciences", "level": null, "percentage": 65 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Intermediate or above for AL, QL and Mathematics. 70 places available. SADC applicants considered."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Audiology",
+    "code": "BSc",
+    "duration": "4 years",
+    "aggregator": "720",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": 65 },
+        { "name": "Physical Sciences or Life Sciences", "level": null, "percentage": 65 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": null, "percentage": 60 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": 70 }
+      ]
+    },
+    "notes": "NBT scores of Intermediate or above for AL, QL and Mathematics. 37 places available. SADC applicants considered."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Speech-Language Pathology",
+    "code": "BSc",
+    "duration": "4 years",
+    "aggregator": "715",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": 65 },
+        { "name": "Physical Sciences or Life Sciences", "level": null, "percentage": 65 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": null, "percentage": 60 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": 70 }
+      ]
+    },
+    "notes": "NBT scores of Intermediate or above for AL, QL and Mathematics. 40 places available. SADC applicants considered."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Higher Certificate in Disability Practice",
+    "code": "HC",
+    "duration": "1 year",
+    "aggregator": null,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "NSC or approved HEQSF-level 4 qualification. NBT scores at Upper Intermediate to Proficient in AL and QL. 30 places available."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts",
+    "code": "BA",
+    "duration": "3 years",
+    "aggregator": "450",
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT AL: Proficient. Majors offered by departments in Arts and Social Sciences. Extended degree (4 years) available for SA applicants with potential."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Science",
+    "code": "BSocSc",
+    "duration": "3 years",
+    "aggregator": "450",
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT AL: Proficient. Majors offered by departments in Arts and Social Sciences."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Science in Philosophy, Politics and Economics",
+    "code": "BSocSc PPE",
+    "duration": "3 years",
+    "aggregator": "450",
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 },
+        { "name": "Mathematics", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT AL: Proficient. NBT QL: Upper Intermediate or above."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Work",
+    "code": "BSW",
+    "duration": "4 years",
+    "aggregator": "450",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT AL: Proficient. Applicants may be required to attend an admissions interview. 80 places available."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Fine Art",
+    "code": "BA(FA)",
+    "duration": "4 years",
+    "aggregator": "380",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT AL: Intermediate or above. Satisfactory performance in a portfolio evaluation. Leading indicator is portfolio submission."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Theatre & Performance",
+    "code": "BA(T&P)",
+    "duration": "4 years",
+    "aggregator": "380",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT AL: Intermediate or above. Satisfactory performance in an audition. Leading indicator is audition performance."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Music",
+    "code": "BMus",
+    "duration": "4 years",
+    "aggregator": "380",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "NSC Music", "level": null, "percentage": 60 },
+        { "name": "Unisa Music Theory Grade", "level": null, "percentage": null },
+        { "name": "Unisa Music Practical Grade", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "NBT AL: Intermediate or above. Satisfactory performance in an audition, interview and music theory test. Unisa Music Theory Grade V or above; Unisa Music Practical Grade VII or above."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Music Performance",
+    "code": "DMP",
+    "duration": "3 years",
+    "aggregator": null,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NSC endorsed for diploma studies. NBT AL: Intermediate or above. Satisfactory performance in an audition, interview and music theory test."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Theatre & Performance",
+    "code": "DTP",
+    "duration": "3 years",
+    "aggregator": null,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": 50 },
+        { "name": "English FAL", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NSC endorsed for diploma studies. NBT AL: Intermediate or above. Satisfactory performance in an audition."
+  },
+  {
+    "faculty": "Law",
+    "programme": "Bachelor of Laws (Undergraduate)",
+    "code": "LLB",
+    "duration": "4 years",
+    "aggregator": "500",
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English HL", "level": null, "percentage": null },
+        { "name": "English FAL", "level": null, "percentage": null }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBT scores of Proficient for AL and Intermediate or above for QL. No more than ten international applicants accepted."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BA/BSocSc with Law Major (Combined LLB)",
+    "code": "BA/BSocSc + LLB",
+    "duration": "5 years",
+    "aggregator": null,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Must meet Humanities admission requirements. Law major places offered competitively to candidates with highest results. Requires 65% GPA for Humanities students to be eligible for law major."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BCom with Law Major (Combined LLB)",
+    "code": "BCom + LLB",
+    "duration": "5 years",
+    "aggregator": null,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Must meet Commerce admission requirements. Law major places offered competitively. Requires 63% GPA for Commerce students to be eligible for law major."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science",
+    "code": "BSc",
+    "duration": "3 years",
+    "aggregator": "660",
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "level": null, "percentage": 70 },
+        { "name": "Physical Sciences", "level": null, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "NBTs in Mathematics, AL & QL to be written (results not taken into account for admission but used for Extended Degree Programme placement). Majors: Applied Mathematics, Applied Statistics, Archaeology, Artificial Intelligence, Astrophysics, Biology, Biochemistry, Chemistry, Computer Science, Computer Engineering, Business Computing, Environmental & Geographical Science, Genetics, Geology, Human Anatomy & Physiology, Marine Biology, Mathematics, Mathematical Statistics, Ocean & Atmosphere Science, Physics, Quantitative Biology, Statistics & Data Science."
+  }
+]

@@ -1,0 +1,4288 @@
+[
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Diploma in Coaching Science",
+    "code": "DIP-COACH",
+    "aps": 18,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 2 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Sport Coaching",
+    "code": "BHS-SPORT",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Sport Coaching and Human Movement Sciences",
+    "code": "BHS-HMS",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Recreation Science and Tourism Management",
+    "code": "BHS-REC",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Sport and Recreation Administration",
+    "code": "BHS-ADMIN",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Biokinetics",
+    "code": "BHS-BIOK",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Physical Sciences OR Life Sciences (4). Academic paper selection. Best average mark. Duration: 4 years. Students must be medically fit for the physical component."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Pharmacy",
+    "code": "BPHARM",
+    "aps": 32,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Life Sciences recommended. Academic paper selection. Best average mark. Duration: 4 years. Late applications considered on merit depending on capacity."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Physiology and Biochemistry",
+    "code": "BHS-PHYBIO",
+    "aps": 32,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Life Sciences recommended. Academic paper selection. Best average mark. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Physiology and Psychology",
+    "code": "BHS-PHYPSY",
+    "aps": 26,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Life Sciences recommended. Academic paper selection. Best average mark. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Consumer Studies",
+    "code": "BCONS",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Natural Science Subject", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "At least one Natural Science (Mathematics, Physical Sciences, Agricultural, Life Sciences) at Level 4 (50-59%). Mathematical Literacy Level 6 (70-79%) considered. Academic paper selection. Best average mark. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Consumer Studies in Food Product Management",
+    "code": "BCONS-FOOD",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Natural Science Subject", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics Level 4 required. If Chemistry elective chosen, Physical Sciences Level 4 required. Mathematical Literacy >70% considered. Academic paper selection. Best average mark. Duration: 4 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Consumer Studies in Fashion Retail Management",
+    "code": "BCONS-FASH",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Natural Science Subject", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics Level 4 required. Mathematical Literacy >70% considered. Academic paper selection. Best average mark. Duration: 4 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Dietetics",
+    "code": "BSC-DIET",
+    "aps": 30,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 4 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Health Sciences in Occupational Hygiene",
+    "code": "BHS-OCC",
+    "aps": 27,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 4 years. Late applications considered on merit."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Psychology and Labour Relations Management",
+    "code": "BA-PSYLR",
+    "aps": 26,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (5). Academic paper selection. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Psychology and Tourism Management",
+    "code": "BA-PSYTOUR",
+    "aps": 26,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (5). Academic paper selection. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Psychology and Geography and Environmental Management",
+    "code": "BA-PSYGEO",
+    "aps": 26,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (5). Academic paper selection. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Social Science in Psychology",
+    "code": "BSOCSCI-PSY",
+    "aps": 26,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Duration: 3 years."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Social Work",
+    "code": "BSW",
+    "aps": 28,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Academic paper selection. Best average mark. Duration: 4 years. Late applications considered on merit."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Nursing",
+    "code": "BNURS",
+    "aps": 25,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Tuition", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Physical Sciences OR Mathematics OR Life Sciences at Level 4 (50-59%). Participation in job shadowing programme (40 hours) recommended. Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Diploma in Animal Health",
+    "code": "DIP-ANIMHLTH",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Physical Science", "level": 3, "percentage": 40 },
+          { "name": "Life Science", "level": 3, "percentage": 40 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Physical Science OR Life Science (3). Mathematics (3) OR Technical Mathematics (4). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Diploma in Animal Science",
+    "code": "DIP-ANIMSCI",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Physical Science", "level": 3, "percentage": 40 },
+          { "name": "Life Science", "level": 3, "percentage": 40 },
+          { "name": "Agricultural Science", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Physical Science OR Life Science (3) OR Agricultural Science (4). Mathematics (3) OR Technical Mathematics (4) OR Mathematical Literacy (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Diploma in Plant Science with Crop Production",
+    "code": "DIP-PLANT",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Physical Science", "level": 3, "percentage": 40 },
+          { "name": "Life Science", "level": 3, "percentage": 40 },
+          { "name": "Agricultural Science", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Physical Science OR Life Science (3) OR Agricultural Science (4). Mathematics (3) OR Technical Mathematics (4) OR Mathematical Literacy (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science with Chemistry and Physics",
+    "code": "BSC-CHEMPHYS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science with Physics and Mathematics",
+    "code": "BSC-PHYSMATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science with Physics and Applied Mathematics",
+    "code": "BSC-PHYSAPPMATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science with Physics and Computer Science",
+    "code": "BSC-PHYSCS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science with Computer Science and Mathematics",
+    "code": "BSC-CSMATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science with Biochemistry and Chemistry",
+    "code": "BSC-BIOCHEM",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science with Geography and Applied Mathematics",
+    "code": "BSC-GEOAPPMATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science with Applied Mathematics and Chemistry",
+    "code": "BSC-APPMATHCHEM",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science with Chemistry and Mathematics",
+    "code": "BSC-CHEMMATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science with Applied Mathematics and Electronics",
+    "code": "BSC-APPMATHELEC",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science with Electronics and Mathematics",
+    "code": "BSC-ELECMATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science with Electronics and Physics",
+    "code": "BSC-ELECPHYS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science with Chemistry and Computer Science",
+    "code": "BSC-CHEMCS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science with Computer Science and Electronics",
+    "code": "BSC-CSELEC",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science with Mathematics and Economy",
+    "code": "BSC-MATHECON",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science with Computer Science and Economics",
+    "code": "BSC-CSECON",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science with Computer Science and Statistics",
+    "code": "BSC-CSSTAT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Applied Mathematics and Chemistry",
+    "code": "BSC-EXT-APPMATHCHEM",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Applied Mathematics and Electronics",
+    "code": "BSC-EXT-APPMATHELEC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Biochemistry and Chemistry",
+    "code": "BSC-EXT-BIOCHEM",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Chemistry and Computer Science",
+    "code": "BSC-EXT-CHEMCS",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Chemistry and Mathematics",
+    "code": "BSC-EXT-CHEMMATH",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Chemistry and Physics",
+    "code": "BSC-EXT-CHEMPHYS",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Computer Science and Electronics",
+    "code": "BSC-EXT-CSELEC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Computer Science and Mathematics",
+    "code": "BSC-EXT-CSMATH",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Electronics and Mathematics",
+    "code": "BSC-EXT-ELECMATH",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Electronics and Physics",
+    "code": "BSC-EXT-ELECPHYS",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Physics and Applied Mathematics",
+    "code": "BSC-EXT-PHYSAPPMATH",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Physics and Computer Science",
+    "code": "BSC-EXT-PHYSCS",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science with Physics and Mathematics",
+    "code": "BSC-EXT-PHYSMATH",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Biological Sciences with Microbiology and Biochemistry",
+    "code": "BSC-EXT-MICBIO",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Biological Sciences with Botany and Microbiology",
+    "code": "BSC-EXT-BOTMIC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Biological Sciences with Botany and Biochemistry",
+    "code": "BSC-EXT-BOTBIO",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Environmental Sciences with Botany and Chemistry",
+    "code": "BSC-EXT-BOTCHEM",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Environmental Sciences with Geography and Botany",
+    "code": "BSC-EXT-GEOBOT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Environmental Sciences with Geography and Computer Science",
+    "code": "BSC-EXT-GEOCS",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Environmental Sciences with Chemistry and Microbiology",
+    "code": "BSC-EXT-CHEMMIC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Environmental Sciences with Chemistry and Geography",
+    "code": "BSC-EXT-CHEMGEO",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Science - Mathematical Sciences with Applied Mathematics and Mathematics",
+    "code": "BSC-EXT-APPMATHMATH",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 3, "percentage": 40 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Physical Science (3). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science in Information Technology",
+    "code": "BSC-IT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Extended Bachelor of Science in Information Technology",
+    "code": "BSC-EXT-IT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Duration: 4 years. Distance learning available."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science in Mathematical Sciences with Statistics and Mathematics",
+    "code": "BSC-MATHSTAT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Mathematical Sciences with Mathematics",
+    "code": "BSC-MATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science in Mathematical Sciences with Applied Mathematics and Mathematics",
+    "code": "BSC-APPMATHMATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Microbiology and Botany",
+    "code": "BSC-MICBOT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Microbiology and Biochemistry",
+    "code": "BSC-MICBIO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Botany and Biochemistry",
+    "code": "BSC-BOTBIO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Chemistry and Physiology",
+    "code": "BSC-CHEMPHYSIO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Microbiology and Physiology",
+    "code": "BSC-MICPHYSIO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Zoology and Biochemistry",
+    "code": "BSC-ZOOBIO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Zoology and Botany",
+    "code": "BSC-ZOOBOT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Zoology and Microbiology",
+    "code": "BSC-ZOOMIC",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Biological Sciences with Zoology and Physiology",
+    "code": "BSC-ZOOPHYSIO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Chemistry and Microbiology",
+    "code": "BSC-ENV-CHEMMIC",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Botany and Chemistry",
+    "code": "BSC-ENV-BOTCHEM",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Geography and Computer Science",
+    "code": "BSC-ENV-GEOCS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Geography and Botany",
+    "code": "BSC-ENV-GEOBOT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science in Environmental Sciences with Chemistry and Geography",
+    "code": "BSC-ENV-CHEMGEO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Zoology and Chemistry",
+    "code": "BSC-ENV-ZOOCHEM",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Chemistry and Geology",
+    "code": "BSC-ENV-CHEMGEO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Geology and Geography",
+    "code": "BSC-ENV-GEOGEO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Zoology and Geography",
+    "code": "BSC-ENV-ZOOGEO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Geology and Botany",
+    "code": "BSC-ENV-GEOBOT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Zoology and Geology",
+    "code": "BSC-ENV-ZOOGEO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Geology and Microbiology",
+    "code": "BSC-ENV-GEOMIC",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Tourism and Zoology",
+    "code": "BSC-ENV-TOURZOO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Tourism and Geography",
+    "code": "BSC-ENV-TOURGEO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Environmental Sciences with Tourism and Botany",
+    "code": "BSC-ENV-TOURBOT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science in Financial Mathematics",
+    "code": "BSC-FINMATH",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Extended Bachelor of Science in Financial Mathematics",
+    "code": "BSC-EXT-FINMATH",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science in Business Analytics",
+    "code": "BSC-BUSANAL",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Extended Bachelor of Science in Business Analytics",
+    "code": "BSC-EXT-BUSANAL",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science in Quantitative Risk Management",
+    "code": "BSC-QRM",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Extended Bachelor of Science in Quantitative Risk Management",
+    "code": "BSC-EXT-QRM",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Science in Actuarial Sciences",
+    "code": "BSC-ACT",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Science in Urban and Regional Planning",
+    "code": "BSC-URP",
+    "aps": 28,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Selection test required. Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Agricultural Sciences with Agricultural Economics",
+    "code": "BSC-AGRI-ECON",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Science", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Physical Science OR Life Science (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Agricultural Sciences with Animal Science",
+    "code": "BSC-AGRI-ANIM",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Science", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Physical Science OR Life Science (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Agricultural Sciences with Agronomy and Horticulture",
+    "code": "BSC-AGRI-AGRHORT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Science", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Physical Science OR Life Science (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Agricultural Sciences with Animal Health",
+    "code": "BSC-AGRI-ANIMHLTH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Science", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Physical Science OR Life Science (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Agricultural Sciences with Agronomy and Soil Science",
+    "code": "BSC-AGRI-AGRSOIL",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Science", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Physical Science OR Life Science (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Science in Agricultural Sciences with Agronomy and Agricultural Economics",
+    "code": "BSC-AGRI-AGRECON",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Science", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Physical Science OR Life Science (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Science in Indigenous Knowledge Systems",
+    "code": "BSC-IKS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Accounting",
+    "code": "BCOM-ACC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Chartered Accountancy",
+    "code": "BCOM-CA",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Study", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics with Accounting", "level": 5, "percentage": 60 },
+          { "name": "Mathematics without Accounting", "level": 5, "percentage": 65 }
+        ]
+      }
+    },
+    "notes": "If student took Grade 12 Accounting: Mathematics Level 5 (60%). If student did NOT take Accounting: Mathematics 65% or more. Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Chartered Accountancy Extended Programme",
+    "code": "BCOM-CA-EXT",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Commerce in Forensic Accountancy",
+    "code": "BCOM-FORENSIC",
+    "aps": 36,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Language of Study", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics with Accounting", "level": 5, "percentage": 60 },
+          { "name": "Mathematics without Accounting", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "If student took Grade 12 Accounting: Mathematics Level 5 (60%). If student did NOT take Accounting: Mathematics Level 6 (70%). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Accountancy",
+    "code": "BCOM-MGMTACC",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Language of Study", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Financial Accountancy",
+    "code": "BCOM-FINACC",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Language of Study", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Financial Accountancy Extended Programme",
+    "code": "BCOM-FINACC-EXT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 7, "percentage": 80 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (7). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Operations Research",
+    "code": "BCOM-OR",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Statistics",
+    "code": "BCOM-STAT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Statistics Extended Programme",
+    "code": "BCOM-STAT-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Business Operations with Logistics Management",
+    "code": "BCOM-LOG",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Business Operations with Logistics Management Extended Programme",
+    "code": "BCOM-LOG-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Business Operations with Transport Economics",
+    "code": "BCOM-TRANSP",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Business Operations with Transport Economics Extended Programme",
+    "code": "BCOM-TRANSP-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Agricultural Economics and Risk Management",
+    "code": "BCOM-AGRIECON",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Econometrics",
+    "code": "BCOM-ECON",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Econometrics Extended Programme",
+    "code": "BCOM-ECON-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Economic Sciences with International Trade",
+    "code": "BCOM-INTTRADE",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Economic Sciences with International Trade Extended Programme",
+    "code": "BCOM-INTTRADE-EXT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (6). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Informatics",
+    "code": "BCOM-INFO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Information Systems",
+    "code": "BCOM-IS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Information Systems Extended Programme",
+    "code": "BCOM-IS-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Risk Management",
+    "code": "BCOM-RISK",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Economic Sciences with Risk Management Extended Programme",
+    "code": "BCOM-RISK-EXT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (6). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Administration in Human Resource Management",
+    "code": "BADMIN-HRM",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Administration in Human Resource Management Extended Programme",
+    "code": "BADMIN-HRM-EXT",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Administration in Industrial and Organisational Psychology",
+    "code": "BADMIN-IOP",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Administration in Industrial and Organisational Psychology Extended Programme",
+    "code": "BADMIN-IOP-EXT",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Industrial and Organisational Psychology and Labour Relations Management",
+    "code": "BA-IOPLR",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Mathematical Literacy (5). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Human Resource Management",
+    "code": "BCOM-HRM",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Industrial and Organisational Psychology with Labour Relations Management",
+    "code": "BCOM-IOPLR",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Sciences with Business Management",
+    "code": "BCOM-BUSMGMT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "At Mahikeng: English Level 4. At Potchefstroom and Vanderbijlpark: Afrikaans or English Level 4. Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Sciences with Business Management Extended Programme",
+    "code": "BCOM-BUSMGMT-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Sciences with Communication Management",
+    "code": "BCOM-COMM",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (6). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Sciences with Marketing Management",
+    "code": "BCOM-MARKET",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "At Mahikeng: English Level 4. At Potchefstroom and Vanderbijlpark: Afrikaans or English Level 4. Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Sciences with Marketing Management Extended Programme",
+    "code": "BCOM-MARKET-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Sciences with Safety Management",
+    "code": "BCOM-SAFETY",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (6). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Management Sciences with Sport Business Management",
+    "code": "BCOM-SPORT",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (6). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Arts in Marketing and Tourism Management",
+    "code": "BA-MARKTOUR",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Commerce in Tourism Management",
+    "code": "BCOM-TOUR",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Afrikaans", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Commerce in Tourism Management",
+    "code": "BCOM-TOUR-PC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Afrikaans or English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (6). Duration: 3 years."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Arts in Tourism and Recreation Skills",
+    "code": "BA-TOURREC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Afrikaans", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (6). Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Communication",
+    "code": "BA-COMM",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "English HL or FAL Level 5 (60-69%). Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Arts in Graphic Design",
+    "code": "BA-GRAPH",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Screening process required: portfolio submission, academic record, interview. Duration: 4 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Public Governance with Public Administration",
+    "code": "BA-PUBADMIN",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL or FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Distance Learning"],
+    "programme": "Bachelor of Arts in Public Governance with Policing Practice",
+    "code": "BA-POLICE",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "If Gr 12 obtained before 2008, please visit distance.nwu.ac.za/Policing for requirements. Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Social Sciences in Political Studies and International Relations",
+    "code": "BSOCSCI-POL",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Administration in Development and Management with Local Government Management",
+    "code": "BADMIN-LGM",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Administration in Development and Management with Local Government Management",
+    "code": "BADMIN-LGM-EXT",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng"],
+    "programme": "Bachelor of Arts in Language and Literary Studies",
+    "code": "BA-LANG",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English HL", "level": 4, "percentage": 50 },
+          { "name": "English FAL", "level": 5, "percentage": 60 },
+          { "name": "Setswana/Sesotho/Sepedi HL", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "English HL (4) OR FAL (5). Setswana/Sesotho/Sepedi HL (4) for mother-tongue speakers. Non-mother-tongue Setswana: no pre-requisites. Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Arts in Languages",
+    "code": "BA-LANG-PC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Afrikaans HL", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans FAL", "level": 5, "percentage": 60 },
+          { "name": "English HL", "level": 4, "percentage": 50 },
+          { "name": "English FAL", "level": 5, "percentage": 60 },
+          { "name": "Setswana/Sesotho/Sepedi HL", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Arts with Languages",
+    "code": "BA-LANG-VC",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Afrikaans HL", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans FAL", "level": 5, "percentage": 60 },
+          { "name": "English HL", "level": 4, "percentage": 50 },
+          { "name": "English FAL", "level": 5, "percentage": 60 },
+          { "name": "Sesotho HL", "level": 4, "percentage": 50 },
+          { "name": "Sesotho FAL", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Arts in Language Technology",
+    "code": "BA-LANGTECH",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": [
+          { "name": "Afrikaans HL", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans FAL", "level": 5, "percentage": 60 },
+          { "name": "English HL", "level": 4, "percentage": 50 },
+          { "name": "English FAL", "level": 5, "percentage": 60 },
+          { "name": "Setswana HL", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Accounting", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "One language subject AND one of IT/Accounting/Physical Sciences at Level 4 (50-59%). Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Diploma in Music",
+    "code": "DIP-MUSIC",
+    "aps": 18,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Language proficiency test, musical aptitude test and audition required. Laptop required. Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Arts in Music and Society",
+    "code": "BA-MUSIC",
+    "aps": 21,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Audition (practical – grade 3), theory placement test (grade 2) and language proficiency test. Laptop required. Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Baccalaureus Musicae",
+    "code": "BMUS",
+    "aps": 24,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Audition (practical – grade 6), theory placement test (grade 5) and language proficiency test. Laptop required. Duration: 4 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Philosophy in Philosophy, Politics and Economics",
+    "code": "BPHIL-PPE",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts Humanities with Afrikaans and Dutch",
+    "code": "BA-HUM-AFRI",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Afrikaans HL", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans FAL", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts Humanities with English",
+    "code": "BA-HUM-ENG",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English HL", "level": 4, "percentage": 50 },
+          { "name": "English FAL", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng", "Potchefstroom"],
+    "programme": "Bachelor of Arts Humanities with Setswana",
+    "code": "BA-HUM-SET",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Setswana HL", "level": 4, "percentage": 50 },
+          { "name": "Setswana FAL", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Arts Humanities with Sesotho",
+    "code": "BA-HUM-SES",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Sesotho HL", "level": 4, "percentage": 50 },
+          { "name": "Sesotho FAL", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts Humanities with Social Sciences",
+    "code": "BA-HUM-SOCSCI",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Afrikaans HL", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans FAL", "level": 5, "percentage": 60 },
+          { "name": "English HL", "level": 4, "percentage": 50 },
+          { "name": "English FAL", "level": 5, "percentage": 60 },
+          { "name": "Setswana HL", "level": 4, "percentage": 50 },
+          { "name": "Setswana FAL", "level": 5, "percentage": 60 },
+          { "name": "Sesotho HL", "level": 4, "percentage": 50 },
+          { "name": "Sesotho FAL", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Social Sciences",
+    "code": "BSOCSCI",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "Afrikaans HL", "level": 4, "percentage": 50 },
+          { "name": "Afrikaans FAL", "level": 5, "percentage": 60 },
+          { "name": "English HL", "level": 4, "percentage": 50 },
+          { "name": "English FAL", "level": 5, "percentage": 60 },
+          { "name": "Setswana HL", "level": 4, "percentage": 50 },
+          { "name": "Setswana FAL", "level": 5, "percentage": 60 },
+          { "name": "Sesotho HL", "level": 4, "percentage": 50 },
+          { "name": "Sesotho FAL", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Social Sciences with Economics",
+    "code": "BSOCSCI-ECON",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Arts with Sociology and Geography",
+    "code": "BA-SOCGEO",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Arts with Sociology and Labour Relations Management",
+    "code": "BA-SOCLR",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Behavioural Sciences with Sociology and Psychology",
+    "code": "BA-BEHAV",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Distance"],
+    "programme": "Bachelor of Education in Early Childhood Care and Education",
+    "code": "BED-ECCE",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "To register FAL as Language of Learning and Teaching, Level 5 required. LoLT: Afrikaans, English, isiXhosa, Sesotho, Setswana. LoCC: Afrikaans, isiXhosa, Sesotho, Setswana. Clearance certificate required. Basic computer literacy required. Duration: minimum 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Foundation Phase",
+    "code": "BED-FOUND",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Language combinations vary by campus. Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Education in Intermediate Phase with Mathematics, Science and Technology",
+    "code": "BED-INT-MST",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Technical Mathematics (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Intermediate Phase with Life Skills and Social Sciences",
+    "code": "BED-INT-LSSS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "HL and FAL", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Language combinations vary by campus. Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Economics",
+    "code": "BED-SEN-ECON",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Education in Senior and FET Phase with History",
+    "code": "BED-SEN-HIST",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Business Studies",
+    "code": "BED-SEN-BUS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Geography",
+    "code": "BED-SEN-GEO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with English",
+    "code": "BED-SEN-ENG",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": [
+        { "name": "English HL", "level": 4, "percentage": 50 },
+        { "name": "English FAL", "level": 5, "percentage": 60 },
+        { "name": "Home Language/FAL", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    }
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Physical Sciences",
+    "code": "BED-SEN-PHYS",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics (4) OR Technical Mathematics (5). Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Accounting",
+    "code": "BED-SEN-ACC",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 },
+          { "name": "Accounting", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Mathematics",
+    "code": "BED-SEN-MATH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Afrikaans",
+    "code": "BED-SEN-AFRI",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Afrikaans Home Language", "level": 5, "percentage": 60 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Life Sciences",
+    "code": "BED-SEN-LIFE",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Life Orientation",
+    "code": "BED-SEN-LO",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 },
+          { "name": "Life Orientation", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Engineering Graphics and Design",
+    "code": "BED-SEN-EGD",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Computer Application Technology",
+    "code": "BED-SEN-CAT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Sesotho",
+    "code": "BED-SEN-SES",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Sesotho Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Mechanical Technology",
+    "code": "BED-SEN-MECH",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Technical Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Mathematics or Technical Mathematics pass rate of at least 50% in Grade 12. Recommendation: Level 3 in Physical/Technical Sciences and any Technology subject. Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Mahikeng", "Potchefstroom", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Setswana",
+    "code": "BED-SEN-SET",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Setswana Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Information Technology",
+    "code": "BED-SEN-IT",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Potchefstroom", "Distance"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Art",
+    "code": "BED-SEN-ART",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years."
+  },
+  {
+    "faculty": "Education",
+    "campuses": ["Vanderbijlpark"],
+    "programme": "Bachelor of Education in Senior and FET Phase with Mathematical Literacy",
+    "code": "BED-SEN-ML",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Mathematics (3) OR Mathematical Literacy (5) OR Technical Mathematics (4). Duration: 4 years."
+  },
+  {
+    "faculty": "Engineering",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Engineering in Chemical Engineering",
+    "code": "BENG-CHEM",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 },
+          { "name": "Physical Sciences", "level": 6, "percentage": 70 },
+          { "name": "Afrikaans or English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Conditional acceptance possible with borderline Grade 11 results. Students with 40%+ in Maths and Physical Sciences and 60%+ in language can apply for Xcel bridging programme. Duration: 4 years."
+  },
+  {
+    "faculty": "Engineering",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Engineering in Electrical and Electronic Engineering",
+    "code": "BENG-ELEC",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 },
+          { "name": "Physical Sciences", "level": 6, "percentage": 70 },
+          { "name": "Afrikaans or English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Conditional acceptance possible with borderline Grade 11 results. Duration: 4 years."
+  },
+  {
+    "faculty": "Engineering",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Engineering in Computer and Electronic Engineering",
+    "code": "BENG-COMPELEC",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 },
+          { "name": "Physical Sciences", "level": 6, "percentage": 70 },
+          { "name": "Afrikaans or English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Conditional acceptance possible with borderline Grade 11 results. Duration: 4 years."
+  },
+  {
+    "faculty": "Engineering",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Engineering in Mechanical Engineering",
+    "code": "BENG-MECH",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 },
+          { "name": "Physical Sciences", "level": 6, "percentage": 70 },
+          { "name": "Afrikaans or English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Conditional acceptance possible with borderline Grade 11 results. Duration: 4 years."
+  },
+  {
+    "faculty": "Engineering",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Engineering in Industrial Engineering",
+    "code": "BENG-IND",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 },
+          { "name": "Physical Sciences", "level": 6, "percentage": 70 },
+          { "name": "Afrikaans or English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Conditional acceptance possible with borderline Grade 11 results. Duration: 4 years."
+  },
+  {
+    "faculty": "Engineering",
+    "campuses": ["Potchefstroom"],
+    "programme": "Bachelor of Engineering in Mechatronic Engineering",
+    "code": "BENG-MECHATRON",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 6, "percentage": 70 },
+          { "name": "Physical Sciences", "level": 6, "percentage": 70 },
+          { "name": "Afrikaans or English", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Conditional acceptance possible with borderline Grade 11 results. Duration: 4 years."
+  },
+  {
+    "faculty": "Law",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Arts in Law",
+    "code": "BA-LAW",
+    "aps": 30,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 5, "percentage": 60 },
+          { "name": "First Additional Language", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Placement process and adherence to minimum requirements. Academic performance important. Limited capacity. Duration: 3 years."
+  },
+  {
+    "faculty": "Law",
+    "campuses": ["Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Commerce in Law",
+    "code": "BCOM-LAW",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 5, "percentage": 60 },
+          { "name": "First Additional Language", "level": 5, "percentage": 60 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Placement process and adherence to minimum requirements. Academic performance important. Limited capacity. Duration: 3 years."
+  },
+  {
+    "faculty": "Law",
+    "campuses": ["Mahikeng", "Potchefstroom", "Vanderbijlpark"],
+    "programme": "Bachelor of Laws",
+    "code": "LLB",
+    "aps": 34,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 5, "percentage": 60 },
+          { "name": "First Additional Language", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Placement process and adherence to minimum requirements. Academic performance important. Limited capacity. Duration: 4 years."
+  },
+  {
+    "faculty": "Law",
+    "campuses": ["Mahikeng"],
+    "programme": "Extended Bachelor of Laws",
+    "code": "LLB-EXT",
+    "aps": 30,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home Language", "level": 4, "percentage": 50 },
+          { "name": "First Additional Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Placement process and adherence to minimum requirements. Academic performance important. Limited capacity. Duration: 5 years."
+  },
+  {
+    "faculty": "Theology",
+    "campuses": ["Potchefstroom"],
+    "programme": "BA in Ancient Languages",
+    "code": "BA-ANCLANG",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Mode of delivery: Contact. Duration: 3 years."
+  },
+  {
+    "faculty": "Theology",
+    "campuses": ["Mahikeng", "Vanderbijlpark"],
+    "programme": "BA in Pastoral Psychology",
+    "code": "BA-PASTPSY",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "In consultation with Association of Christian Religious Practitioners (ACRP). Mode of delivery: Contact. Duration: 3 years."
+  },
+  {
+    "faculty": "Theology",
+    "campuses": ["Potchefstroom"],
+    "programme": "BTh with Pastoral Counselling and Psychology",
+    "code": "BTH-PAST",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "In consultation with ACRP. Mode of delivery: Contact. Duration: 3 years."
+  },
+  {
+    "faculty": "Theology",
+    "campuses": ["Potchefstroom", "Distance"],
+    "programme": "Bachelor of Divinity",
+    "code": "BDIV",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "In consultation with Curators of Reformed Churches in SA, Hervormde Kerk, Dutch Reformed Church. Mode of delivery: Contact or Distance. Duration: 4 years."
+  },
+  {
+    "faculty": "Theology",
+    "campuses": ["Potchefstroom"],
+    "programme": "BTh with Bible Languages and Bible Translation",
+    "code": "BTH-BIBLE",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Mode of delivery: Contact. Duration: 3 years."
+  },
+  {
+    "faculty": "Theology",
+    "campuses": ["Potchefstroom", "Distance"],
+    "programme": "BTh in Christian Ministry",
+    "code": "BTH-MIN",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "In consultation with Governing Body of Theological Education and Department of Education and Training. Mode of delivery: Contact or Distance. Duration: 3 years."
+  }
+]

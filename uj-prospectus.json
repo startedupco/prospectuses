@@ -1,0 +1,3302 @@
+[
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "B Architecture",
+    "code": "B8BA3Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Architectural professionals are involved in shaping our built environment."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "BA (Communication Design)",
+    "code": "B8CD2Q",
+    "duration": "3 years",
+    "aps": "25 with Mathematics OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Communication Designers are creative thinkers and problem solvers."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "BA (Digital Media Design)",
+    "code": "B8DM3Q",
+    "duration": "3 years",
+    "aps": "25 with Mathematics OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Prepares students for careers in the design, film, broadcast and advertising industries."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "BA (Industrial Design)",
+    "code": "B8ID1Q",
+    "duration": "3 years",
+    "aps": "25 with Mathematics OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Industrial Designers improve the aesthetics, ergonomics and functionality of products."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "BA (Interior Design)",
+    "code": "B8BA6Q",
+    "duration": "3 years",
+    "aps": "25 with Mathematics OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Interior Designers engage with a range of interior spaces to create innovative spatial solutions."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "BA (Fashion Design)",
+    "code": "B8FD1Q",
+    "duration": "3 years",
+    "aps": "25 with Mathematics OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Prepares graduates for various career possibilities in the fast paced fashion industry."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "BA (Visual Art)",
+    "code": "B8BA7Q",
+    "duration": "3 years",
+    "aps": "25 with Maths / Tech Maths OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Visual Art graduates find work in diverse fields of the visual arts industries. Maths requirement may be exempt for international admission."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "Diploma in Architecture",
+    "code": "D8AT1Q",
+    "duration": "3 years",
+    "aps": "25 with Maths OR 26 with Tech Maths",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Architectural Practitioners design simple buildings and produce technological details."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "Diploma in Fashion Production",
+    "code": "D8FP1Q",
+    "duration": "3 years",
+    "aps": "22 with Maths OR 23 with Maths Lit",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing industry."
+  },
+  {
+    "faculty": "Art, Design and Architecture",
+    "programme": "Diploma in Jewellery Design and Manufacture",
+    "code": "D8JD1Q",
+    "duration": "3 years",
+    "aps": "20 with Maths OR 21 with Maths Lit OR 22 with Tech Maths",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Jewellery Designers and Manufacturers process designs and concepts in high end commercial and contemporary commercial manufacture processes."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Accounting (CA)",
+    "code": "B34CAQ",
+    "duration": "3 years",
+    "aps": 33,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Chartered Accountant – CA (SA)."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Accounting",
+    "code": "B34A5Q",
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Financial Manager, Accountant, Internal Auditor, Tax Consultant. Does not provide direct access to the Postgraduate Diploma in Accounting Science."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Accounting (Extended)",
+    "code": "B34AEQ",
+    "duration": "4 years",
+    "aps": "25 with Maths OR 28 with Maths Lit",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Financial Manager, Accountant, Internal Auditor, Tax Consultant. Only new first time entering candidates are considered. Does not provide direct access to the Postgraduate Diploma in Accounting Science."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BA Hospitality Management",
+    "code": "B34HNQ",
+    "duration": "3 years",
+    "aps": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Prepares students for leadership positions in the Hospitality Industry."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BA Human Resource Management",
+    "code": "B34HRQ",
+    "duration": "3 years",
+    "aps": "28 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Human Resource Practitioners. Graduates may register as HR Practitioners with SABPP."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Business Management",
+    "code": "B34BMQ",
+    "duration": "3 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Training Manager, HRD Manager, Employment Relations Manager, Product Development Manager, Branch Manager, General Manager, Change Facilitator, Management Consultant, Entrepreneur, Business Innovator."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Economics and Econometrics",
+    "code": "B3N14Q",
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Entrepreneurial Management",
+    "code": "B1CEMQ",
+    "duration": "3 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Business Owner, Marketing Manager, Manager, Consultant, Business Manager, Financial Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Finance",
+    "code": "B34F5Q",
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Industrial Psychology",
+    "code": "B34IPQ",
+    "duration": "3 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Specialist HR Practitioners dealing with employee relationship challenges in the work environment."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Information Management",
+    "code": "B34IMQ",
+    "duration": "3 years",
+    "aps": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Information Manager, Knowledge Manager, Researcher, Competitive Intelligence Officer, Records Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Information Systems",
+    "code": "B1CISQ",
+    "duration": "3 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "IT Project Manager, Business Analyst, IT Manager, Business Intelligence Expert, Chief Information Officer, Database Administrator, Systems Analyst, IT Consultant."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Marketing Management",
+    "code": "B1CMMQ",
+    "duration": "3 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Advertising Manager, Brand Manager, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Customer Services Manager, Marketing Consultant, Media Planner, Sales Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Transport and Logistics Management",
+    "code": "B34TLQ",
+    "duration": "3 years",
+    "aps": 27,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Logistics Manager, Consultant, Production Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BA Public Management and Governance",
+    "code": "B34PKQ / B34PSQ",
+    "duration": "3 years",
+    "aps": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK / SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Public Managers in State Departments, Provincial Departments and Municipalities, Public, Private and NGO Sector."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BA Tourism Development and Management",
+    "code": "B34TDQ",
+    "duration": "3 years",
+    "aps": "26 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Entrepreneur, Travel Agent, Tour Guide, Tour Operator, Event and Conference Organiser, Public Relations, Marketing, Leisure Activity Co-ordinator, Visa Consultant, Researcher, Academia, Teaching, Training and Lecturing, Transportation, Car Rental Agent, Development Consultant, Corporate Consulting, National, Provincial and Local Government Tourism Departments and Agencies, Technical Writer and Editor, Website Developer and Manager, Travel Blogger, Sales Co-ordinator and Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Business Management (Extended)",
+    "code": "B34BEQ",
+    "duration": "4 years",
+    "aps": "25 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Management opportunities in various industries. Only new first time entering candidates are considered."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Economics and Econometrics (Extended)",
+    "code": "B3NE4Q",
+    "duration": "4 years",
+    "aps": "25 with Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Economist, Econometrician, Economic Analyst, Forecaster, Economic Planner. Only new first time entering candidates are considered."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Finance (Extended)",
+    "code": "B34FEQ",
+    "duration": "4 years",
+    "aps": "25 with Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Financial Manager, Stockbroker, Accountant, Financial Consultant, Investment Advisor. Only new first time entering candidates are considered."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Accountancy",
+    "code": "D3A15Q",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Accounting Technician, Bookkeeper, Cost Accountant."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Business Information Technology",
+    "code": "DI1401",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "IT practitioners provide solutions to business problems through the application of computer based technology and techniques."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Financial Services Operations",
+    "code": "D34F9Q",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Middle and Back Office Operations: Financial Operations Administrator, Operations Analyst, Risk and Compliance Officer."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Food and Beverage Operations",
+    "code": "D34FBQ",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Prepares students with skills at operational and supervisory levels within the food and beverage industry."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Logistics",
+    "code": "D34LGQ",
+    "duration": "3 years",
+    "aps": "24 with Maths/Tech Maths OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Purchasing Manager, Warehouse Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Marketing",
+    "code": "D34MKQ",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Advertising, Brand Management, Customer Relationship Manager, Marketing Manager, Marketing Researcher, Customer Services, Marketing Consulting, Media Planner and Sales Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in People Management",
+    "code": "D34P2Q",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "People Management Practitioners dealing with employee-related issues in organisations. Human Resource Officer, Employee Benefits Officer, Health and Wellness Official, Recruitment and Selection Official, Human Resource Researcher, Training and Development Officer, Change Facilitator, Organisational Development Practitioner."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Retail Business Management",
+    "code": "D34RMQ",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Prepares graduates for work in the retailing industry. Buyers, Store Managers, Layout Specialists, Visual Merchandisers, Product Category Managers, Sales Managers, Service Retailing, Advertising and Sales Promotion, Customer Experience Leaders, Customer Analytics, Retail Software Developers, Business Owner."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Small Business Management",
+    "code": "D34SBQ",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Entrepreneur, Business Owner, Business Advisor, Business Manager, Social Entrepreneur. It is recommended that applicants show a desire to start their own business."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Tourism Management",
+    "code": "D34TMQ",
+    "duration": "3 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Prepares graduates with operational and managerial aspects to work in a variety of different tourism related sectors."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Transportation Management",
+    "code": "D34TRQ",
+    "duration": "3 years",
+    "aps": "24 with Maths/Tech Maths OR 26 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Transportation Manager."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Logistics (Extended)",
+    "code": "D34LEQ",
+    "duration": "4 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Purchasing Manager, Warehouse Manager. Only first time entering candidates are considered."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in People Management (Extended)",
+    "code": "D34PEQ",
+    "duration": "4 years",
+    "aps": "19 with Maths/Tech Maths OR 21 with Mathematical Literacy",
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "People Management Practitioners deal with employee-related issues in organisations. Only first time entering candidates are considered."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Small Business Management (Extended)",
+    "code": "D34SEQ",
+    "duration": "4 years",
+    "aps": "19 with Maths/Tech Maths OR 21 with Mathematical Literacy",
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Entrepreneur, Business Owner, Business Advisor, Business Manager, Social Entrepreneur. Only first time entering candidates are considered."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "Diploma in Transportation Management (Extended)",
+    "code": "D34TEQ",
+    "duration": "4 years",
+    "aps": "22 with Maths/Tech Maths OR 24 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Transportation Manager. Only first time entering candidates are considered."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Accountancy (Online)",
+    "code": "B34ACC",
+    "duration": "3 years",
+    "aps": "28 with Mathematics",
+    "selection": false,
+    "campus": "Online",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Financial Manager, Accountant, Internal Auditor, Tax Consultant. Offered on an online basis only."
+  },
+  {
+    "faculty": "Business and Economics",
+    "programme": "BCom Human Resource Management (Online)",
+    "code": "B34HRC",
+    "duration": "3 years",
+    "aps": "28 with Maths/Tech Maths OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "Online",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "HRM Personnel Manager, HRM Personnel Officer, Training Manager, Recruitment and Selection Officer. Offered on an online basis only."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Foundation Phase Teaching",
+    "code": "B5BFPQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (3) OR Mathematical Literacy (5). Educator focusing on primary school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Intermediate Phase Teaching",
+    "code": "B5BITQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (3) OR Mathematical Literacy (5). Educator focusing on primary school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Accounting",
+    "code": "B5BSAQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (4). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Business Management",
+    "code": "B5BSBQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (4) OR Mathematical Literacy (5). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Economics",
+    "code": "B5BSEQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (4). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Psychology",
+    "code": "B5LOPQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Geography",
+    "code": "B5SGEQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 3, "percentage": 40 },
+        { "name": "Life Science", "level": 3, "percentage": 40 },
+        { "name": "Geography", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (4) OR Mathematical Literacy (6) OR Physical Science (3) OR Life Science (3) AND Geography (3). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Life Sciences",
+    "code": "B5SLSQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (4) OR Mathematical Literacy (6) AND Physical Science (4) OR Life Science (4). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Mathematics",
+    "code": "B5SMMQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 6, "percentage": 70 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (4) OR Mathematical Literacy (6). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Physical Science",
+    "code": "B5SPSQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Mathematics (4) AND Physical Science (4). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - English",
+    "code": "B5LAEQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Afrikaans",
+    "code": "B5LAFQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Afrikaans Home Language", "level": 4, "percentage": 50 },
+        { "name": "Afrikaans Additional Language", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Afrikaans Home Language (4) OR Afrikaans Additional Language (5). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - IsiZulu",
+    "code": "B5LAZQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "IsiZulu Home Language", "level": 4, "percentage": 50 },
+        { "name": "IsiZulu Additional Language", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). IsiZulu Home Language (4) OR IsiZulu Additional Language (5). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Education",
+    "programme": "BEd Senior Phase and FET Teaching - Sepedi",
+    "code": "B5LASQ",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "Home Language", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 6, "percentage": 70 },
+        { "name": "Sepedi Home Language", "level": 4, "percentage": 50 },
+        { "name": "Sepedi Additional Language", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Home language (5) OR Additional Language (6). Sepedi Home Language (4) OR Sepedi Additional Language (5). Educator focusing on high school teaching."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEng Civil Engineering",
+    "code": "B6CS0Q",
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Plan, design and construction of infrastructure."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEng Electrical and Electronic Engineering",
+    "code": "B6ES0Q",
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Electronic Design, Software System Design."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEng Mechanical Engineering",
+    "code": "B6MS0Q",
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Designing, manufacturing, and maintenance of machines."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Chemical Engineering",
+    "code": "B6CE1Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Design and manage industrial chemical processes for the manufacturing sector."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Civil Engineering",
+    "code": "B6CV3Q",
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Plan, design and construction of infrastructure."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Electrical Engineering",
+    "code": "B6EL1Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Electronic Design, Software System Design."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Extraction Metallurgy",
+    "code": "B6EXTQ",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Manage metallurgical plants that are designed to recover and refine metals or other valuable constituents in mine ores."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Industrial Engineering",
+    "code": "B6IN2Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Design and implement systems in organisations to maximise production."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Mechanical Engineering",
+    "code": "B6MC2Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Design, manufacture and maintain industrial machines and engines."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Mining Engineering",
+    "code": "B6MINQ",
+    "duration": "3 years",
+    "aps": 23,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Select and manage the correct method of mining in specific geological environments."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Physical Metallurgy",
+    "code": "B6PY2Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Assesses the suitability of metals for their use in metallic goods."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BSc Construction",
+    "code": "B6CN0Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BSc Urban and Regional Planning",
+    "code": "B6UP0Q",
+    "duration": "3 years",
+    "aps": 27,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Geography", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "The allocation and spatial organisation of land uses to ensure coordinated and harmonious development."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BSc Construction (Extended)",
+    "code": "B6SC0Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Students are employed in the construction industry as Quantity Surveyors and Construction Managers."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Civil Engineering (Extended)",
+    "code": "B6CX3Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Technical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Professional Civil Engineering, Plan, Design and Construction of Infrastructure."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Electrical Engineering (Extended)",
+    "code": "B6L1XQ",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Electronic Design, Software System Design."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Extraction Metallurgy (Extended)",
+    "code": "B6EX0Q",
+    "duration": "4 years",
+    "aps": 22,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Manage metallurgical plants that are designed to recover and refine metals or other valuable constituents in mine ores."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Industrial Engineering (Extended)",
+    "code": "B6IX2Q",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Industrial Engineers design and implement systems in organisations to maximise production."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Mechanical Engineering (Extended)",
+    "code": "B6MX2Q",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Technical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Mechanical Engineers design, manufacture and maintain industrial machines and engines."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech Physical Metallurgy (Extended)",
+    "code": "B6PX2Q",
+    "duration": "4 years",
+    "aps": 22,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Technical Science", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Engineering Metallurgists assess the suitability of metals for their use in metallic goods."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Management Services",
+    "code": "D6MASQ",
+    "duration": "3 years",
+    "aps": "19 with Mathematics OR 21 with Mathematical Literacy",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Advise on improving the efficiency and the productivity of an organisation."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Operations Management",
+    "code": "D6OPMQ",
+    "duration": "3 years",
+    "aps": "20 with Mathematics OR 22 with Mathematical Literacy",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Equips graduates with the ability to plan, organise and control operational activities in an organisation."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Management Services (Extended)",
+    "code": "D6MAEQ",
+    "duration": "4 years",
+    "aps": "19 with Mathematics OR 21 with Mathematical Literacy",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Advise on improving the efficiency and the productivity of an organisation."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Operations Management (Extended)",
+    "code": "D6OPEQ",
+    "duration": "4 years",
+    "aps": "20 with Mathematics OR 22 with Mathematical Literacy",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Equips graduates with the ability to plan, organise and control operational activities in an organisation."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Biokinetics",
+    "code": "B9S15Q",
+    "duration": "4 years",
+    "aps": "32 with Mathematics OR 33 with Mathematical Literacy",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Biokineticists treat orthopaedic injuries and chronic diseases using exercise as their main treatment modality."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Diagnostic Radiography",
+    "code": "B9M01Q",
+    "duration": "4 years",
+    "aps": "31 with Mathematics",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Radiographers use x-ray and MRI equipment to produce images that assist in the diagnosis of injuries and diseases."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Diagnostic Ultrasound",
+    "code": "B9M03Q",
+    "duration": "4 years",
+    "aps": "31 with Mathematics",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Practitioners use high frequency sound waves to produce images of body structures."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Nuclear Medicine",
+    "code": "B9M02Q",
+    "duration": "4 years",
+    "aps": "31 with Mathematics",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Practitioners use small amounts of radioactive substances to diagnose and treat diseases."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Radiation Therapy",
+    "code": "B9M04Q",
+    "duration": "4 years",
+    "aps": "31 with Mathematics",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Radiation therapists use high energy radiation such as x-rays, gamma rays, proton or neutrons to treat cancer."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Health Science in Chiropractic",
+    "code": "B9C01Q",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Chiropractors treat conditions and injuries that are nerve, muscle or joint related. Selection process includes academic results, questionnaire, and letters of recommendation. Successful applicants must complete the Master of Health Sciences in Chiropractic."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Health Science in Complementary Medicine",
+    "code": "B9CM1Q",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Acupuncturists, health and wellness industry. Does not accept applicants who have upgraded their matric results. Successful graduates must complete the Master of Health Sciences in Complementary Medicine."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Health Science in Emergency Medical Care",
+    "code": "B9E01Q",
+    "duration": "4 years",
+    "aps": 27,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Emergency Care Practitioners are specialists in the field of emergency care and rescue. Applicants must pass fitness assessment, phobias evaluation and medical examination."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Health Science in Medical Laboratory Science",
+    "code": "B9B01Q",
+    "duration": "4 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Medical laboratory scientists analyse clinical specimens and interpret results."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Health Science in Podiatry",
+    "code": "B9P01Q",
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Podiatrists deal with the examination, diagnosis, prevention and treatment of conditions of the human foot and lower limb."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Nursing",
+    "code": "B9N02Q",
+    "duration": "4 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Qualifies as a professional nurse and midwife."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Optometry",
+    "code": "B9O02Q",
+    "duration": "4 years",
+    "aps": 34,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Graduates can pursue careers as optometrists providing primary eye care."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Environmental Health",
+    "code": "B9ENV1",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Environmental Health Practitioners identify, monitor and control physical, chemical and biological hazards harmful to human health."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "B Health Sciences in Sport and Exercise Science",
+    "code": "B9SE1Q",
+    "duration": "3 years",
+    "aps": "27 with Mathematics OR 28 with Mathematical Literacy",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Sport scientist, sport coach, fitness instructor, health and lifestyle consultant, performance analyst."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BCom Sport Management",
+    "code": "B9S14Q",
+    "duration": "3 years",
+    "aps": "23 with Mathematics",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Sport Manager, Sport Marketer, Sport Administrator, Sport Events Organiser, Sport Promoter, Coach, Researcher, Exercise Scientist."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Diploma in Sport Management",
+    "code": "D9S01Q",
+    "duration": "3 years",
+    "aps": "22 with Mathematics OR 23 with Mathematical Literacy",
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 3, "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Sports Administrator, Facilities Manager, Professional Coach, Fitness Trainer, Sports Marketer, Sports Sponsorship Manager, Events Manager and Marketer."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "B Social Work",
+    "code": "B7025Q",
+    "duration": "4 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Social Worker in Private Sector, Welfare Organisations and Government or Non-Governmental Organisations."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA",
+    "code": "B7023Q",
+    "duration": "3 years",
+    "aps": 27,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": null, "percentage": null },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Diverse career paths including Anthropologist, Teacher, Journalist, Translator, Psychologist (postgraduate studies required). Technical Mathematics is not accepted."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA with specialisation in Language Practice",
+    "code": "B7026Q",
+    "duration": "3 years",
+    "aps": 27,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Language practitioner (translator, text editor, interpreter), language planner, language manager, lexicographer, terminologist, copy writer, journalist, subtitler, plain language specialist."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA with specialisation in Politics, Economics and Technology",
+    "code": "B7024Q",
+    "duration": "3 years",
+    "aps": "27 with Mathematics",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Apprentice data analyst, Researcher, Account manager, Sales data management and development, Business development, Trainee analyst, Import/export administrator, Financial operations, Information management, Economic analysis, Postgraduate study."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA Community Development and Leadership",
+    "code": "B7015Q",
+    "duration": "3 years",
+    "aps": 27,
+    "selection": false,
+    "campus": "SWC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Municipalities, Government Departments (e.g. Department of Social Development) and Non-Government Organisations (focusing on development work)."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA with specialisation in Development Studies (Extended)",
+    "code": "B7EX2Q",
+    "duration": "4 years",
+    "aps": "24-26 or 27",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "English", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Social development and/or social changes practitioner; researchers of social change; foreign service, enterprise and organisational development. The APS score in English determines the range of the overall APS score."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA with specialisation in Linguistics (Extended)",
+    "code": "B7EX3Q",
+    "duration": "4 years",
+    "aps": "24-26 or 27",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "English", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Education – teaching of English to speakers of other languages; training; research and administration; business communication; market research; Interpreting and translating; and academic career."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA with specialisation in Linguistics and Language Practice (Extended)",
+    "code": "B7EX4Q",
+    "duration": "4 years",
+    "aps": "24-26 or 27",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "English", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Language practitioner (translator, text editor, interpreter), language planner, language manager, lexicographer, terminologist, copy writer, journalist, subtitler, plain language specialist."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA with specialisation in Strategic Communication (Extended)",
+    "code": "B7EX5Q",
+    "duration": "4 years",
+    "aps": "24-26 or 27",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": null, "percentage": null }
+      ],
+      "optional_any": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "English", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Brand managers, social media strategists, digital data analysts, online advertising planners, digital marketing managers, advertising and public relations specialists, media planners, development officers, communication officers, communication and reputation managers, stakeholder managers, corporate social responsibility specialists, media relations managers, company spokespersons. In addition, interviews will be conducted with individual applicants."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Public Relations and Communication",
+    "code": "D7002Q",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "A PR Practitioner is involved with an organisation's communication strategy."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Public Relations and Communication (Extended)",
+    "code": "D7EX2Q",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "campus": "APB",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "A PR Practitioner is involved with an organisation's communication strategy."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BA (Law)",
+    "code": "B4A01Q",
+    "duration": "3 years",
+    "aps": "31 with Mathematics OR 32 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Legal Advisor, Career in Public Administration. Additional language waived for international students."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BCom (Law)",
+    "code": "B4C01Q",
+    "duration": "3 years",
+    "aps": "31 with Mathematics",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Legal Advisor, Career in Commerce. Additional language waived for international students."
+  },
+  {
+    "faculty": "Law",
+    "programme": "LLB",
+    "code": "B4L03Q",
+    "duration": "4 years",
+    "aps": "31 with Mathematics OR 32 with Mathematical Literacy",
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Additional Language", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+        { "name": "Technical Mathematics", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Advocate, Attorney, State Advocate, Legal Advisor, Magistrate, Public Prosecutor. Additional language waived for international students."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Information Technology - Computer Science and Informatics",
+    "code": "B2I01Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Information Technology - Computer Science and Informatics specialising in AI",
+    "code": "B2I04Q",
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 6, "percentage": 70 },
+        { "name": "Mathematics", "level": 7, "percentage": 80 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Security Architect, Knowledge Manager, Cyber Crime Investigator, All-Source Analyst, IT Investment/Portfolio Manager. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Biochemistry and Botany",
+    "code": "B2L10Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Analyst, Technologist or Researcher in various industries. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Botany and Chemistry",
+    "code": "B2L11Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Botany and Zoology",
+    "code": "B2L12Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Biologist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Zoology and Biochemistry",
+    "code": "B2L13Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Zoology and Chemistry",
+    "code": "B2L14Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Zoologist, Chemical Technologist and Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Zoology and Environmental Management",
+    "code": "B2L15Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Zoology and Geography",
+    "code": "B2L16Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Zoology and Physiology",
+    "code": "B2L17Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Zoologist, Forensic Pathologist, Geneticist, Parasitologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Physiology and Biochemistry",
+    "code": "B2L18Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Biochemist, Researcher, Forensic Analyst, Biotechnologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Physiology and Psychology",
+    "code": "B2L26Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Psychologist, Forensic Pathologist, Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Geology and Geography",
+    "code": "B2L25Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, Geographical Information Specialist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Geology and Environmental Management",
+    "code": "B2L24Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Geographer, Geologist, Mineralogist, Regional Planner, Site Analyst, GIS Specialist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences - Geography and Environmental Management",
+    "code": "B2L20Q",
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences - Actuarial Science",
+    "code": "B2M52Q",
+    "duration": "3 years",
+    "aps": 40,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 7, "percentage": 80 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Actuary, Actuarial Analyst, Quantitative Analyst, Risk Manager, Investment Manager, Credit Ratings Analyst, Statistician, Academic. Offers exemption recommendations for Actuarial Society of South Africa subjects. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Biochemistry and Chemistry",
+    "code": "B2P70Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Scientist in the field of food and water, biomedical, biotechnological and agricultural sectors. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Chemistry and Mathematics",
+    "code": "B2P71Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Chemistry, Researcher, Technologist, Problem Solver. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Chemistry and Physics",
+    "code": "B2P72Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Geology and Chemistry",
+    "code": "B2P81Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Geochemist, Geologist, Forensic Scientist, Exploration Expert. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Geology and Mathematics",
+    "code": "B2P82Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Geomathematician, Geologist, Problem Analyst. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Geology and Physics",
+    "code": "B2P83Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ]
+    },
+    "notes": "Physicist, Geophysicist, Geohydrologist, Geologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Physics and Applied Mathematics",
+    "code": "B2P77Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Problem Solver, Researcher in Astronomy and Energy Sources. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences - Physics and Mathematics",
+    "code": "B2P78Q",
+    "duration": "3 years",
+    "aps": 31,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 5, "percentage": 60 },
+        { "name": "Mathematics", "level": 6, "percentage": 70 },
+        { "name": "Physical Science", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Problem Solver, Researcher in Astronomy and Energy Sources. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Information Technology (Extended) - Computer Science and Informatics",
+    "code": "B2E02Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Systems Analyst, Network Manager, Programmer, Web Developer, Web Master, Database Administrator, Software Engineer, Computer Graphics Designer, Information Technology Manager, Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Biochemistry and Botany",
+    "code": "B2E10Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Analyst, Technologist, or Researcher in various industries. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Botany and Chemistry",
+    "code": "B2E11Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Biologist, Botanist, Ecologist, Nature Conservation Scientist, Forensic Scientist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Botany and Zoology",
+    "code": "B2E12Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Biologist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Parasitologist, Geneticist, Food Technologist, Zoologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Geography and Environmental Management",
+    "code": "B2E13Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Location Analyst, Town Planner, Geo-Information Specialist, Environmental Rehabilitation Manager, Geomorphologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Physiology and Biochemistry",
+    "code": "B2E14Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Biochemist, Researcher, Forensic Analyst, Biotechnologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Physiology and Psychology",
+    "code": "B2E22Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Psychologist, Forensic Pathologist, Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Zoology and Biochemistry",
+    "code": "B2E17Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Zoologist, Biochemist, Nature Conservationist, Environmentalist, Ecologist, Entomologist, Pathologist, Geneticist, Food Technologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Zoology and Chemistry",
+    "code": "B2E18Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Zoologist, Chemical Technologist And Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Zoology and Environmental Management",
+    "code": "B2E19Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Life and Environmental Sciences (Extended) - Zoology and Geography",
+    "code": "B2E20Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Geo-Zoologist, Population Geneticist, Environmental Ecologist and Specialist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Applied Mathematics and Computer Science",
+    "code": "B2E40Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Computer Programmer, Systems Analyst, Mathematical Modulator. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Applied Mathematics and Mathematical Statistics",
+    "code": "B2E41Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematician, Data compiler, Data Interpreter, Biometrician. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Applied Mathematics and Mathematics",
+    "code": "B2E42Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Mathematical Modulator, Mathematical adviser. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Mathematical Statistics and Computer Science",
+    "code": "B2E43Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Computer Programmer, Systems Analyst, Data Compiler and Analyst. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Mathematics and Computer Science",
+    "code": "B2E44Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Computer Programmer, Systems Analyst, Mathematical Advisor. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Mathematics and Informatics",
+    "code": "B2E45Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Computer Programmer, Systems Analyst. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Mathematics and Mathematical Statistics",
+    "code": "B2E46Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Financial Analyst, Economist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Mathematical Sciences (Extended) - Mathematics and Psychology",
+    "code": "B2E49Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mathematician, Teacher, Researcher, Psychologist. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences (Extended) - Biochemistry and Chemistry",
+    "code": "B2E70Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Life Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ]
+    },
+    "notes": "Scientist in the field of food and water, and biomedical, biotechnological and agricultural sectors. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences (Extended) - Chemistry and Mathematics",
+    "code": "B2E71Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Chemistry, Researcher, Technologist, Problem Solver. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences (Extended) - Chemistry and Physics",
+    "code": "B2E72Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Physicist, Researcher, Chemistry Technologist, Forensic Researcher. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences (Extended) - Physics and Applied Mathematics",
+    "code": "B2E73Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Problem Solver, Researcher in Astronomy and Energy Sources. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc Physical Sciences (Extended) - Physics and Mathematics",
+    "code": "B2E74Q",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "campus": "APK",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Mathematics", "level": 5, "percentage": 60 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Problem Solver, Researcher in Astronomy and Energy Sources. Technical Mathematics and Technical Science are not accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Analytical Chemistry (Extended)",
+    "code": "D2ACXQ",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 4, "percentage": 50 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Analytical Chemists analyse raw materials and final products to gauge their quality levels. Technical Science is NOT accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Biotechnology (Extended)",
+    "code": "D2BTEQ",
+    "duration": "3 years",
+    "aps": 23,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 3, "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null },
+        { "name": "Life Science", "level": 3, "percentage": 40 }
+      ]
+    },
+    "notes": "Biotechnologists manipulate living cells for application in the baking, brewing, chemical, agricultural and pharmaceutical fields. Technical Science is NOT accepted."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Food Technology (Extended)",
+    "code": "D2FTEQ",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "campus": "DFC",
+    "requirements": {
+      "compulsory": [
+        { "name": "English", "level": 4, "percentage": 50 },
+        { "name": "Physical Science", "level": 3, "percentage": 40 },
+        { "name": "Life Science", "level": 3, "percentage": 40 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Technical Mathematics", "level": 3, "percentage": 40 },
+        { "name": "Mathematical Literacy", "level": null, "percentage": null }
+      ]
+    },
+    "notes": "Food Technologists research the production, processing, preservation, packing and distribution of food. Technical Science is NOT accepted."
+  }
+]

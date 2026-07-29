@@ -1,0 +1,1792 @@
+[
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Bachelor of Engineering Technology (Industrial Engineering)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 },
+        { "name": "Physical Science", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Technical Maths", "percentage": 60, "level": 5 },
+        { "name": "Technical Science", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": "Alternatively: A Higher Certificate in Mechatronics Engineering, or Higher Certificate in Renewable Energy Engineering as awarded by Nelson Mandela University, with an average of 60% or above and a minimum of 60% for Mathematics (MAT1011)."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BAdmin (Public Administration)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Any one NSC Home or 1st Add Lang", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BA (Human Resource Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Any one NSC Home or 1st Add Lang", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom (Industrial Psychology & Human Resource Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: IS (Business Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom (Computer Science & Information Systems)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Bachelor of Information Technology (BIT)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Technical Maths", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "AdvDip (Information Technology)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "This qualification requires a minimum of 60% average in the final year of an appropriate Diploma in Information Technology. The modules completed in the Diploma will determine which modules can be chosen in the Advanced Diploma."
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Dip: IT (Communication Networks)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 45, "level": 3 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Dip: IT (Software Development)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Alternatively: A Higher Certificate in IT: (User Support Services) with an average of 60% or above."
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Dip: IT (Support Services)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Alternatively: A Higher Certificate in IT: (User Support Services) with an average of 60% or above."
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "HCert: IT (User Support Services)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 35, "level": 2 }
+      ]
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "AdvDip (Interior Design)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 315,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Dip (Interior Design) with an average of at least 65% obtained in the relevant majors of the previous qualification. Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "Dip (Interior Design)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "Admission is subject to departmental selection & submission of a creative portfolio of work and complete a placement assessment."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Accounting)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Accounting) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 45, "level": 3 }
+      ]
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip: Accountancy (Professional Accounting)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip: Accountancy (Internal Auditing)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Accountancy)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 50, "level": 4 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "HCert (Accountancy)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 50, "level": 4 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip (Management Practice)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "A relevant 360-credit Diploma or an equivalent qualification, with a mark of at least 60% obtained in the relevant majors of the previous qualification."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Inventory & Stores Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 305,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 50, "level": 4 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA (Media, Communication & Culture)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Any one NSC (Home or 1st Add Lang)", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts (BA)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Any one NSC (Home or 1st Add Lang)", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Law",
+    "programme": "LLB",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home Lang)", "percentage": 65, "level": 5 },
+        { "name": "English (1st Add Lang)", "percentage": 70, "level": 6 },
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "English (Home Lang) – 65% or English (1st Add Lang) – 70%."
+  },
+  {
+    "faculty": "Law",
+    "programme": "LLB – Extended Curriculum",
+    "code": null,
+    "duration": "5 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home Lang)", "percentage": 60, "level": 5 },
+        { "name": "English (1st Add Lang)", "percentage": 65, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 45, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 70, "level": 6 },
+        { "name": "Technical Maths", "percentage": 70, "level": 6 }
+      ]
+    },
+    "notes": "English (Home Lang) – 60% or English (1st Add Lang) – 65%."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BCom (Law) + two-year post LLB degree",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home Lang)", "percentage": 65, "level": 5 },
+        { "name": "English (1st Add Lang)", "percentage": 70, "level": 6 },
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "English (Home Lang) – 65% or English (1st Add Lang) – 70%."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BA (Law) + two-year post LLB degree",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home Lang)", "percentage": 65, "level": 5 },
+        { "name": "English (1st Add Lang)", "percentage": 70, "level": 6 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Maths Literacy", "percentage": 75, "level": 6 },
+        { "name": "Technical Maths", "percentage": 75, "level": 6 }
+      ]
+    },
+    "notes": "English (Home Lang) – 65% or English (1st Add Lang) – 70%."
+  },
+  {
+    "faculty": "Law",
+    "programme": "BCom: Accounting Science (Law) + two-year post LLB degree",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 410,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home Lang)", "percentage": 65, "level": 5 },
+        { "name": "English (1st Add Lang)", "percentage": 70, "level": 6 },
+        { "name": "Mathematics", "percentage": 65, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "English (Home Lang) – 65% or English (1st Add Lang) – 70%."
+  },
+  {
+    "faculty": "Law",
+    "programme": "Dip (Law Enforcement)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home Lang)", "percentage": 55, "level": 4 },
+        { "name": "English (First Add Lang)", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Please note that this qualification does not provide direct access into the LLB, LLB (extended), BA (Law) or BCom (Law). Admission is subject to department selection."
+  },
+  {
+    "faculty": "Law",
+    "programme": "HCert (Law Enforcement)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 310,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home Lang)", "percentage": 50, "level": 4 },
+        { "name": "English (1st Add Lang)", "percentage": 55, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Please note that this qualification (HCert) does not provide direct access into the LLB, LLB (extended), BA (Law) or BCom (Law)."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom (Logistics & Transport Economics)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip (Logistics Management)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "A relevant 360-credit Diploma or an equivalent qualification."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Logistics)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 310,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Logistics) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 35, "level": 2 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "HCert (Business Studies)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 50, "level": 4 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: (Marketing & Business Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Business Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Business Management) - Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 45, "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Business Management and Industrial & Organisational Psychology)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Only offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 310,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Management) - Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 35, "level": 2 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Biological Sciences)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 410,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Biological Sciences) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Bachelor of Engineering Technology (Marine Engineering)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 },
+        { "name": "Physical Science", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Technical Maths", "percentage": 60, "level": 5 },
+        { "name": "Technical Science", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": "Alternatively: A Higher Certificate in Mechatronics Engineering with an average of 60% and a minimum of 60% for Mathematics (MAT1011)."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip (Marketing Management)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "A relevant 360-credit Diploma or an equivalent qualification."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Marketing)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 310,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Marketing) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 35, "level": 2 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Applied Mathematics, Computer Science, Mathematical Statistics and Physics)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 410,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 65, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Bachelor of Engineering Technology (Mechanical Engineering)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 },
+        { "name": "Physical Science", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Technical Maths", "percentage": 60, "level": 5 },
+        { "name": "Technical Science", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": "Alternatively: A Higher Certificate in Mechatronics Engineering, or Higher Certificate in Renewable Energy Engineering as awarded by Nelson Mandela University, with an average of 60% or above and a minimum of 60% for Mathematics (MAT1011)."
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "HCert (Mechatronic Engineering)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Technical Maths", "percentage": 50, "level": 4 },
+        { "name": "Technical Science", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "BEng (Mechatronics)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 410,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 65, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Alternatively: Applicants who completed all modules in the Higher Certificate (Mechatronic Engineering) qualification, with an academic average of 75%, with a minimum of 75% for Mathematics (MAT1011), and a minimum of 65% for Physical Sciences (PHY1001) may be considered. No credits will be given for any modules completed as part of the HCert (Mechatronics Engineering) qualification."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BHSc: Medical Laboratory Science",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 390,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 4 },
+        { "name": "Life Sciences", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+    "code": null,
+    "duration": "6 years",
+    "aggregator": 430,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English (Home or 1st Add Lang)", "percentage": 60, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 5 },
+        { "name": "Physical Science", "percentage": 60, "level": 5 },
+        { "name": "Life Science", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Online applications close 30 June. Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Biochemistry, Chemistry, Microbiology & Physiology)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 410,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Biochemistry, Chemistry, Microbiology & Physiology) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "Diploma in Music (Curriculum 2)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 290,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "This programme is designed for students who do have prior learning in music, but who do not qualify for entry into degree studies. Admission is subject to an audition in the candidate's chosen First Instrument, during which vocal or instrumental musical performance ability must be successfully demonstrated. A minimum standard of musical performance equivalent to grade 2 of the external examining bodies for music (Unisa, ABRSM, Trinity Guildhall) is required for admission to First Instrument: Intermediate (MFPV131), and a minimum standard of musical performance equivalent to grade 6 of the external examining bodies for music (Unisa, ABRSM, Trinity Guildhall) is required for admission to First Instrument: Advanced (MFPV101)."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "Diploma in Music (Curriculum 1)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 290,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "This programme is focused on the adult beginner. No prior formal learning in music is required. However, admission is subject to an audition in the candidate's chosen First Instrument, during which vocal or instrumental musical performance ability must be successfully demonstrated."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (School Music)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 350,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": "Practical standard equivalent to Grade 6 and music theoretical standard equivalent to Grade 5 is required. Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (Performing Arts)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 350,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": "Practical standard equivalent to Grade 6 and music theoretical standard equivalent to Grade 5 is required. Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (Music Technology)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 350,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": "Practical standard equivalent to Grade 6 and music theoretical standard equivalent to Grade 5 is required. Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (General)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 350,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": "Practical standard equivalent to Grade 6 and music theoretical standard equivalent to Grade 5 is required. Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (School Music) – Extended Curriculum",
+    "code": null,
+    "duration": "5 years",
+    "aggregator": 330,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (Performing Arts) – Extended Curriculum",
+    "code": null,
+    "duration": "5 years",
+    "aggregator": 330,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (Music Technology) – Extended Curriculum",
+    "code": null,
+    "duration": "5 years",
+    "aggregator": 330,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Arts & Design",
+    "programme": "BMus (General) – Extended Curriculum",
+    "code": null,
+    "duration": "5 years",
+    "aggregator": 330,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 45, "level": 3 },
+        { "name": "Technical Maths", "percentage": 30, "level": 2 }
+      ]
+    },
+    "notes": "Admission is subject to departmental selection based on an audition in the applicant's chosen First Instrument and to a music theory entrance test."
+  },
+  {
+    "faculty": "Science",
+    "programme": "AdvDip (Nature Conservation)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Only offered on George Campus. A relevant 360-credit Diploma in Nature Conservation or an equivalent qualification (e.g., Diploma in Game Ranch Management or Diploma in Wildlife Management). Candidates with a cognate qualification in the fields of ecology and natural resource management (e.g., BSc with majors Botany, Zoology or Ecology) can horizontally apply for this advanced diploma. The minimum entry requirement for the Advanced Diploma is a 60% average for the Diploma, or 60% average for majors in the case of cognate qualifications like a BSc."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Dip (Nature Conservation)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 345,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 3 },
+        { "name": "Life Sciences", "percentage": 50, "level": 4 },
+        { "name": "Technical Science", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Only offered on George Campus. Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Nursing",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Physical Sciences", "percentage": 50, "level": 4 },
+        { "name": "Life Sciences", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Maths Literacy", "percentage": 65, "level": 5 },
+        { "name": "Technical Maths", "percentage": 65, "level": 5 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Nursing – Extended Curriculum",
+    "code": null,
+    "duration": "5 years",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Physical Sciences", "percentage": 40, "level": 3 },
+        { "name": "Life Sciences", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip (Operations Management)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 310,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Students must have a 65% average for any relevant National Diploma, Diploma or Degree qualification, at the discretion of the Head of Department, or 60% average with at least two years relevant post diploma/degree working experience. Mathematics I or equivalent at NQF Level 5. Employment in a relevant field is required for the Project modules."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Operations Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 325,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Full-time employment in a related field and comprehensive CV. Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Pharmacy (BPharm)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 410,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Home language or language of instruction", "percentage": 50, "level": 4 },
+        { "name": "Mathematics", "percentage": 60, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Online applications close 30 June. Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Emergency Medical Care (BEMC)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Physical Sciences", "percentage": 50, "level": 4 },
+        { "name": "Life Sciences", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Maths Literacy", "percentage": 65, "level": 5 },
+        { "name": "Technical Maths", "percentage": 65, "level": 5 }
+      ]
+    },
+    "notes": "Admission is subject to departmental selection, that includes an interview, as well as a medical fitness report and satisfactory physical assessment."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Visual Art (BVA)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Any one NSC (Home or 1st Add Lang)", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": "See Art & Design"
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Physical Science and Mathematics)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 410,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 65, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA (Politics & Economics)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Any one NSC (Home or 1st Add Lang)", "percentage": 60, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Technical Mathematics", "percentage": 70, "level": 6 },
+        { "name": "Mathematical Literacy", "percentage": 70, "level": 6 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Dip (Polymer Technology)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 55, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Includes 1 year Work Integrated Learning (WIL)."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BA (Psychology)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 45, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 65, "level": 5 },
+        { "name": "Technical Maths", "percentage": 65, "level": 5 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "AdvDip (Public Administration & Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 310,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Diploma (Public Management) or equivalent qualification with an overall academic average of at least 60%, except if otherwise approved by the Head of Department and/or the Learning Programme Coordinator, in line with Faculty guidelines as approved by the Faculty Board."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Dip (Public Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 55, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Dip (Public Management) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 50, "level": 4 },
+        { "name": "Technical Maths", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "AdvDip (Public Relations Management)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Dip (Public Relations Management), or an equivalent qualification, with a final mark of at least 60% for the Diploma is required."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Dip (Public Relations Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 50, "level": 4 },
+        { "name": "Technical Maths", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "AdvDip (Quantity Management)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Dip (Building), or an equivalent qualification. A weighted average of 60% in the final year of study in the diploma where students must obtain at least 60% for the core module (Construction Management)."
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "BSc: Construction Economics",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 370,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 55, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip (Quality Management)",
+    "code": null,
+    "duration": "2 years",
+    "aggregator": null,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Students must have a 65% or higher weighted average for any relevant Diploma or Degree qualification, at the discretion of the Head of Department, or a 60% average, with two years relevant post diploma/ degree working experience. Mathematics I or equivalent at an NQF Level 5. Employment in a relevant field is required for the Project module."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Radiography in Diagnostic (BRad)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 390,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 4 },
+        { "name": "Life Sciences", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Online applications close 30 June. Admission is subject to departmental selection. Applicants must also be physically fit & must submit a satisfactory medical report before registration."
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "HCert (Renewable Energy Engineering)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Technical Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Technical Science", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Work (BSW)",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 350,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 65, "level": 5 },
+        { "name": "Technical Maths", "percentage": 65, "level": 5 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Dip (Sport Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 60, "level": 5 }
+      ]
+    },
+    "notes": "Active participation in a competitive sport as approved by the department. Admission is subject to departmental selection."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Statistics)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom (Economics & Statistics)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Tourism)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 390,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 },
+        { "name": "Maths Literacy", "percentage": 70, "level": 6 },
+        { "name": "Technical Maths", "percentage": 50, "level": 4 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "BCom: General (Tourism) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 45, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 65, "level": 5 },
+        { "name": "Technical Maths", "percentage": 45, "level": 3 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "AdvDip (Tourism Management)",
+    "code": null,
+    "duration": "1 year",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "A relevant 360-credit Diploma or an equivalent qualification. Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Tourism Management)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 310,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Also offered on George Campus."
+  },
+  {
+    "faculty": "Business & Economic Sciences",
+    "programme": "Dip (Tourism Management) – Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 290,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 35, "level": 2 },
+        { "name": "Maths Literacy", "percentage": 55, "level": 4 },
+        { "name": "Technical Maths", "percentage": 35, "level": 2 }
+      ]
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "AdvDip (Wood Technology)",
+    "code": null,
+    "duration": "2 years",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": []
+    },
+    "notes": "Only offered on George Campus. Dip (Wood Technology) or an equivalent qualification. Candidates will only be considered if their average pass mark for the diploma is at least 60%."
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Dip (Wood Technology)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 345,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Physical Sciences", "percentage": 40, "level": 3 },
+        { "name": "Technical Science", "percentage": 40, "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": "Only offered on George Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Environmental Sciences)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 410,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 60, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Science",
+    "programme": "BSc (Environmental Sciences) - Extended Curriculum",
+    "code": null,
+    "duration": "4 years",
+    "aggregator": 370,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "Mathematics", "percentage": 50, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Engineering, the Built Environment & Technology",
+    "programme": "Dip (Building)",
+    "code": null,
+    "duration": "3 years",
+    "aggregator": 330,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 3 },
+        { "name": "Maths Literacy", "percentage": 60, "level": 5 },
+        { "name": "Technical Maths", "percentage": 40, "level": 3 }
+      ]
+    },
+    "notes": null
+  }
+]

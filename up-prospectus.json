@@ -1,0 +1,2113 @@
+[
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Administration specialising in Public Administration and International Relations",
+    "code": null,
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 30, "level": 3 },
+        { "name": "Mathematical Literacy", "percentage": 40, "level": 4 }
+      ]
+    },
+    "notes": "Careers: Diplomats, political analysts, managers in the public sector, local government and the private sector, non-governmental organisations, international organisations and embassies."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce in Accounting Sciences",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce and Bachelor of Commerce specialising in Financial Management Sciences. Careers: First step towards qualifying as chartered accountants, external auditors, government auditors, taxation professionals and advisors and financial directors or managers."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Investment Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce, Bachelor of Commerce specialising in Financial Management Sciences and Bachelor of Commerce specialising in Economics. Careers: Portfolio/fund managers, investment analysts, risk managers/analysts, quantitative analysts, financial advisors/planners, wealth managers and investment strategists."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Financial Management Sciences",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce and Bachelor of Commerce [4-year programme]. Careers: Business accounting: Financial reporting specialists. Financial management: Management accountants, management consultants, financial advisors, cost accountants and financial managers. Taxation: Tax advisors, tax auditors in public practice, tax policy designers, tax professionals, tax compliance managers, SARS auditors and tax risk managers. Internal auditing: Internal auditors, performance auditors, government auditors, governance auditors, forensic auditors, IT auditors, environmental auditors, risk and compliance officers."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Econometrics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce, Bachelor of Commerce specialising in Statistics and Data Science and Bachelor of Commerce specialising in Economics. Careers: Econometricians are employed by the government, the central bank, private and commercial banks, leading stockbrokers and consultancies, both locally and internationally. Positions include analysts, consultants, researchers, traders or brokers and academics."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Economics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce and Bachelor of Commerce [4-year programme]. Careers: Economists may specialise in banking, public finance, international trade and investment or economic development. They are employed by the government, the central bank, private and commercial banks, stock brokerage firms and consultancies, both locally and internationally. Positions include analysts, consultants, researchers, traders and academics."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Law",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Arts specialising in Law and Bachelor of Laws [also referred to as LLB]. Careers: First step towards becoming attorneys, legal advisors, advocates, prosecutors, presiding officers (magistrates or judges) and academics in the legal field."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Statistics and Data Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce and Bachelor of Commerce [4-year programme]. Careers: Data scientists, statistical analysts in several industries, researchers, consultants and lecturers."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Information Systems",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce and Bachelor of Commerce [4-year programme]. Careers: Managers in the information technology environment, computer software or hardware support services, computer systems analysts, financial information systems analysts, business analysts, information facilitators, IT training officers, systems developers, business systems analysts."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Agribusiness Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce and Bachelor of Commerce [4-year programme]. Careers: Opportunities exist in banking, finance and insurance; policy design and implementation; research and consultation; food processing and manufacturing; commodity trading on global and local stock markets; logistics and supply chain operations; and business management in agricultural companies."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Business Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce, Bachelor of Commerce specialising in Supply Chain Management and Bachelor of Commerce [4-year programme]. Careers: Opportunities exist in the areas of administration, finance, marketing and human resources management, including employment as teachers, lecturers, general managers and management consultants."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Supply Chain Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce, Bachelor of Commerce specialising in Business Management and Bachelor of Commerce [4-year programme]. Careers: The purpose of this programme is to equip students with the ability to participate in functional management within an integrated supply chain."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Marketing Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce, Bachelor of Commerce specialising in Business Management and Bachelor of Commerce [4-year programme]. Careers: Product management, customer service management, customer relationship management, strategic marketing, sales management, brand management, advertising management, media planning, marketing research management and promotions management."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce specialising in Human Resource Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Commerce, Bachelor of Commerce specialising in Business Management and Bachelor of Commerce [4-year programme]. Careers: Human resources practitioners, human resources consultants, mediators, labour relations specialists, human resources managers, personnel managers, training officers, liaison officers, psychometrists and industrial psychologists."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Careers: Although the degree does not lead to a specific vocational outcome, it allows students flexibility to shape their own career paths by designing a curriculum tailored to future opportunities across various sectors."
+  },
+  {
+    "faculty": "Economic and Management Sciences",
+    "programme": "Bachelor of Commerce",
+    "code": null,
+    "duration": "4 years",
+    "aps": 26,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 30, "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a selection programme. Additional selection criteria apply and will be communicated by the Faculty to applicants. Careers: Although the degree does not lead to a specific vocational outcome, it allows students flexibility to shape their own career paths by designing a curriculum tailored to future opportunities across various sectors."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Early Childhood Care and Education",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any other Bachelor of Education programme. Careers: Teachers and training officials at pre-primary or primary schools."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Foundation Phase Teaching",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any other Bachelor of Education programme. Careers: Teachers and training officials at pre-primary or primary schools."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Intermediate Phase Teaching",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any other Bachelor of Education programme. Careers: Teachers and training officials at primary schools."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase and Further Education and Training Teaching",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Additional subject requirements for elective modules in Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IEB examination. Suggested second-choice programmes: Any other Bachelor of Education programme. Careers: Teachers and training officials at primary or secondary schools."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Higher Certificate in Sports Sciences",
+    "code": null,
+    "duration": "1 year",
+    "aps": 20,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection process: Applicants who indicate the Higher Certificate in Sports Sciences as their first or second choice will be considered. All applicants will be considered by the Faculty of Education's Student Administration based on the academic application requirements. Applicants who meet the academic requirements will then be further considered for the different sports codes in consultation with TuksSport, according to their sports achievements. Preference will be given to applicants who have been nominated by an official sports club of the University of Pretoria. Applicants who have a Diploma Studies endorsement for the NSC (or an equivalent qualification) may be considered for admission to the Bachelor of Education in Senior Phase and Further Education and Training (FET) Teaching (programme code 09133031), with a specialisation in Human Movement Studies and Sports Management. To qualify, applicants must first complete the Higher Certificate in Sports Sciences (HCSS) with a cumulative weighted average of at least 70%. Careers: Sports coaching and roles in the sports and exercise industry."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Higher Certificate in Sports Sciences",
+    "code": null,
+    "duration": "2 years",
+    "aps": 20,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is an online programme. Students must have at least part-time access to schools, sports clubs and/or accredited training facilities that are relevant to their chosen field of specialisation. Careers: This programme prepares students for employment as trainers and coaches across various sporting disciplines, in both the private and public sectors."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Chemical Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Chemical engineers work across petroleum, food processing, minerals, power generation, paper and pulp, water and effluent treatment, environmental engineering and air pollution control. Roles include research and development, plant design, process control, operations and management."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Civil Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics, Bachelor of Science in Physics, Bachelor of Science in Construction Management and Bachelor of Science in Quantity Surveying. Careers: Civil engineers design, build and maintain constructions such as tower blocks and skyscrapers, dams, canals and pipelines, roads, bridges, tunnels, railways, airports, power stations, towers, waterworks and outfall installations."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Computer Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Computer engineers work across computer systems, software engineering, networks, embedded software, electronics, automation, data security, e-commerce, pattern recognition and artificial intelligence."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Electrical Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Electrical engineers work in power generation, storage, transmission, distribution and renewable energy. They design and manage electrical installations for municipalities, buildings, factories, mines, rail transport, water pumping, electrical grids, telecommunications, energy management and smart lighting."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Electronic Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Electronic engineers work across telecommunications, medical technology (MRI, X-rays, ECGs), integrated circuit design, bioengineering, military systems, transport technology (GPS, e-tags, railway signalling), security systems, banking, robotics, environmental management and more."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Industrial Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Industrial engineers design and manage production and service delivery systems. They optimise facility layout, manufacturing, inventory control, supply chain management, quality management, cost control, maintenance, information systems and human resources."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Mechanical Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Mechanical and aeronautical engineers work with power-generating machines including vehicles, aircraft, engines, turbines, nuclear reactors and biomedical systems. Specialisations include product design and manufacturing, marine and naval architecture, biomedical engineering, air-conditioning, aerospace systems, vehicle engineering and energy management."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Metallurgical Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Metallurgical engineers extract metals from ores and optimise metallic components and products. They work in minerals processing, extractive metallurgy, materials engineering, advanced manufacturing (including laser-assisted additive manufacturing and welding) and failure analysis."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering in Mining Engineering",
+    "code": null,
+    "duration": "4 years",
+    "aps": 35,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Chemistry, Bachelor of Science in Mathematics and Bachelor of Science in Physics. Careers: Mining engineers work in mine management, technical operations (ventilation, rock mechanics), financial evaluation and mine design, mining contracting (tunnelling, shaft sinking), mining research, equipment design and manufacture and mining administration at national, provincial and international levels."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Engineering",
+    "code": null,
+    "duration": "5 years",
+    "aps": 33,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 65, "level": 5 },
+        { "name": "Mathematics", "percentage": 65, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 65, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a five-year programme for all Engineering disciplines. Note: The admission requirements above are relevant to prospective students who will commence their studies in 2027. Admission to the five-year programme in the School of Engineering will be determined by the Grade 12 results."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Science in Architecture",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Will only be considered as first study choice. Selection includes an interview. Careers: The Bachelor of Science in Architecture degree programme enables graduates to register with the South African Council for the Architectural Profession (SACAP) as candidate architectural technologists. The qualification is the first step to future registration as a candidate senior architectural technologist or a candidate architect."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Science in Construction Management",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Accounting", "percentage": 40, "level": 4 }
+      ]
+    },
+    "notes": "Suggested second-choice programme*: Bachelor of Science in Real Estate. Careers: After the three-year degree, graduates can enter construction site management or subcontracting field. With the honours programme, graduates register as candidate professional construction managers or project managers, with opportunities in property development, portfolio management, commercial marketing and corporate management positions."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Science in Real Estate",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Accounting", "percentage": 40, "level": 4 }
+      ]
+    },
+    "notes": "Suggested second-choice programme*: Bachelor of Commerce in Investment Management. Careers: Graduates work in property investment, finance, facilities management and property management. With an honours degree, graduates can register as professional property valuers."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Science in Quantity Surveying",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Accounting", "percentage": 40, "level": 4 }
+      ]
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Construction Management and Bachelor of Science in Real Estate. Careers: Quantity surveyors provide financial and contractual services in the built environment. After the three-year degree and honours programme, graduates register as candidate professional quantity surveyors."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Town and Regional Planning",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Careers: Graduates become town and regional planners, development practitioners, urban managers and real estate analysts. They work as private consultants or with government, research agencies (CSIR, HSRC), NGOs, financial institutions and property development groups. Graduates can register as professional town and regional planners with the South African Council for Planners."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Commerce specialising in Information Systems",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This programme is administered by the Faculty of Economic and Management Sciences. Careers: Data scientists, IT auditors, IT entrepreneurs, IT tax specialists, e-business consultants, programmers, business analysts, project managers, CIOs, CTOs and knowledge managers."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Information Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Information Science specialising in Publishing, Bachelor of Commerce specialising in Information Systems and Bachelor of Arts. If specialising in Information Systems is selected as a subject at the first-year level, an achievement level of 5 is required in Mathematics. Careers: Graduates become information and knowledge managers, information or e-commerce specialists, consultants on information products and systems, information brokers (infopreneurs) and system specialists who develop information systems."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Information Science specialising in Publishing",
+    "code": null,
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Information Science, Bachelor of Arts specialising in Languages and Bachelor of Arts. Careers: Entry-level opportunities include assisting publishing house managers, commissioning editors and production or marketing managers. Roles encompass market research, copyright negotiations, copy-editing, proofreading, marketing and promotion and distribution."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Information Science specialising in Multimedia",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Information Science, Bachelor of Information Science specialising in Publishing, Bachelor of Science in Information Technology in Information and Knowledge Systems and Bachelor of Commerce specialising in Information Systems. Careers: Graduates become programmers, web designers, animation specialists, video editors and electronic artists."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Information Technology in Information Systems",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme*: Bachelor of Information Science. Careers: Data scientists, IT auditors, IT entrepreneurs, IT tax specialists, e-business consultants, programmers, business analysts, project managers, CIOs, CTOs and knowledge managers."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Science in Computer Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes*: Bachelor of Science in Information Technology in Information and Knowledge Systems and Bachelor of Commerce specialising in Information Systems. Careers: Programmers, systems analysts, systems architects, consultants, database administrators, network analysts and researchers."
+  },
+  {
+    "faculty": "Engineering, Built Environment and Information Technology",
+    "programme": "Bachelor of Science in Information Technology in Information and Knowledge Systems",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme*: Bachelor of Science in Computer Science. Careers: Graduates specialise in data science, genetics, geographical information systems, IT and enterprises, IT and law, IT and music or software development to differentiate themselves in the application environment."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Dental Surgery",
+    "code": null,
+    "duration": "5 years",
+    "aps": 35,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: Dentists, specialists, academics and researchers."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Oral Hygiene",
+    "code": null,
+    "duration": "3 years",
+    "aps": 25,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Career: Oral hygienists."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Dietetics",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: Dieticians, academics and researchers."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Nursing Science",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Life Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: General nursing and midwifery."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Occupational Therapy",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: Occupational therapists, academics and researchers."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Physiotherapy",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: Physiotherapists, academics and researchers."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Radiography in Diagnostics",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: Radiographers, academics and researchers."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Clinical Medical Practice",
+    "code": "BCMP",
+    "duration": "3 years",
+    "aps": 28,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 },
+        { "name": "Life Sciences", "percentage": 40, "level": 4 }
+      ]
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results and the Biographical Information Form. Careers: Clinical associates, academics and researchers."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Medicine and Surgery",
+    "code": "MBChB",
+    "duration": "6 years",
+    "aps": 35,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: General medical practitioners, specialists (after postgraduate training)."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Sports Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 },
+        { "name": "Life Sciences", "percentage": 40, "level": 4 }
+      ]
+    },
+    "notes": "Selection is based on a candidates' final Grade 11 examination results. Careers: Sports scientists, biokineticists, personal trainers, strength and conditioning specialists, fitness instructors, exercise scientists, gym managers/owners, academics and researchers. Note: Students must complete a Bachelor of Science Honours in Sport Science or Biokinetics to qualify as sports scientists or biokineticists respectively."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Speech-Language Pathology",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on academic achievement, and only 50 students are admitted. The conditional selection process starts in August each year. The first year of study is the same for both the Audiology and Speech-Language Pathology programmes. Careers: Work in education and special education, hospitals, clinics or rural communities, or private practices, government, military and academic institutions (teaching and research)."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Audiology",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Selection is based on academic achievement, and only 50 students are admitted. The conditional selection process starts in August each year. The first year of study is the same for both the Audiology and Speech-Language Pathology programmes. Careers: Diagnostic audiometry and rehabilitative audiology, work in education, special education, private and public hospitals and clinics, private practice, military, community outreach programmes, higher education (teaching, research)."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Information Design",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Along with your UP application, you must submit an online portfolio to the Information Design division by 30 June. Applications without a portfolio will not be considered. Final admission is confirmed with an APS of at least 28 in the Grade 12 final results. Careers: Graduates work as animators, graphic designers, illustrators, art directors, or typographers for advertising agencies, publishing industries, broadcasting studios, corporate design departments, or as freelance designers and studio owners."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. To retain admission, candidates must obtain an APS of at least 28 in the Grade final results. Careers: Depending on the choice of disciplines majoring in, the Bachelor of Arts lays the foundation for further studies and work in the following fields: Community engagement and development, counselling, cultural studies, diplomacy and politics, education, governance, heritage conservation, journalism, language services, media studies, policy analysis, psychology, societal analysis, work and organisational studies. Note: Students who wish to become psychologists must complete a Bachelor of Arts majoring in Psychology, the Bachelor of Social Science Honours specialising in Psychology and the Master of Arts in Clinical, Counselling or Research Psychology."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Work",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Arts. Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with a minimum APS of 28 in the Grade 12 final results. Admission to this programme is initially based on school results. To continue in the programme, students must successfully complete departmental selection at the end of their first year. This process assesses academic performance and may include an aptitude test and interview. Requirement for selection into the second year: A general average mark of 60% for all the social work first year level modules respectively, and a weighted average of 60% for the rest of the required modules in the BSW programme. In terms of the Children's Act (2005), all registered student social workers have to complete Form 30 in Part B of the National Child Protection Register (NCPR). Career: Social worker."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts specialising in Law",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Laws, also referred to as LLB, Bachelor of Commerce specialising in Law and Bachelor of Arts. Career: Lawyer (A Bachelor of Arts specialising in Law degree and a Bachelor of Laws degree are required.)"
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts specialising in Languages",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Arts. Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with an APS of at least 28 in the Grade 12 final results. Careers: Graduates work in advertising, media, copywriting, editing, language teaching, lexicography, technical writing, public relations, translation, publishing, diplomacy or tourism. An honours degree enables registration as a language practitioner; a Postgraduate Certificate in Education leads to teaching careers."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Science specialising in Industrial Sociology and Labour Studies",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Arts. Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with an APS of at least 28 in the Grade 12 final results. Careers: Labour relations practice, arbitration, conflict management and resolution, labour administration and research, gender issues and dismissals, work for government institutions, parastatals, private sector and trade union organisations."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Science in Heritage and Cultural Sciences",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with an APS of at least 28 in the Grade 12 final results. Careers: Travel, tourism, tourist guides, management, hospitality, marketing, journalism, government, education and/or work in the broader museum and heritage fields on a local, national and international level."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Music",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "The School of the Arts: Music selects candidates based on a practical singing or instrument performance of 15 minutes, as well as a theoretical test. Audition required: Video of a practical performance (with an achievement of at least 60%): A performance on the candidate's principal instrument. The performance should last about 15 minutes, and the programme must contain three works from different style periods (standard: at least Grade VII, Unisa/Royal Schools/Trinity practical music examinations); Online theoretical test (with an achievement of at least 60%): A written test that will assess the candidate's knowledge of elementary harmony (standard: at least Grade V, Unisa/Royal Schools/Trinity theory examinations). To retain final admission, you must obtain an APS of at least 28 in the Grade 12 final results. Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Admissions take place in July, September and on an ad-hoc basis. Careers: Music teachers, music technicians, solo and/or chamber music performers, orchestral musicians and composers."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Music",
+    "code": null,
+    "duration": "5 years",
+    "aps": 26,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 5-year programme. Prospective students will be required to write an assessment. The School of the Arts: Music selects candidates based on a practical singing or instrument performance of 10 minutes, as well as a theoretical test. Audition required: Video of a practical performance (with an achievement of at least 50%): A performance on the candidate's principal instrument. The performance should last about 10 minutes, and the programme must contain three works from different style periods (standard: at least Grade V, Unisa/Royal Schools/Trinity practical music examinations); Online theory test (with an achievement of at least 50%): A written test that will assess the candidate's knowledge of elementary theoretical principles (standard: at least Grade III, Unisa/Royal Schools/Trinity theory examinations). Admissions take place in July, September and on an ad-hoc basis. If you are admitted to this programme, you may not be considered for any other degree programme within the Faculty, except for the Bachelor of Music degree. Careers: Music teachers, music technicians, solo and/or chamber music performers, orchestral musicians and composers."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Drama",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with a minimum APS of 28 in the Grade 12 final results. Admissions take place in August and on an ad-hoc basis. Careers: Graduates become actors, physical theatre artists, theatre critics, radio and television presenters, directors, educational theatre practitioners, light and sound operators, voice artists, stage managers, performing arts administrators, documentary film-makers, digital media creators, playwrights, scriptwriters and researchers."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Drama",
+    "code": null,
+    "duration": "4 years",
+    "aps": 26,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 4-year programme. Applicants must complete and pass an audition process. The first year is a foundation year. Applicants who meet the criteria for the 3-year programme must apply for that programme. Admissions take place in August and on an ad-hoc basis. Careers: Graduates become actors, physical theatre artists, theatre critics, radio and television presenters, directors, educational theatre practitioners, light and sound operators, voice artists, stage managers, performing arts administrators, documentary film-makers, digital media creators, playwrights, scriptwriters and researchers."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts specialising in Philosophy, Politics and Economics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Students who are interested in the Bachelor of Arts specialising in Philosophy, Politics and Economics programme, but do not comply with the 5 required in Mathematics, but have an APS of 32, a 4 in Mathematics and a 5 in English, may be admitted to another degree programme for the first year. If they register for STC 110 and STC 122 in their first year of study and pass both modules, they will be allowed to apply for an internal transfer to the BA(PPE) programme in their second year of study. Please note that students are required to pass STC 110 in order to continue with STC 122. Careers: Economic or political policy-making, journalism or diplomatic service."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Political Science specialising in International Studies",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Political Science specialising in Political Studies and Bachelor of Arts. Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with a minimum APS of 28 in the Grade 12 final results. Careers: International relations, diplomatic service, political consultation, conflict resolution, policy analysis, strategic intelligence, governance, international political economics and risk analysis."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Political Science specialising in Political Studies",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Political Science specialising in International Studies and Bachelor of Arts. Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with a minimum APS of 28 in the Grade 12 final results. Careers: Policy analysis and consultation, political analysis and communication, governance, conflict resolution, strategic intelligence, political development and mobilisation and risk analysis."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Fine Arts",
+    "code": null,
+    "duration": "4 years",
+    "aps": 30,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with a minimum APS of 28 in the Grade 12 final results. Admissions take place in July, September and on an ad-hoc basis. Applicants must submit an A4 portfolio, which will be evaluated alongside a UP competency test that includes both practical and theoretical components. Successful applicants must achieve at least 60% in each of the following components: Conceptualisation test, Drawing, Interview, A4 Portfolio. Careers: Gallery managers, art facilitators, art consultants/advisors, art educators, artists in the fine arts, artists in new media, artists in applied arts."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts in Fine Arts",
+    "code": null,
+    "duration": "5 years",
+    "aps": 26,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 5-year programme. Admissions take place in July, September and on an ad-hoc basis. Candidates must also complete a UP competency test that assesses practical and theoretical components. Successful applicants must achieve at least 50% in each of the following components: Conceptualisation test, Drawing, Interview, A4 Portfolio. Careers: Gallery managers, art facilitators, art consultants/advisors, art educators, artists in the fine arts, artists in new media, artists in applied arts."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Arts specialising in Visual Studies",
+    "code": null,
+    "duration": "3 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Arts. Applicants are considered for conditional admission with a minimum APS of 30 based on Grade 11 results. Final admission is confirmed with a minimum APS of 28 in the Grade 12 final results. Careers: Art and film critics, visual culture specialists, art and culture educators, academics, art historians, curators, visual analysts, visual consultants, media and communication analysts, social media coordinators, gallery managers."
+  },
+  {
+    "faculty": "Law",
+    "programme": "Bachelor of Laws",
+    "code": "LLB",
+    "duration": "4 years",
+    "aps": 35,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Candidates are urged to apply as early as possible from 1 April. Queries relating to Bachelor of Laws applications can be directed to: Tel +27 (0)12 420 4265 | Email lawadmin@up.ac.za"
+  },
+  {
+    "faculty": "Law",
+    "programme": "Bachelor of Commerce specialising in Law",
+    "code": "BCom (Law)",
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Careers: First step towards becoming attorneys, legal advisors, advocates, prosecutors, presiding officers (magistrates or judges) and academics in the legal field. Queries relating to Bachelor of Commerce specialising in Law applications can be directed to: Ms Ronel Steenkamp | Tel +27 (0)12 420 3347 | Email ronel.steenkamp@up.ac.za"
+  },
+  {
+    "faculty": "Law",
+    "programme": "Bachelor of Arts specialising in Law",
+    "code": "BA (Law)",
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Career: Lawyer (A Bachelor of Arts specialising in Law degree and a Bachelor of Laws degree are required.) Queries relating to Bachelor of Arts specialising in Law applications can be directed to: Ms Ernika Monyeki | Tel +27 (0)12 420 5241 | Email ernika.monyeki@up.ac.za"
+  },
+  {
+    "faculty": "Theology and Religion",
+    "programme": "Bachelor of Theology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Diploma in Theology. Careers: Ministers, pastors, priests, preachers in certain denominations, missionaries and youth counsellors. Other possibilities include roles such as ethics consultants for businesses. Theological studies can be enriching for people in various other vocations. Prospective students interested in ordained ministry are encouraged to discuss their intentions to register for this programme with their church leadership."
+  },
+  {
+    "faculty": "Theology and Religion",
+    "programme": "Bachelor of Divinity",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Theology. Careers: Ministers, pastors, priests, preachers in certain denominations, missionaries and youth counsellors. Other possibilities include roles such as ethics consultants for businesses. Theological studies can be enriching for people in various other vocations. Prospective students interested in ordained ministry are encouraged to discuss their intentions to register for this programme with their church leadership."
+  },
+  {
+    "faculty": "Theology and Religion",
+    "programme": "Diploma in Theology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Arts. Careers: Ministers, pastors, priests, lay preachers in certain denominations, missionaries and youth counsellors. Candidates should consult their church leadership on which programme would best suit their aims. The Diploma in Theology is intended for candidates who have completed the NSC/IEB (or equivalent), but without the required university admission."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Agriculture in Agricultural Economics",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Commerce specialising in Agribusiness Management. Careers: Graduates are equipped with the skills to analyse consumer behaviour, support sustainable resource use and advise the agricultural sector on finances, risk and food security. The degree prepares graduates to contribute to global food and clothing supply by working across supply chains, training farmers, trading commodities and shaping agricultural policy. Employment opportunities for agricultural economists include employment in the government, commercial banks, multinational agribusiness companies, farmer cooperatives, commodity trading houses, food processors and manufacturers and research councils."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Agriculture in Animal Science",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Zoology. Careers: The Bachelor of Science in Agriculture in Animal Science applies scientific principles to livestock production and product quality, playing a key role in South Africa's protein supply. The field covers the full value chain, from conception to consumption, and is based on the latest research and the needs of both animals and people. Career opportunities include roles in research and development, commercial farming, the public sector, the livestock and feed industries, nutrition and breeding consulting, technical and managerial positions as well as policy and advisory roles."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Agriculture in Applied Plant and Soil Sciences",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes. Careers: Graduates could be employed as teachers and lecturers at schools and academic institutions, as well as researchers and managers at various public and private institutions: Public sector: Roles in national and provincial departments, research councils, municipalities, SANParks and farming/food agencies. Private sector: Work in seed, fertiliser and plant protection companies, nurseries, crop and ornamental production and environmental management. Extension services: Knowledge transfer in agriculture and conservation, including crop, turf, weed, fruit, vegetable, medicinal and ornamental plant management. Entrepreneurial: Consultancy, farm or nursery management, and businesses specialising in irrigation, landscaping or soil and crop production systems."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Agriculture in Plant Pathology",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes. Careers: Graduates could be employed in: Education and training: Work at universities, colleges and schools. Plant pathologists: Researchers to practitioners working in laboratories, on commercial farms (including fieldwork), or in the food trade industry. Research and management: Work at research institutes, government departments, seed, fertiliser and agrochemical companies, municipalities and in the mining industry. Extension services for technology transfer: Employers include grower associations, national and provincial Departments of Agriculture, Land Reform and Rural Development (DALRRD), Forestry, Fisheries and the Environment (DFFE), Tourism (DT), Mineral Resources and Energy (DMRE) and Water and Sanitation (DWS). Entrepreneurial: Graduates can work as consultants or in production."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Food Management Option: Culinary Science",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Food Science and Bachelor of Science in Food Management Option: Nutritional Science. Careers: Graduates can be employed as culinary scientists, culinologists, sensory analysts, food researchers, food product developers, food safety and quality assurance managers and food service managers."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Food Management Option: Nutritional Science",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Food Science, Bachelor of Science in Biochemistry and Bachelor of Science in Microbiology. Careers: Opportunities exist in food or related industries such as pharmaceutical and food manufacturing companies, government departments, international organisations such as the United Nations Food and Agricultural Organisation (FAO) and the World Health Organisation (WHO), NGOs, research organisations and as project managers and advisors in the food, health and consumer sectors."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Food Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Food Management Option: Nutritional Science. Careers: Food risk investigators, quality and safety assurance managers, food chemists, food microbiologists and biotechnologists, packaging and shelf-life specialists, safety auditors, product and process development managers, technical sales and marketing advisors, sensory scientists or food bio-scientists (for example, brewers or flavourists) in the food, agro-processing and related industries."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Biochemistry",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes and Bachelor of Science in Chemistry. Careers: Biochemistry graduates can pursue careers in the food, pharmaceutical, fine chemical and waste-processing industries, as well as in research councils, e.g., the South African Research Council (SAMRC), the Agricultural Research Council (ARC), the Cancer Association of South Africa (CANSA), the Water Research Commission (WRC), academic institutions, forensic and pathology laboratories. Career options include researcher, teacher, lecturer or medical representative, with work environments ranging from universities and research institutes to pharmaceutical and biotechnology companies."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Biotechnology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Careers: Graduates mostly find work as laboratory-based researchers or bio-entrepreneurs using medical, animal, plant or microbe-based technologies to develop products and services. If students combine biotechnology with additional qualifications such as law, they will be equipped for success in careers such as patent law, pharmaceutical sales and marketing, project management, computer programming (natural computation) and science journalism. Please note that the level of training and qualification plays a vital role in determining the type of work a qualified biotechnologist can pursue."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Ecology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes. Careers: Graduates work at the forefront of conserving natural ecosystems. They find opportunities in local and international conservation organisations, such as the World Wide Fund for Nature and the International Union for Conservation of Nature, companies using natural resources (e.g., agriculture, mining), environmental consultancies, education initiatives, academic institutions and research."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Entomology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes. Careers: Entomology graduates are in demand as insect management specialists or researchers in agriculture, nature reserves, environmental consultancies and conservation planning agencies. Opportunities also exist in medical and veterinary research, education, museums, invasive species management, quarantine and inspection services, biotechnology, IT and the corporate sector. Graduates can also start businesses farming beneficial insects for pollination, animal feed or human food."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Genetics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological sciences programmes. Careers: Graduates can work as molecular biologists, medical or clinical geneticists, cytogeneticists, biotechnologists, agricultural scientists, molecular ecologists, forensic scientists, genetic counsellors, bioinformaticists, computational analysts, veterinary scientists, teachers, or lecturers and in bioscience industries. Combining genetics with other qualifications, such as law, can open careers in patent law, pharmaceutical sales and marketing, project management, computer programming and science journalism. The level of training and qualification determines the types of roles a geneticist can pursue."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Human Physiology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological sciences programmes. Careers: Graduates often pursue research roles in collaboration with medical teams at private and government laboratories, pharmaceutical companies, universities, and veterinary or industrial institutions. Other opportunities include teaching, sports physiology, biostatistics, bioengineering, biotechnology, microbiology, virology, industrial hygiene, scientific journalism, medical technology and pharmaceutical sales. Further study can lead to careers as genetic counsellors or psychologists."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Human Physiology, Genetics and Psychology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological sciences programmes. Careers: Graduates often pursue research roles in collaboration with medical teams at private and government laboratories, pharmaceutical companies, universities, and veterinary or industrial institutions. Other opportunities include teaching, sports physiology, biostatistics, bioengineering, biotechnology, microbiology, virology, industrial hygiene, scientific journalism, medical technology and pharmaceutical sales. Further study can lead to careers as genetic counsellors or psychologists."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Medical Sciences",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological sciences programmes. Careers: Graduates can pursue research in various anatomy subdisciplines, work in academia, forensic science or the health science industry. Other opportunities include sports sciences, virology, chemical pathology, immunology, health administration and ergonomics. Technical roles are available in university anatomy or physiology departments. Postgraduate studies are recommended, with honours, master's, and doctoral degrees offered in anatomy subdisciplines such as neuro-anatomy, clinical anatomy, cell biology, physical and forensic anthropology, histology and embryology. Graduates can also continue with physiology, genetics or pharmacology postgraduate degrees."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Microbiology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes. Careers: Graduates can work in practical or research roles across the food, dairy, beer, wine, baker's yeast and fermentation industries, as well as in mining for corrosion control. Opportunities also exist in medical and veterinary microbiology, microbial genomics and ecology, and in research and teaching at organisations such as the Council for Scientific and Industrial Research, the Medical Research Council, the Agricultural Research Council and academic institutions."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Plant Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes. Careers: Careers range from working in a laboratory to studying plants in their natural environments. Graduates could be employed at biotechnology and pharmaceutical firms, SANParks, private ecological companies and research institutions such as the CSIR, ARC and SANBI."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Zoology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Any of the programmes listed in the biological or agricultural and food sciences programmes. Careers: Graduates help balance human population growth with the conservation of Africa's biodiversity. They work in public and private nature conservancies, environmental consultancies, conservation agencies, medical and veterinary research, biotechnology, education, data management and the corporate sector. Careers often combine problem-solving, analytical work and fieldwork."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Consumer Science specialising in Clothing Retail Management",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Consumer Science specialising in Food Management. Careers: Graduates can be employed in retail management as brand managers, clothing buyers and planners, fashion designers, fashion marketers, fashion product developers, quality controllers and assurance managers, store managers, image consultants, textile technologists, visual merchandisers and pattern technologists, or can become entrepreneurs."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Consumer Science specialising in Food Management",
+    "code": null,
+    "duration": "4 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Consumer Science specialising in Clothing Retail Management. Careers: Key retailers and industry stakeholders such as in2food, RCL Foods, UCOOK, DotActiv, research companies, top hotels, culinary businesses, and educational institutions employ graduates from our programme. Some of the career paths include being employed as brand managers, sales people, store managers, food stylists and quality assurance officers, consumer insight specialists and entrepreneurs."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Actuarial and Financial Mathematics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 36,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 70, "level": 7 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Science in Mathematical Statistics. Careers: Graduates can work in banks, insurance companies, investment institutions and brokerage firms. Careers include actuaries or actuarial technicians, who manage pensions, medical scheme benefits, investments and insurance reserves. Financial engineers focus on asset management, trading bonds and derivatives, designing financial products and managing credit and portfolio risk. Mathematical skills are essential in all these roles."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Mathematics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme for Bachelor of Science in Mathematics: Bachelor of Science in Physics. Careers: Mathematics and applied mathematics graduates work in research institutions, education, government, medical institutions, engineering, finance and the computer industry. Their training in abstract, analytical and computational thinking enables them to adapt to changing professional environments and construct mathematical models. Graduates apply, evaluate and develop problem-solving techniques to address natural, technological and financial challenges."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Applied Mathematics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes for Bachelor of Science in Applied Mathematics: Bachelor of Science in Mathematics and the Bachelor of Education in Senior Phase and Further Education and Training Teaching [Grades 7 to 12] (with elective modules in Physical Sciences or Life Sciences). Careers: Mathematics and applied mathematics graduates work in research institutions, education, government, medical institutions, engineering, finance and the computer industry. Their training in abstract, analytical and computational thinking enables them to adapt to changing professional environments and construct mathematical models. Graduates apply, evaluate and develop problem-solving techniques to address natural, technological and financial challenges."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Mathematical Statistics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 60, "level": 6 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Physics and the Bachelor of Education in Senior Phase and Further Education and Training Teaching [Grades 7 to 12] (with elective modules in Physical Sciences or Life Sciences). Careers: Statistics graduates are positioned at the forefront of analytical thinking in statistical, computational and interdisciplinary fields. Career opportunities include data scientist, data analyst, financial analyst, financial risk analyst, geospatial information analyst, biostatistician and statistical software engineer. Statisticians work in diverse areas such as web analytics, traffic prediction, fraud detection, financial forecasting, retail customer analysis, climate change and wildlife modelling, animal science, and government population and health research."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Chemistry",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Biochemistry and the Bachelor of Education in Senior Phase and Further Education and Training Teaching [Grades 7 to 12] (with elective modules in Physical Sciences or Life Sciences). Careers: Chemistry graduates work in laboratories across industrial, research and academic institutions, in both private and public sectors. Career opportunities depend on the level of qualification, with advanced degrees leading to research or production management roles. Graduates can work in education, research, journalism, environmental protection, food and beverages, energy, water, health, sports, pharmaceuticals, cosmetics, geology, mining and law enforcement. Roles include synthetic chemists, materials scientists, chemical pathologists, forensic chemists, analytical chemists, drug analysts, patent lawyers, environmental chemists, geochemists, food chemists, polymer chemists and soil chemists."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Environmental and Engineering Geology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Science in Geology. Careers: Engineering and environmental geologists study the interaction between human activities and the geological environment, such as the pollution of soil and groundwater. They investigate geological structures as well as soil and rock properties at construction sites, for example, dams, tunnels and mines, to provide valuable information before construction. They also locate and evaluate suitable construction materials. The task of the hydrogeologist is to search for groundwater and monitor the responsible exploitation of that water."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Geography Option: Geography and Environmental Science",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Science in Meteorology. Careers: Geography graduates work in teaching, research, and practical applications of geographical knowledge. They specialise in environmental management, urban and regional development, environmental health and biodiversity conservation. Careers include consultancy in environmental analysis, management, law, standards and auditing. Graduates are employed by private firms (planning, engineering, real estate, tourism, conservation), government departments, parastatals, and research institutions, or run their own businesses in areas such as environmental assessment, planning, tourism, cartography and remote sensing."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Geoinformatics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Science in Geography Option: Geography and Environmental Science. Careers: Geoinformatics graduates are highly employable in geospatial companies, satellite and GIS consulting firms, government agencies and local municipalities. They also work in civil engineering, tourism, environmental conservation, mining, agriculture, retail, utilities, banking and the food industry. Many graduates become self-employed consultants, providing spatial insights for planning, marketing, development and policy. The South African Geomatics Council endorses the BSc in Geoinformatics programme. Upon completing the BSc in Geoinformatics, you can register as a Candidate Geomatics Practitioner (CGP) - GISc Technologist. Bachelor of Science Honours in Geoinformatics graduates can register as CGP - GISc Professional Practitioners (GPr. GISc)."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Geology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Environmental and Engineering Geology, Bachelor of Science in Physics and Bachelor of Science in Agriculture in Applied Plant and Soil Sciences. Careers: Geology graduates work with international mining companies, start-ups, the Council for Scientific and Industrial Research (CSIR), MINTEK, government departments, museums, engineering firms, and consulting companies or as self-employed consultants. Roles include laboratory specialists (mineralogists), environmental and engineering geologists studying soil, rock, and human impact and hydrogeologists managing groundwater resources. Graduates contribute to research, exploration, mining, construction projects and environmental management."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Meteorology",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programme: Bachelor of Science in Geography Option: Geography and Environmental Science. Careers: Meteorology graduates work for the South African Weather Service, CSIR, universities, agricultural institutions, municipalities and private industries. Careers include weather forecasting, climate research, air quality monitoring and developing atmospheric models using supercomputers. Graduates can also work as consultants, academic researchers or television presenters. The BSc Honours in Meteorology is required for professional registration and meets World Meteorological Organisation standards."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Physics",
+    "code": null,
+    "duration": "3 years",
+    "aps": 34,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Suggested second-choice programmes: Bachelor of Science in Mathematics and Bachelor of Education in Senior Phase and Further Education and Training Teaching [Grades 7 to 12] (with elective modules in Physical Sciences or Life Sciences). Careers: Physics graduates can work as university academics, researchers in national laboratories such as the Nuclear Energy Corporation of South Africa, the South African Astronomical Observatory, or iThemba LABS, and in industry at organisations like the CSIR or Element Six. Other opportunities include science advisory roles, renewable energy development, and careers as radiation scientists, medical scientists, biophysicists, climatologists, geophysicists, computational scientists, innovators or entrepreneurs, often collaborating internationally."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Mathematics",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 65, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 4-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Chemistry",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 4-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Geoinformatics",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 4-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Geology",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 4-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Meteorology",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 4-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Physics",
+    "code": null,
+    "duration": "4 years",
+    "aps": 32,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 4-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Agriculture in Applied Plant and Soil Sciences",
+    "code": null,
+    "duration": "5 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 5-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Agriculture in Plant Pathology",
+    "code": null,
+    "duration": "5 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 5-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Ecology",
+    "code": null,
+    "duration": "5 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 5-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Natural and Agricultural Sciences",
+    "programme": "Bachelor of Science in Human Physiology",
+    "code": null,
+    "duration": "5 years",
+    "aps": 30,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 58, "level": 5 },
+        { "name": "Mathematics", "percentage": 58, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 58, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "This is a 5-year programme designed for students who, due to exceptional circumstances, may benefit from additional academic support. Note: Students from the Bachelor of Science 4-year and 5-year programmes must achieve a minimum of 70% in Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes."
+  },
+  {
+    "faculty": "Veterinary Science",
+    "programme": "Bachelor of Veterinary Science",
+    "code": null,
+    "duration": "6 years",
+    "aps": 35,
+    "selection": true,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 50, "level": 5 },
+        { "name": "Mathematics", "percentage": 50, "level": 5 },
+        { "name": "Physical Sciences", "percentage": 50, "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Proposed second choice programmes for Bachelor of Veterinary Science are Bachelor of Science in Zoology and Bachelor of Science in Agriculture in Animal Science. These programmes are also recommended for applicants who intend to apply again for a transfer to the Bachelor of Veterinary Science programme in 2027 or later. Note: Students who intend to apply for admission to Bachelor of Veterinary Science may register for Bachelor of Science in Zoology or Bachelor of Science in Agriculture in Animal Science modules, including Medical Terminology (MTL 180). Careers: Veterinarians can work in private practice (small animals, farm animals, equine and wildlife), state veterinary services, diagnostic laboratories, veterinary public health (milk and meat hygiene, disease control), technical services, research and product development in the pharmaceutical and food industries, consultancy, laboratory animal management, wildlife management, poultry and pig production, animal welfare, research and academia."
+  },
+  {
+    "faculty": "Veterinary Science",
+    "programme": "Bachelor of Veterinary Nursing",
+    "code": null,
+    "duration": "3 years",
+    "aps": 28,
+    "selection": false,
+    "campus": null,
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "percentage": 40, "level": 4 },
+        { "name": "Mathematics", "percentage": 40, "level": 4 },
+        { "name": "Physical Sciences", "percentage": 40, "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Careers: Veterinary nurses are employed in veterinary clinics and hospitals, specialist veterinary facilities, the pharmaceutical industry, the animal food industry, animal welfare societies, zoological gardens, game parks, laboratory animal units, rehabilitation centres, research centres, animal boarding establishments, organised agriculture, dairies, farming operations."
+  }
+]

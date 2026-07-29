@@ -1,0 +1,311 @@
+[
+  {
+    "faculty": "Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Business Science",
+    "code": "BBusSci",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 6, "percentage": 70 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years. APS 38-44 may be considered at Dean's discretion. Fields: Computer Science, Economics, Information Systems, Management, Quantitative Management, Accounting."
+  },
+  {
+    "faculty": "Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Commerce",
+    "code": "BCom",
+    "aps": 40,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years. APS 34-39 may be considered at Dean's discretion. Fields: General Curriculum, Business Sciences, Environmental Economics, Mineral Economics, Social Sciences."
+  },
+  {
+    "faculty": "Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Economics",
+    "code": "BEco",
+    "aps": 40,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years. APS 34-39 may be considered at Dean's discretion."
+  },
+  {
+    "faculty": "Commerce",
+    "campuses": [],
+    "programme": "BCom Extended Studies",
+    "code": "BCom-EXT",
+    "aps": 37,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "APS 34-37. Additional Literacy and Numeracy Courses."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Arts",
+    "code": "BA",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 5, "percentage": 65 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years. APS 34-44 may be considered at Dean's discretion. Fields: Anthropology, Drama, English, Languages, Literature, Politics, Psychology, Sociology."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Social Science",
+    "code": "BSS",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 5, "percentage": 65 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years. APS 34-44 may be considered at Dean's discretion. Fields: Anthropology, Economics, Management, Sociology, Psychology, Political Studies."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Fine Arts",
+    "code": "BFA",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 5, "percentage": 65 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years. APS 34-44 may be considered at Dean's discretion. Fields: Art History, Fine Art Practice, Visual Culture. Portfolio required during application process."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Music",
+    "code": "BMus",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 5, "percentage": 65 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years. APS 34-44 may be considered at Dean's discretion. Fields: Instrumental Music, Music Theory. Portfolio required during application process."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Journalism",
+    "code": "BJourn",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 5, "percentage": 65 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years. APS 34-44 may be considered at Dean's discretion. Limited Curriculum (Journalism and Anthropology OR Politics and Sociology in first year)."
+  },
+  {
+    "faculty": "Humanities",
+    "campuses": [],
+    "programme": "BA or BSS Extended Studies",
+    "code": "BA-EXT",
+    "aps": 37,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 5, "percentage": 65 }
+        ]
+      }
+    },
+    "notes": "APS 34-37."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "Bachelor of Education (Foundation Phase Teaching)",
+    "code": "BEdFP",
+    "aps": 44,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ]
+      }
+    },
+    "notes": "Duration: 4 years. APS 39-43 may be considered at Dean's discretion. Mathematics (3) OR Mathematical Literacy (4)."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "Postgraduate Certificate in Education",
+    "code": "PGCE",
+    "aps": null,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 1 year. Requires a completed Bachelor's Degree. For FET Teaching (Grade 10-12) or Senior Phase Teaching (Grade 7-9). Check undergraduate curriculum with Dean of Education."
+  },
+  {
+    "faculty": "Law",
+    "campuses": [],
+    "programme": "Bachelor of Laws",
+    "code": "LLB",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 6, "percentage": 70 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 4 years. APS 40-44 may be considered at Dean's discretion. English Home Language (5) OR English First Additional Language (6). Mathematics (4) OR Mathematical Literacy (5)."
+  },
+  {
+    "faculty": "Pharmacy",
+    "campuses": [],
+    "programme": "Bachelor of Pharmacy",
+    "code": "BPharm",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": 5, "percentage": 60 },
+          { "name": "Life Sciences", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 4 years. APS 40-44 may be considered at Dean's discretion. For provisional offer: Mathematics (6), Life Sciences (6), Physical Science (6). Subjects: Anatomy and Physiology 1, Cell Biology, Chemistry, Foundation of Pharmacy, Introduction to ICT, Mathematics 1S, Pharmaceutical Biochemistry 1."
+  },
+  {
+    "faculty": "Science",
+    "campuses": [],
+    "programme": "Bachelor of Science",
+    "code": "BSc",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": [
+          { "name": "English Home Language", "level": 5, "percentage": 60 },
+          { "name": "English First Additional Language", "level": 5, "percentage": 65 },
+          { "name": "Life Sciences", "level": 5, "percentage": 60 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 5, "percentage": 60 }
+        ]
+      }
+    },
+    "notes": "Duration: 3 years. APS 39-44 may be considered at Dean's discretion. English HL (5) OR English FAL (5). Life Sciences (5) OR Mathematics (4). Physical Science (5). Fields: Biological Sciences, Computational Sciences, Earth Sciences, Life Sciences."
+  },
+  {
+    "faculty": "Science",
+    "campuses": [],
+    "programme": "Bachelor of Information Systems",
+    "code": "BScInfoSys",
+    "aps": 45,
+    "selection": true,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 5, "percentage": 60 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Duration: 3 years. APS 40-44 may be considered at Dean's discretion. Fields: Computer Science, Economics Management, Information Systems."
+  }
+]

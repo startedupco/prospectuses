@@ -1,0 +1,3289 @@
+{
+  "programmes": [
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom",
+      "code": "BC630000",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom with specialisation in Economics",
+      "code": "BC630020",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom with specialisation in Finance",
+      "code": "BC630025",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom with specialisation in Business Analytics",
+      "code": "BC638080",
+      "aps": 34,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom with specialisation in Marketing",
+      "code": "BC630010",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 3, "percentage": 40 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom with specialisation in Business Management",
+      "code": "BC630012",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 3, "percentage": 40 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom with specialisation in Human Resource Management",
+      "code": "BC630030",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 3, "percentage": 40 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom (Law)",
+      "code": "BC637070",
+      "aps": 33,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAdmin",
+      "code": "BC634040",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 3, "percentage": 30 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAcc",
+      "code": "BC636060",
+      "aps": 34,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Accredited by SAICA for aspiring Chartered Accountants."
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BCom (Accounting)",
+      "code": "BC635050",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Aimed at general accountancy professions."
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BCom with specialisation in Management",
+      "code": "QC630001",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Economic and Management Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "Bachelor of Administration",
+      "code": "QC634040",
+      "aps": 28,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 2, "percentage": 30 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Foundation Phase - Afrikaans Home Language",
+      "code": "LC735101",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Afrikaans Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Foundation Phase - Sesotho Home Language",
+      "code": "LC735103",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC735103)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Foundation Phase - Sesotho Home Language",
+      "code": "QC735103",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Foundation Phase - isiZulu Home Language",
+      "code": "QC735105",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "isiZulu Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Foundation Phase - English Home Language",
+      "code": "LC735106",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Afrikaans Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Afrikaans HL required for English HL specialisation."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Intermediate Phase - Mathematics, Natural Sciences, Technology, Afrikaans HL",
+      "code": "BC735791",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Afrikaans Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Intermediate Phase - Life Skills, Social Sciences, Afrikaans HL",
+      "code": "BC735784",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Afrikaans Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Intermediate Phase - Mathematics, Natural Sciences, Technology, English HL",
+      "code": "BC735793",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Afrikaans First Additional Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Intermediate Phase - Life Skills, Social Sciences, English HL",
+      "code": "BC735787",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Afrikaans First Additional Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Intermediate Phase - Mathematics, Natural Sciences, Technology, Sesotho HL",
+      "code": "BC735792",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC735792)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Intermediate Phase - Mathematics, Natural Sciences, Technology, Sesotho HL",
+      "code": "QC735792",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Intermediate Phase - Life Skills, Social Sciences, isiZulu HL",
+      "code": "QC735788",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "isiZulu Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Intermediate Phase - Life Skills, Social Sciences, Sesotho HL",
+      "code": "BC735782",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC735782)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Intermediate Phase - Life Skills, Social Sciences, Sesotho HL",
+      "code": "QC735782",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Intermediate Phase - Mathematics, Natural Sciences, Technology, isiZulu HL",
+      "code": "QC735794",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "isiZulu Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Senior Phase - Accounting and Business Studies",
+      "code": "BC736101",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Accounting", "level": 4, "percentage": 50 },
+            { "name": "Business Studies", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Senior Phase - EMS and Accounting",
+      "code": "BC736104",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Accounting", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": [
+            { "name": "Economics", "level": 4, "percentage": 50 },
+            { "name": "Business Studies", "level": 4, "percentage": 50 }
+          ]
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Senior Phase - Technology and Engineering Graphics and Design",
+      "code": "BC736301",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Engineering Graphics and Design", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Senior Phase - Life Sciences and Mathematics",
+      "code": "BC736305",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC736305)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Senior Phase - Life Sciences and Mathematics",
+      "code": "QC736305",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Senior Phase - Technology and Life Sciences",
+      "code": "BC736308",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Senior Phase - Sesotho HL and English FAL",
+      "code": "BC736404",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC736402)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Senior Phase - Sesotho HL and English FAL",
+      "code": "QC736402",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Senior Phase - isiZulu HL and English FAL",
+      "code": "QC736403",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "isiZulu Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Senior Phase - Mathematics and Physical Sciences",
+      "code": "BC736314",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC736314)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Senior Phase - Mathematics and Physical Sciences",
+      "code": "QC736314",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Senior Phase - Sesotho HL and History",
+      "code": "BC736511",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC736511)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Senior Phase - Sesotho HL and History",
+      "code": "QC736511",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Sesotho Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Senior Phase - isiZulu HL and History",
+      "code": "QC736512",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "isiZulu Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Senior Phase - English and History",
+      "code": "BC736519",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEd Senior Phase - Afrikaans HL and English",
+      "code": "BC736521",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Afrikaans Home Language", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Bloemfontein", "Qwaqwa"],
+      "programme": "BEd Senior Phase - Geography and Life Sciences",
+      "code": "BC736600",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Geography", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Also offered at Qwaqwa (QC736600)."
+    },
+    {
+      "faculty": "Education",
+      "campuses": ["Qwaqwa"],
+      "programme": "BEd Senior Phase - Geography and Life Sciences",
+      "code": "QC736600",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Geography", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Medical Science (Radiation Science)",
+      "code": "BC831000",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Medicine and Bachelor of Surgery (MB ChB)",
+      "code": "C834100",
+      "aps": 36,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Senior applicants have additional requirements."
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Optometry",
+      "code": "BC8413033",
+      "aps": 33,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Physiotherapy",
+      "code": "BC842002",
+      "aps": 33,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Dietetics",
+      "code": "BC846002",
+      "aps": 33,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Occupational Therapy",
+      "code": "BC843100",
+      "aps": 33,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Biokinetics",
+      "code": "BC844000",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Life Sciences", "level": 4, "percentage": 50 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Sport Coaching",
+      "code": "BC834000",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-05-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Health Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Nursing",
+      "code": "BC849000",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-07-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+          ]
+        }
+      },
+      "notes": "Either Mathematics (40%) or Mathematical Literacy (70%) required."
+    },
+    {
+      "faculty": "Law",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Laws (LLB)",
+      "code": "BC340000",
+      "aps": 33,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 6, "percentage": 70 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 4, "percentage": 50 },
+            { "name": "Mathematical Literacy", "level": 6, "percentage": 70 }
+          ]
+        }
+      },
+      "notes": "Either Mathematics (50%) or Mathematical Literacy (70%) required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Behavioural Genetics",
+      "code": "BC433118",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Behavioural Genetics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biochemistry and Botany",
+      "code": "BC431920",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biochemistry and Botany"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biochemistry and Entomology",
+      "code": "BC431927",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biochemistry and Entomology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biochemistry and Genetics",
+      "code": "BC431931",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biochemistry and Genetics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biochemistry and Microbiology",
+      "code": "BC431939",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biochemistry and Microbiology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biochemistry and Physiology",
+      "code": "BC431980",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biochemistry and Physiology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biochemistry and Statistics",
+      "code": "BC431946",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biochemistry and Statistics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biochemistry and Zoology",
+      "code": "BC431949",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biochemistry and Zoology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Biodiversity and Conservation Ecology",
+      "code": "BC430098",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Biodiversity and Conservation Ecology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Botany and Entomology",
+      "code": "BC432027",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Botany and Entomology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Botany and Genetics",
+      "code": "BC432031",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Botany and Genetics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Botany and Microbiology",
+      "code": "BC432039",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Botany and Microbiology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Botany and Plant Breeding",
+      "code": "BC432041",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Botany and Plant Breeding"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Botany and Plant Pathology",
+      "code": "BC432042",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Botany and Plant Pathology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Botany and Zoology",
+      "code": "BC432049",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Botany and Zoology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Entomology and Genetics",
+      "code": "BC432731",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Entomology and Genetics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Entomology and Microbiology",
+      "code": "BC432739",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Entomology and Microbiology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Entomology and Zoology",
+      "code": "BC432749",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Entomology and Zoology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Genetics and Microbiology",
+      "code": "BC433139",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Genetics and Microbiology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Genetics and Physiology",
+      "code": "BC433180",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Genetics and Physiology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Genetics and Zoology",
+      "code": "BC433149",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Genetics and Zoology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Microbiology and Statistics",
+      "code": "BC433946",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Microbiology and Statistics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Microbiology and Zoology",
+      "code": "BC433949",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Microbiology and Zoology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Plant Health Ecology",
+      "code": "BC432082",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Plant Health Ecology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Biological Sciences - Plant Health Management",
+      "code": "BC432742",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Plant Health Management"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Forensic Science",
+      "code": "BC433031",
+      "aps": 34,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Life Sciences", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection. Minimum AP 34 with cumulative AP of at least 17 for Maths, Life Sciences, Physical Sciences."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Sciences - Mathematics and Applied Mathematics",
+      "code": "BC433816",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Mathematics and Applied Mathematics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Sciences - Mathematics and Chemistry",
+      "code": "BC433821",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Mathematics and Chemistry"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Sciences - Mathematics and Mathematical Statistics",
+      "code": "BC433837",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Mathematics and Mathematical Statistics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Sciences - Mathematics and Physics",
+      "code": "BC433840",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Mathematics and Physics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Actuarial Science",
+      "code": "BC431000",
+      "aps": 34,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection. If unsuccessful, may be offered place in Econometrics."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Statistics - Climate Sciences",
+      "code": "BC433712",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Climate Sciences"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Statistics - Econometrics",
+      "code": "BC433758",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Econometrics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Statistics - Mathematical Statistics and Psychometrics",
+      "code": "BC433786",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Mathematical Statistics and Psychometrics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Statistics - Statistics and Economics",
+      "code": "BC434658",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Statistics and Economics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Mathematical Statistics - Statistics and Psychology",
+      "code": "BC434686",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Statistics and Psychology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Chemical Sciences - Chemistry and Biochemistry",
+      "code": "BC432119",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Chemistry and Biochemistry"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Chemical Sciences - Chemistry and Botany",
+      "code": "BC432120",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Chemistry and Botany"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Chemical Sciences - Chemistry and Microbiology",
+      "code": "BC432139",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Chemistry and Microbiology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Chemical Sciences - Chemistry and Physics",
+      "code": "BC432140",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Chemistry and Physics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Physical Sciences - Physics and Agrometeorology",
+      "code": "BC434012",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Physics and Agrometeorology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Physical Sciences - Physics and Astrophysics",
+      "code": "BC434017",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Physics and Astrophysics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Physical Sciences with Engineering - Physics and Engineering Subjects",
+      "code": "BC434026",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BEng Agricultural and Biosystems Engineering",
+      "code": "BC540026",
+      "aps": 30,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Geography - Geography and Environmental Science",
+      "code": "BC433362",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Geography and Environmental Science"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Geography - Geography Specialisation",
+      "code": "BC433333",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Geography Specialisation"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Environmental Soil Science",
+      "code": "BC434462",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Environmental Soil Science"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Geology - Geology and Chemistry",
+      "code": "BC433521",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Geology and Chemistry"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Geology - Environmental Geology",
+      "code": "BC433528",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Environmental Geology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Geology - Geochemistry",
+      "code": "BC433532",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Geochemistry"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Geology - Geology",
+      "code": "BC433535",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Geology"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Geology - Geology and Physics",
+      "code": "BC433540",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Geology and Physics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Agricultural Economics",
+      "code": "BC431100",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc IT - Computer Science and Chemistry",
+      "code": "BC432221",
+      "aps": 32,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc IT - Computer Science and Mathematical Statistics",
+      "code": "BC432237",
+      "aps": 32,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc IT - Computer Science and Mathematics",
+      "code": "BC432238",
+      "aps": 32,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc IT - Computer Science and Physics",
+      "code": "BC432240",
+      "aps": 32,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc IT - Data Science",
+      "code": "BC432295",
+      "aps": 32,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 6, "percentage": 70 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc IT - Computer Science and Business Management",
+      "code": "BC432255",
+      "aps": 32,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Computer Information Systems",
+      "code": "BC430156",
+      "aps": 33,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Sustainable Food Systems",
+      "code": "BC430223",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 2, "percentage": 30 },
+            { "name": "Mathematical Literacy", "level": 5, "percentage": 60 }
+          ]
+        }
+      },
+      "notes": "Either Mathematics (30%) or Mathematical Literacy (60%) required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAgric - Agricultural Extension",
+      "code": "BC530147",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Mathematical Literacy", "level": 7, "percentage": 80, "condition": "aps >= 31" }
+          ]
+        }
+      },
+      "notes": "Mathematical Literacy accepted only if APS is 31 or higher."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAgric - Animal Production Management",
+      "code": "BC530101",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Mathematical Literacy", "level": 7, "percentage": 80, "condition": "aps >= 31" }
+          ]
+        }
+      },
+      "notes": "Mathematical Literacy accepted only if APS is 31 or higher."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAgric - Crop Production",
+      "code": "BC530102",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Mathematical Literacy", "level": 7, "percentage": 80, "condition": "aps >= 31" }
+          ]
+        }
+      },
+      "notes": "Mathematical Literacy accepted only if APS is 31 or higher."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAgric - Mixed Farming Management",
+      "code": "BC530103",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Mathematical Literacy", "level": 7, "percentage": 80, "condition": "aps >= 31" }
+          ]
+        }
+      },
+      "notes": "Mathematical Literacy accepted only if APS is 31 or higher."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAgric - Irrigation Management",
+      "code": "BC530172",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 3, "percentage": 40 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAgric - Agricultural Economics",
+      "code": "BC530111",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BAgric - Agricultural Management",
+      "code": "BC530152",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": [
+            { "name": "Mathematics", "level": 3, "percentage": 40 },
+            { "name": "Mathematical Literacy", "level": 7, "percentage": 80, "condition": "aps >= 31" }
+          ]
+        }
+      },
+      "notes": "Mathematical Literacy accepted only if APS is 31 or higher."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Agriculture - Animal Science",
+      "code": "BC540015",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Agricultural Sciences", "level": 5, "percentage": 60 }
+          ]
+        }
+      },
+      "notes": "Life Sciences OR Agricultural Sciences required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Agriculture - Agrometeorology",
+      "code": "BC540012",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Agricultural Sciences", "level": 5, "percentage": 60 }
+          ]
+        }
+      },
+      "notes": "Life Sciences OR Agricultural Sciences required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Agriculture - Agronomy",
+      "code": "BC540013",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Agricultural Sciences", "level": 5, "percentage": 60 }
+          ]
+        }
+      },
+      "notes": "Life Sciences OR Agricultural Sciences required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Agriculture - Plant Breeding",
+      "code": "BC540041",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Agricultural Sciences", "level": 5, "percentage": 60 }
+          ]
+        }
+      },
+      "notes": "Life Sciences OR Agricultural Sciences required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Agriculture - Plant Pathology",
+      "code": "BC540042",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Agricultural Sciences", "level": 5, "percentage": 60 }
+          ]
+        }
+      },
+      "notes": "Life Sciences OR Agricultural Sciences required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Agriculture - Soil Science",
+      "code": "BC540044",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Agricultural Sciences", "level": 5, "percentage": 60 }
+          ]
+        }
+      },
+      "notes": "Life Sciences OR Agricultural Sciences required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Architecture",
+      "code": "BC430114",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-07-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection. Portfolio required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Construction Economics and Management (Full-time)",
+      "code": "BC432443",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Economics", "level": 4, "percentage": 50 },
+            { "name": "Business Studies", "level": 4, "percentage": 50 },
+            { "name": "Accounting", "level": 4, "percentage": 50 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ]
+        }
+      },
+      "notes": "Subject to selection. At least one of the four optional subjects required."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Construction Management (Compact Learning)",
+      "code": "BC432401",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Economics", "level": 4, "percentage": 50 },
+            { "name": "Business Studies", "level": 4, "percentage": 50 },
+            { "name": "Accounting", "level": 4, "percentage": 50 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ]
+        }
+      },
+      "notes": "Subject to selection. Must be 22+ years old and employed in construction."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSc Quantity Surveying (Compact Learning)",
+      "code": "BC434301",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Economics", "level": 4, "percentage": 50 },
+            { "name": "Business Studies", "level": 4, "percentage": 50 },
+            { "name": "Accounting", "level": 4, "percentage": 50 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ]
+        }
+      },
+      "notes": "Subject to selection. Must be 22+ years old and employed in construction."
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc IT - Computer Science and Chemistry",
+      "code": "QC432221",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc IT - Computer Science and Physics",
+      "code": "QC432240",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc IT - Computer Science and Management",
+      "code": "QC432202",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc Biological Sciences - Botany and Life Sciences",
+      "code": "QC432075",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Botany and Life Sciences"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc Biological Sciences - Life Sciences",
+      "code": "QC437500",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Life Sciences"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc Biological Sciences - Zoology and Life Sciences",
+      "code": "QC434975",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Zoology and Life Sciences"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc Chemical and Physical Sciences - Chemistry and Physics",
+      "code": "QC432140",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Chemistry and Physics"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc Chemical and Physical Sciences - Chemistry and Botany",
+      "code": "QC432120",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Chemistry and Botany"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc Geography - Geography and Environmental Geography",
+      "code": "QC433359",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major combination: Geography and Environmental Geography"
+    },
+    {
+      "faculty": "Natural and Agricultural Sciences",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSc Geography - Geography",
+      "code": "QC433333",
+      "aps": 32,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 },
+            { "name": "Mathematics", "level": 5, "percentage": 60 },
+            { "name": "Life Sciences", "level": 5, "percentage": 60 },
+            { "name": "Physical Sciences", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Major: Geography"
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "Higher Certificate in Music Performance",
+      "code": "BC111044",
+      "aps": 20,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Compulsory audition and musical aptitude test required."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "Diploma in Music",
+      "code": "BC120044",
+      "aps": 25,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Requires Grade 5 in principal instrument/voice, Grade 3 Music Theory advised. Compulsory audition required."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "Advanced Diploma in Music",
+      "code": "BC140442",
+      "aps": null,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [],
+          "optional_any": []
+        }
+      },
+      "notes": "Completed Diploma in Music or relevant NQF6. Compulsory audition required."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "Advanced Diploma in Opera Studies",
+      "code": "BC140441",
+      "aps": null,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [],
+          "optional_any": []
+        }
+      },
+      "notes": "Completed Diploma in Music or relevant NQF6. Compulsory audition required."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA (Language Practice)",
+      "code": "BC130039",
+      "aps": 30,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": [
+            { "name": "Home Language", "level": 5, "percentage": 60 },
+            { "name": "First Additional Language", "level": 5, "percentage": 65 }
+          ]
+        }
+      },
+      "notes": "Subject to selection. Home Language ≥ 5 (60%) OR FAL ≥ 65%."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA (Governance and Political Transformation)",
+      "code": "BC130031",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA (Integrated Organisational Communication)",
+      "code": "BC130038",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [],
+          "optional_any": [
+            { "name": "English", "level": 6, "percentage": 60 },
+            { "name": "English", "level": 5, "percentage": 65 }
+          ]
+        }
+      },
+      "notes": "English HL ≥ 6 (60%) OR English FAL/SAL ≥ 65%."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA (Journalism)",
+      "code": "BC130035",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [],
+          "optional_any": [
+            { "name": "English", "level": 6, "percentage": 60 },
+            { "name": "English", "level": 5, "percentage": 65 }
+          ]
+        }
+      },
+      "notes": "English HL ≥ 6 (60%) OR English FAL/SAL ≥ 65%."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA (Fine Arts)",
+      "code": "BC140025",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection. Portfolio required."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA (Drama and Theatre Arts)",
+      "code": "BC130020",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [],
+          "optional_any": [
+            { "name": "English", "level": 5, "percentage": 60 },
+            { "name": "English", "level": 5, "percentage": 65 }
+          ]
+        }
+      },
+      "notes": "Drama experience recommended. Compulsory audition and interview. English HL ≥ 5 (60%) OR English FAL/SAL ≥ 65%."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA General",
+      "code": "BC137000",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Majors: Ancient Near Eastern Studies, Philosophy, History, Classical Studies, Art History, Linguistics, Geography (requires Maths 3), etc."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA specialising in Languages",
+      "code": "BC137500",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Language specialisation."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Music",
+      "code": "BC140544",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Requires Music Theory Grade 5, Performance Grade 7. Compulsory audition required."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BA (Music)",
+      "code": "BC130044",
+      "aps": 30,
+      "selection": true,
+      "closing_date": "2026-09-30",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Requires Music Theory Grade 5, Performance Grade 7. Compulsory audition required."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "BSocSci",
+      "code": "BC138000",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Majors: Psychology, Sociology, Anthropology, Criminology, Political Science, Industrial Psychology (any two)."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Social Work",
+      "code": "BC140250",
+      "aps": 35,
+      "selection": true,
+      "closing_date": "2026-07-31",
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection. First-choice applications preferred."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Qwaqwa"],
+      "programme": "BA General",
+      "code": "QC137000",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Qwaqwa"],
+      "programme": "Bachelor of Community Development",
+      "code": "QC140400",
+      "aps": 30,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 5, "percentage": 60 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection. Alternative: Diploma in Vocational Skills with English Level 4."
+    },
+    {
+      "faculty": "Humanities",
+      "campuses": ["Qwaqwa"],
+      "programme": "BSocSci",
+      "code": "QC138000",
+      "aps": 30,
+      "selection": false,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": ""
+    },
+    {
+      "faculty": "Theology and Religion",
+      "campuses": ["Bloemfontein"],
+      "programme": "Bachelor of Divinity",
+      "code": "BC940301",
+      "aps": 28,
+      "selection": true,
+      "closing_date": null,
+      "requirements": {
+        "subjects": {
+          "compulsory": [
+            { "name": "English", "level": 4, "percentage": 50 }
+          ],
+          "optional_any": []
+        }
+      },
+      "notes": "Subject to selection via selection form. Academic Literacy test required."
+    }
+  ]
+}

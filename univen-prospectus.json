@@ -1,0 +1,1615 @@
+[
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts (Media Studies)",
+    "code": "HSBAMS",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English or African Languages", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in English or African Languages."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts",
+    "code": "HSBBA",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts (Development Studies)",
+    "code": "HSBADS",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "History OR Economics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in English and History or Economics."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Indigenous Knowledge Systems",
+    "code": "HSBIKS",
+    "duration_years": 4,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts in Language Practice",
+    "code": "HSBALP",
+    "duration_years": 4,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "African Language", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in African Language and English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts (English Language and Literature)",
+    "code": "HSBAEL",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts in International Relations",
+    "code": "HSBAIR",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "History OR Economics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in History or Economics and English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts in Youth Development",
+    "code": "HSBAYD",
+    "duration_years": 4,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Arts (History)",
+    "code": "HSBBAH",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "History", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 + an adequate achievement (50-59%) or better in History and English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Theology",
+    "code": "HSBBT",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 30 or RPL according to University Policy."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Higher Certificate in Music",
+    "code": "HCMusUniven",
+    "duration_years": 1,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": null, "percentage_range": "Adequate achievement" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC Certificate + adequate achievement in English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "Bachelor of Social Work",
+    "code": "HSBBSW",
+    "duration_years": 4,
+    "aps": 35,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 35 + an adequate achievement (50-59%) or better in English."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "BEd in Senior Phase and FET Teaching (Science Route)",
+    "code": "SEBESP",
+    "duration_years": 4,
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Two subjects from: Mathematics, Physical Sciences, Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 36 + English (50%) plus two (50%) from Mathematics, Physical Sciences and Life Sciences."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "BEd in Senior Phase and FET Teaching (Commerce Route)",
+    "code": "SEBECP",
+    "duration_years": 4,
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Two subjects from: Accounting, Business Studies, Economics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 36 + English (50%) plus two (50%) from Accounting, Business Studies and Economics."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "BEd in Senior Phase and FET Teaching (Humanities Route)",
+    "code": "SEBELP",
+    "duration_years": 4,
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Two subjects from: History, Geography, Sepedi, Tshivenda, Xitsonga", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 36 + English (50%) plus two (50%) from History, Geography, Sepedi, Tshivenda and Xitsonga."
+  },
+  {
+    "faculty": "Humanities, Social Sciences and Education",
+    "programme": "BEd in Foundation Phase Teaching",
+    "code": "SEBEFP",
+    "duration_years": 4,
+    "aps": 36,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy OR Mathematics", "level": "4 (or 3 for Maths)", "percentage_range": "50-59% (or 40-49% for Maths)" },
+          { "name": "Languages (Tshivenda, Sepedi, Xitsonga)", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "National Senior Certificate (NSC) 36 plus adequate achievement level in English (50%), Mathematics Literacy (50%), Mathematics (40%), and Languages (50%) Tshivenda, Sepedi, and Xitsonga."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Nursing",
+    "code": "SHBBN",
+    "duration_years": 4,
+    "aps": 38,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "English", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 38 + adequate achievement (60-69%) in Life Sciences, English and Physical Sciences (60-69%) and Mathematics (50-59%), excluding life orientation."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Nutrition",
+    "code": "SHBBSN",
+    "duration_years": 4,
+    "aps": 34,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Agricultural Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 34 + adequate achievement (50-59%) in Life Sciences, English, Mathematics and Physical Sciences or Agricultural Sciences."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Sports and Exercise Science",
+    "code": "SHBSES",
+    "duration_years": 4,
+    "aps": 34,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 34 + adequate achievement (50-59%) in Life Sciences, English, and Physical Sciences."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Biokinetics",
+    "code": "SHBBSK",
+    "duration_years": 4,
+    "aps": 34,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 34 + adequate achievement (50-59%) in Life Sciences, English, Mathematics, and Physical Sciences."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Recreation and Leisure Studies",
+    "code": "SHBRLS",
+    "duration_years": 4,
+    "aps": 34,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 34 + adequate achievement (50-59%) in English."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Psychology",
+    "code": "SHBBP",
+    "duration_years": 4,
+    "aps": 36,
+    "selection": true,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 36 + adequate achievement (50-59%) in English + Selection test."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Diploma in Nursing",
+    "code": "SHDPN",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 28 + achievement of level 4 (50-59%) in Life Sciences, English and Physical Sciences, and a minimum level achievement of 3 (40-49%) in Mathematics."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Admin in Public Administration",
+    "code": "MSBBAD",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any three subjects", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English and a moderate achievement level (40-49%) in any three subjects."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Accounting Sciences",
+    "code": "MSBCAS",
+    "duration_years": 4,
+    "aps": 35,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 35 + an adequate achievement level (50-59%) in English and at least 50% pass in Mathematics."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Tourism Management",
+    "code": "MSBTRM",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy OR Mathematics", "level": "4 (or 3 for Maths)", "percentage_range": "50-59% (or 40-49% for Maths)" },
+          { "name": "Any two from: Accounting, Business Studies, Economics, Information Technology, Geography, Tourism", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English and Mathematical Literacy (or moderate in Mathematics) plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology, Geography and Tourism."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Accounting",
+    "code": "MSBBCA",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting OR Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English and Accounting or Mathematics."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Business Information Systems",
+    "code": "MSBIS",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "3 (or 7 for Lit)", "percentage_range": "40-49% (or 70-79% for Lit)" },
+          { "name": "Any two from: Accounting, Business Studies, Economics, Information Technology, Computer Studies", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English and moderate achievement in Mathematics or 75% in Mathematical Literacy and in any two of these subjects: Accounting, Business Studies, Economics, and Information Technology or Computer Studies."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Business Management",
+    "code": "MSBCBM",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Business Studies", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any two from: Accounting, Economics, Information Technology, Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English and Business Studies, plus a moderate achievement level (40-49%) in any two of these subjects: Accounting, Economics, Information Technology and Mathematics."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Cost and Management Accounting",
+    "code": "MSBCMA",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting OR Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English and Accounting or Mathematics."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Economics",
+    "code": "MSBBCE",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Economics OR Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any two from: Accounting, Business Studies, Information Technology", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English and Economics or Mathematics, plus moderate achievement in any two of these subjects: Accounting, Business Studies and Information Technology."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Human Resource Management",
+    "code": "MSBHR",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any two from: Accounting, Business Studies, Economics, Information Technology, Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology and Mathematics."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Commerce in Industrial Psychology",
+    "code": "MSBIP",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any two from: Accounting, Business Studies, Economics, Information Technology, Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 32 + an adequate achievement level (50-59%) in English plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology and Mathematics."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Laws",
+    "code": "LWBBL",
+    "duration_years": 4,
+    "aps": 38,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 38 + a minimum of 60% in English."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Bachelor of Arts in Criminal Justice",
+    "code": "LWBACJ",
+    "duration_years": 3,
+    "aps": 34,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 34 + a minimum of 50% in English."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Extended Bachelor of Administration",
+    "code": "MSEBAD",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Extended Degree Programme. Any student who does not qualify for the main degree programme of their choice and has met the requirements for a bachelor's degree in Grade 12 or has completed Matric with university exemption plus an APS of 28-31 (excluding Life Orientation) may be considered for admission into the extended Programmes."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Extended Bachelor of Commerce (Accounting)",
+    "code": "MSEBCA",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Extended Degree Programme. Any student who does not qualify for the main degree programme of their choice and has met the requirements for a bachelor's degree in Grade 12 or has completed Matric with university exemption plus an APS of 28-31 (excluding Life Orientation) may be considered for admission into the extended Programmes."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Extended Bachelor of Commerce (Business Information Systems)",
+    "code": "MSEIS",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Extended Degree Programme. Any student who does not qualify for the main degree programme of their choice and has met the requirements for a bachelor's degree in Grade 12 or has completed Matric with university exemption plus an APS of 28-31 (excluding Life Orientation) may be considered for admission into the extended Programmes."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Extended Bachelor of Commerce (Business Management)",
+    "code": "MSECBM",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Extended Degree Programme. Any student who does not qualify for the main degree programme of their choice and has met the requirements for a bachelor's degree in Grade 12 or has completed Matric with university exemption plus an APS of 28-31 (excluding Life Orientation) may be considered for admission into the extended Programmes."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Extended Bachelor of Commerce (Cost and Management Accounting)",
+    "code": "MSECMA",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Extended Degree Programme. Any student who does not qualify for the main degree programme of their choice and has met the requirements for a bachelor's degree in Grade 12 or has completed Matric with university exemption plus an APS of 28-31 (excluding Life Orientation) may be considered for admission into the extended Programmes."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Extended Bachelor of Commerce (Economics)",
+    "code": "MSEBCE",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Extended Degree Programme. Any student who does not qualify for the main degree programme of their choice and has met the requirements for a bachelor's degree in Grade 12 or has completed Matric with university exemption plus an APS of 28-31 (excluding Life Orientation) may be considered for admission into the extended Programmes."
+  },
+  {
+    "faculty": "Management, Commerce and Law",
+    "programme": "Extended Bachelor of Commerce (Human Resources Management)",
+    "code": "MSEHR",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Extended Degree Programme. Any student who does not qualify for the main degree programme of their choice and has met the requirements for a bachelor's degree in Grade 12 or has completed Matric with university exemption plus an APS of 28-31 (excluding Life Orientation) may be considered for admission into the extended Programmes."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Diploma in Freshwater Technology",
+    "code": "MNDDFT",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "30-39%" },
+          { "name": "Four recognised 20-credit NSC subjects", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Agricultural Sciences OR Physical Sciences OR Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 24 + with Diploma + 30% in English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Biochemistry and Microbiology)",
+    "code": "MNBBSA",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Biochemistry and Biology)",
+    "code": "MNBBSD",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Microbiology and Botany)",
+    "code": "MNBBSE",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Mathematics and Applied Mathematics)",
+    "code": "MNBBSF",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Mathematics and Physics)",
+    "code": "MNBBSH",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Mathematics and Statistics)",
+    "code": "MNBBSI",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Physics and Chemistry)",
+    "code": "MNBBSJ",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Chemistry and Mathematics)",
+    "code": "MNBBSK",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Chemistry and Biochemistry)",
+    "code": "MNBBSL",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in each of the four recognised 20-credit NSC subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Chemistry and Applied Chemistry",
+    "code": "MNBBSN",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in each of the four recognised 20-credit NSC subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Botany and Zoology)",
+    "code": "MNBBSO",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in each of the four recognised 20-credit NSC subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Computer Science)",
+    "code": "MNBBSP",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in each of the four recognised 20-credit NSC subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc (Computer Science and Mathematics)",
+    "code": "MNBBSQ",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in each of the four recognised 20-credit NSC subjects: English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Bachelor of Environmental Sciences",
+    "code": "ESBBES",
+    "duration_years": 3,
+    "aps": 32,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences OR Geography OR Agricultural Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 32 + an achievement level of 4 (adequate achievement, 50-59%) or better in English, Mathematics, Physical Sciences, Life Sciences, Geography, or Agricultural Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Bachelor of Earth Sciences in Mining and Environmental Geology",
+    "code": "ESBMEG",
+    "duration_years": 4,
+    "aps": 35,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "At least three from: Agricultural Sciences, Accounting, Life Sciences, Economics, Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 35 + an achievement level of 5 (60-69%) in Mathematics and Physical Science (adequate achievement, 50-59%) and 50%+ in English and at least three of these subjects – Agricultural Sciences, Accounting, Life Sciences, Economics and Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Bachelor of Earth Sciences in Hydrology and Water Resources",
+    "code": "ESBHWR",
+    "duration_years": 4,
+    "aps": 35,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "At least three from: Agricultural Sciences, Accounting, Life Sciences, Economics, Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 35 + an achievement level of 5 (60-69%) in English, Mathematics, Physical Sciences and an adequate achievement (50-59%) in at least three of these subjects – Agricultural Sciences, Accounting, Life Sciences, Economics and Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Bachelor of Urban and Regional Planning",
+    "code": "ESBURP",
+    "duration_years": 4,
+    "aps": 35,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Technical Drawing and Geography", "level": "4", "percentage_range": "50-59%" },
+          { "name": "At least any three from: Agricultural Sciences, Accounting, Life Sciences, Economics, Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 35 + an achievement level of 5 (60-69%) in Physical Sciences, Mathematics, English, Technical Drawing, Geography and (adequate achievement, 50-59%) or better in English and Mathematics, plus at least any three subjects – Agricultural Sciences, Accounting, Life Sciences, Economics and Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Bachelor of Environmental Sciences in Disaster Risk Reduction",
+    "code": "ESBBDR",
+    "duration_years": 4,
+    "aps": 35,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Geography", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences and Economics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 35 + an achievement level of 5 (60-69%) in Geography, Mathematics and Life Sciences, (adequate achievement, 50-59%) or better in English, Physical Sciences and Economics."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Agriculture (Agricultural Economics)",
+    "code": "AGBAAE",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences OR Agricultural Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + an achievement level of 4 (50-59%) in Mathematics, Physical Sciences and English, as well as in either Life Sciences or Agricultural Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Agriculture (Agribusiness Management)",
+    "code": "AGBAAM",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Agriculture (Animal Science)",
+    "code": "AGBAAS",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Agriculture (Horticultural Sciences)",
+    "code": "AGBAHS",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Agriculture (Plant Production)",
+    "code": "AGBAPP",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Soil Science",
+    "code": "AGBASS",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Forestry",
+    "code": "AGBBFR",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "BSc in Food Science and Technology",
+    "code": "AGBFST",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences OR Agricultural Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences or Agricultural Sciences."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Biochemistry and Microbiology)",
+    "code": "MNEBSA",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Biochemistry and Biology)",
+    "code": "MNEBSD",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Microbiology and Botany)",
+    "code": "MNEBSE",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Mathematics and Applied Mathematics)",
+    "code": "MNEBSF",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Computer Science and Mathematics)",
+    "code": "MNEBSQ",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Mathematics and Physics)",
+    "code": "MNEBSH",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "30-39%" },
+          { "name": "Four recognised 20-credit NSC subjects", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Agricultural Sciences OR Physical Sciences OR Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 24 + with Diploma + 30% in English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Mathematics and Statistics)",
+    "code": "MNEBSI",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "30-39%" },
+          { "name": "Four recognised 20-credit NSC subjects", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Agricultural Sciences OR Physical Sciences OR Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 24 + with Diploma + 30% in English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Physics and Chemistry)",
+    "code": "MNEBSJ",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "30-39%" },
+          { "name": "Four recognised 20-credit NSC subjects", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Agricultural Sciences OR Physical Sciences OR Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 24 + with Diploma + 30% in English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Chemistry and Mathematics)",
+    "code": "MNEBSK",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "30-39%" },
+          { "name": "Four recognised 20-credit NSC subjects", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Agricultural Sciences OR Physical Sciences OR Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 24 + with Diploma + 30% in English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Chemistry and Biochemistry)",
+    "code": "MNEBSL",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "30-39%" },
+          { "name": "Four recognised 20-credit NSC subjects", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Agricultural Sciences OR Physical Sciences OR Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 24 + with Diploma + 30% in English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Chemistry and Applied Chemistry)",
+    "code": "MNEBSN",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Botany and Zoology)",
+    "code": "MNEBSO",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  },
+  {
+    "faculty": "Science, Engineering and Agriculture",
+    "programme": "Extended BSc (Computer Science)",
+    "code": "MNEBSP",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Any other relevant subject", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC 26 + with a bachelor's pass achievement rating of 3 (40-49%) or better in matric English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments."
+  }
+]

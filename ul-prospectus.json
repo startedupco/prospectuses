@@ -1,0 +1,730 @@
+[
+  {
+    "faculty": "Humanities",
+    "programme": "BA in Contemporary English and Multilingual Studies",
+    "code": "BACEMS",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English. Additional subjects contribute to minimum APS total of 24. Careers: Teaching Foundation Phase, Curriculum Advisors, Principalship, Community Consultant."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd in Foundation Phase Teaching",
+    "code": "BEdFP",
+    "duration_years": 4,
+    "aps": null,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "3 (Maths: 40-49%) or 4 (Lit: 50-59%)", "percentage_range": "40-49% or 50-59%" },
+          { "name": "First Language", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 3 (40-49%) in Mathematics OR 4 (50-59%) in Mathematical Literacy, and 4 (50-59%) in First Language."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Social Work",
+    "code": "BSW",
+    "duration_years": 4,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "4 (50-59%) OR 5 (60-69%)", "percentage_range": "50-59% or 60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics OR 5 (60-69%) in Mathematical Literacy. Additional subjects contribute to minimum APS total of 25. Careers: Social Worker, Counsellor, Employee Assistance Practitioner."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc (Physical and Mineral Sciences) - High Level Route",
+    "code": "BScPMS-H",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 3 (40-49%) in English, 4 (50-59%) in Mathematics, 5 (60-69%) in Physical Sciences, 5 (60-69%) in Life Sciences. Additional subjects to contribute to minimum APS total of 26. Careers: Physicists, Chemical Industry, Analytical & Production Laboratories, Consultancy, Industrial Process Management, Metallurgists."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc (Physical and Mineral Sciences) - Standard Route",
+    "code": "BScPMS-S",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 4 (50-59%) in Physical Sciences, 3 (40-49%) in Life Sciences. Additional subjects to contribute to minimum APS total of 22. Careers: Physicists, Chemical Industry, Analytical & Production Laboratories, Consultancy, Industrial Process Management, Metallurgists."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc (Geology and Earth Sciences)",
+    "code": "BScGES",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 3 (40-49%) in English, 4 (50-59%) in Mathematics, 5 (60-69%) in Physical Sciences, 5 (60-69%) in Life Sciences. Additional subjects to contribute to minimum APS total of 26. Careers: Geologist, Environmental Scientist, Earth Scientist, Hydrologist, Mining, Regional Planning and Development, Mineralogist, Palaeontologist, Geophysicist, Geochemist."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Accountancy",
+    "code": "BAcc",
+    "duration_years": 4,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics. Additional subjects to contribute to minimum APS total of 30. Careers: Management Accountants, Internal Auditors, Tax Consultants, Business Entrepreneurs, Accountants."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Commerce in Accountancy",
+    "code": "BComAcc",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics. Additional subjects to contribute to minimum APS total of 28. Careers: Internal Auditors, Consultants, Business Entrepreneurs, Accountants."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Commerce in Accountancy (Extended Curriculum Programme)",
+    "code": "BComAcc-ECP",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics. Additional subjects to contribute to minimum APS total of 26. Careers: Internal Auditors, Consultants, Business Entrepreneurs, Accountants."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Commerce in Business Management",
+    "code": "BComBM",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Economics", "level": "3 (40-49%)", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 3 (40-49%) in Mathematics OR Economics. Additional subjects to contribute to minimum APS total of 26. Careers: Financial Officers, Marketing Officers, Human Resource Practitioner, Purchasing Officers, Business Entrepreneurs."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Commerce in Economics",
+    "code": "BComEcon",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Economics", "level": "3 (40-49%)", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 3 (40-49%) in Mathematics OR 4 (50-59%) in Economics. Additional subjects to contribute to minimum APS total of 26. Careers: Economists, Consultants, Business Entrepreneurs."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Commerce in Economics (Extended Curriculum Programme)",
+    "code": "BComEcon-ECP",
+    "duration_years": 4,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Economics", "level": "3 (40-49%)", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 3 (40-49%) in Mathematics OR 4 (50-59%) in Economics. Additional subjects to contribute to minimum APS total of 22. Careers: Economists, Consultants, Business Entrepreneurs."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Administration",
+    "code": "BAdmin",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English. Additional subjects to contribute to minimum APS total of 26. Careers: Local Government Practitioners, Public Relations Practitioners, Consultants."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Administration in Local Government",
+    "code": "BAdminLG",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English. Additional subjects to contribute to minimum APS total of 26. Careers: Project Managers, Local Government Officers, Consultants."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Development in Planning and Management",
+    "code": "BDevPM",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "3 (40-49%) OR 5 (60-69%)", "percentage_range": "40-49% or 60-69%" },
+          { "name": "Additional subjects", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 3 (40-49%) in Mathematics OR 5 (60-69%) in Mathematical Literacy. Each additional subject requires a subminimum of 4 (50-59%). Careers: Development & Environmental Managers, Facilitators, Planners, Managers with specialised Skills in Development Project Design."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Laws (English Home Language Route)",
+    "code": "LLB-HL",
+    "duration_years": 4,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English Home Language", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) for English Home Language accepted. Additional subjects to contribute to minimum APS total of 30. Careers: Judge, Magistrate, Advocate, Attorney, Director of Public Prosecution, Registrar, Master of High Court, Legal Advisor, Legal Administrative Officer, Labour Consultant, Commissioner."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Laws (English First Additional Language Route)",
+    "code": "LLB-FAL",
+    "duration_years": 4,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English First Additional Language", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 5 (60-69%) for English First Additional Language required. Additional subjects to contribute to minimum APS total of 30. Careers: Judge, Magistrate, Advocate, Attorney, Director of Public Prosecution, Registrar, Master of High Court, Legal Advisor, Legal Administrative Officer, Labour Consultant, Commissioner."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Laws (Extended Curriculum Programme) - English Home Language Route",
+    "code": "LLB-ECP-HL",
+    "duration_years": 5,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English Home Language", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) for English Home Language accepted. Additional subjects to contribute to minimum APS total of 26. Careers: Judge, Magistrate, Advocate, Attorney, Director of Public Prosecution, Registrar, Master of High Court, Legal Advisor, Legal Administrative Officer, Labour Consultant, Commissioner."
+  },
+  {
+    "faculty": "Management and Law",
+    "programme": "Bachelor of Laws (Extended Curriculum Programme) - English First Additional Language Route",
+    "code": "LLB-ECP-FAL",
+    "duration_years": 5,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English First Additional Language", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 5 (60-69%) for English First Additional Language required. Additional subjects to contribute to minimum APS total of 26. Careers: Judge, Magistrate, Advocate, Attorney, Director of Public Prosecution, Registrar, Master of High Court, Legal Advisor, Legal Administrative Officer, Labour Consultant, Commissioner."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "Bachelor of Agricultural Management",
+    "code": "BAgricMan",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 3 (40-49%) in Mathematics, 4 (50-59%) in Physical Science, 4 (50-59%) in Life Science. Additional subjects to contribute to minimum APS total of 24. Careers: Agricultural Extension Officers, Agricultural Officers, Farm Manager, Agriculture Technician, Research Assistant."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc in Agriculture (Agricultural Economics)",
+    "code": "BScAgEcon",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 4 (50-59%) in Physical Science, 4 (50-59%) in Life Science. Additional subjects to contribute to minimum APS total of 24. Careers: Agricultural Economist, Agri-Business Managers, Agricultural Policy Analysts, Farm Managers, Consultants."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc in Agriculture (Plant Production)",
+    "code": "BScAgPP",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 4 (50-59%) in Physical Science, 4 (50-59%) in Life Science. Additional subjects to contribute to minimum APS total of 24. Careers: Agronomists, Plant Breeders, Farm Managers, Consultants."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc in Agriculture (Animal Production)",
+    "code": "BScAgAP",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 4 (50-59%) in Physical Science, 4 (50-59%) in Life Science. Additional subjects to contribute to minimum APS total of 24. Careers: Marketing Officers in Processing, Distribution and Marketing of Livestock Products, Livestock Scientists, Animal Breeders & Nutritionists, Farm Managers, Consultants."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc in Agriculture (Soil Science)",
+    "code": "BScAgSS",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 5 (60-69%) in Physical Science, 4 (50-59%) in Life Science. Additional subjects to contribute to minimum APS total of 25. Careers: Soil Scientists, Laboratory Managers, Soil Analysts."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc in Environmental and Resource Studies",
+    "code": "BScERS",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 4 (50-59%) in Physical Science, 4 (50-59%) in Life Science, 4 (50-59%) in Geography. Additional subjects to contribute to minimum APS total of 24. Careers: Environmental Officers, Development Planners, Cartographers."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc in Water and Sanitation Sciences",
+    "code": "BScWSS",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Science", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Science", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 5 (60-69%) in Mathematics, 5 (60-69%) in Physical Science, 4 (50-59%) in Life Science. Additional subjects to contribute to minimum APS total of 24. Careers: Water Supply & Sanitation Scientist, Community Water Supply Project Planner, Community Sanitation Project Manager, Water Catchment Manager, Water Resources Planner, Water Treatment Plant Manager, Waste Water Treatment Manager."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc (Mathematical Sciences Stream)",
+    "code": "BScMath",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 5 (60-69%) in Mathematics. Additional subjects to contribute to minimum APS total of 24. Careers: Systems Analysts, Computer Programmer, Network Specialist, Project Management, Logistics, Financial Analyst, Insurance Underwriters."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc (Mathematical Sciences Stream) (Extended Curriculum Programme)",
+    "code": "BScMath-ECP",
+    "duration_years": 4,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics. Additional subjects to contribute to minimum APS total of 22. Careers: Systems Analysts, Computer Consultants, Computer Programmers, Computer Modelling Consultants, Aerospace Engineers, Network Specialists, Statisticians."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc (Life Sciences Stream)",
+    "code": "BScLife",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 5 (60-69%) in Mathematics, 5 (60-69%) in Physical Sciences, 4 (50-59%) in Life Sciences. Additional subjects to contribute to minimum APS total of 26. Careers: Biotechnology and bio-informatics related occupations, Consultancy – any biological field, Environmental Health and Occupational Hygiene, Environmental Management (Nature Conservation, Environmental Impact Consultant), Industrial Biochemistry and Microbiology, Entomology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "programme": "BSc (Life Sciences Stream) (Extended Curriculum Programme)",
+    "code": "BScLife-ECP",
+    "duration_years": 4,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 4 (50-59%) in Physical Sciences, 3 (40-49%) in Life Sciences. Additional subjects to contribute to minimum APS total of 22. Careers: Biotechnology and bio-informatics related occupations, Consultancy – any biological field, Environmental Health and Occupational Hygiene, Environmental Management (Nature Conservation, Environmental Impact Consultant), Industrial Biochemistry and Microbiology, Entomology."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "MBChB - Bachelor of Medicine & Bachelor of Surgery",
+    "code": "MBChB",
+    "duration_years": 6,
+    "aps": 27,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Science", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Science", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Additional Subject 1", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Additional Subject 2", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 5 (60-69%) in Mathematics, 5 (60-69%) in Physical Science, 5 (60-69%) in Life Science, plus two additional subjects at 4 (50-59%). Careers: General Medical Practitioner, Medical Research Institutes."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Dietetics",
+    "code": "BScDiet",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Additional Subject 1", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Additional Subject 2", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 5 (60-69%) in Physical Sciences, 5 (60-69%) in Life Sciences, plus two additional subjects at 4 (50-59%). Careers: Dietician in Hospital, Community Dietician, Food Service Manager, Consultants for Food Production Companies, Medical Representatives of Nutritional Companies, Private Practice and Research Centres."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Optometry",
+    "code": "BOptom",
+    "duration_years": 4,
+    "aps": 27,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Additional Subject 1", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Additional Subject 2", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 5 (60-69%) in Mathematics, 5 (60-69%) in Physical Sciences, 5 (60-69%) in Life Sciences, plus two additional subjects at 4 (50-59%). Careers: Optometrist in Private and Public Sector."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "BSc in Medical Sciences",
+    "code": "BScMed",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Additional Subject 1", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Additional Subject 2", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 5 (60-69%) in Physical Sciences, 5 (60-69%) in Life Sciences, plus two additional subjects at 4 (50-59%). Careers: Medical Scientist, Laboratory Researchers."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Nursing",
+    "code": "BNurs",
+    "duration_years": 4,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Additional Subject 1", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Additional Subject 2", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 4 (50-59%) in Mathematics, 5 (60-69%) in Physical Sciences, 5 (60-69%) in Life Sciences, plus two additional subjects at 4 (50-59%). Careers: General, Psychiatric, Community Nurse and Mid-Wife, Occupational Health Nurse, Old Age Homes / Home-Based Care, Private Practice / Hospitals, Pharmaceutical Companies, Insurance & Medical Aid Companies."
+  },
+  {
+    "faculty": "Health Sciences",
+    "programme": "Bachelor of Pharmacy",
+    "code": "BPharm",
+    "duration_years": 4,
+    "aps": 27,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Additional Subject 1", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Additional Subject 2", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "NSC: 4 (50-59%) in English, 5 (60-69%) in Mathematics, 5 (60-69%) in Physical Sciences, 5 (60-69%) in Life Sciences, plus two additional subjects at 4 (50-59%). Careers: Retail Medicine, Medicine Control Centre, Departments of Health, Industrial Environment, Private Practice."
+  }
+]

@@ -1,0 +1,1417 @@
+[
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Senior and FET Phase (Agriculture specialisation)",
+    "code": "500491-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Agricultural Science", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Senior and FET Phase (Agriculture specialisation)",
+    "code": "500491-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "Agricultural Science", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Senior and FET Phase (Commerce specialisation)",
+    "code": "500492-M",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Any two of: Accounting, Economics, Business Management", "level": "4 each", "percentage": "50-59" }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Senior and FET Phase (Commerce specialisation)",
+    "code": "500492-L",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+          { "name": "Any two of: Accounting, Economics, Business Management", "level": "4 each", "percentage": "50-59" }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Senior and FET Phase (Science specialisation)",
+    "code": "500493",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science OR Life Science OR Geography OR Computer Science", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Physical Science, Life Science, Geography, Computer Science."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Senior and FET Phase (Social Science specialisation)",
+    "code": "500494",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "isiXhosa OR Afrikaans", "level": 4, "percentage": 50 },
+          { "name": "History OR Geography", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose isiXhosa OR Afrikaans (Home or First Additional), and History OR Geography."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Foundation Phase Teaching",
+    "code": "50045-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "isiXhosa OR Afrikaans", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Foundation Phase Teaching",
+    "code": "50045-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "isiXhosa OR Afrikaans", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Intermediate Phase Teaching",
+    "code": "50046-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "isiXhosa OR Afrikaans", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Education",
+    "campuses": [],
+    "programme": "BEd Intermediate Phase Teaching",
+    "code": "50046-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "isiXhosa OR Afrikaans", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Law",
+    "campuses": [],
+    "programme": "Bachelor of Laws",
+    "code": "21525",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics OR Mathematical Literacy OR Technical Mathematics", "level": "3 or 4 or 4", "percentage": "40-49 or 50-59 or 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose one of Mathematics (3), Mathematical Literacy (4), Technical Mathematics (4)."
+  },
+  {
+    "faculty": "Law",
+    "campuses": [],
+    "programme": "Bachelor of Laws (Extended Programme)",
+    "code": "21526-M",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 2, "percentage": 30 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Law",
+    "campuses": [],
+    "programme": "Bachelor of Laws (Extended Programme)",
+    "code": "21526-LT",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy OR Technical Mathematics", "level": "4 or 4", "percentage": "50-59 or 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy / Technical Mathematics route."
+  },
+  {
+    "faculty": "Law",
+    "campuses": [],
+    "programme": "Bachelor of Commerce in Law",
+    "code": "21527-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Law",
+    "campuses": [],
+    "programme": "Bachelor of Commerce in Law",
+    "code": "21527-LT",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy OR Technical Mathematics", "level": "5 or 5", "percentage": "60-69 or 60-69" }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy / Technical Mathematics route."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": [],
+    "programme": "Bachelor of Health Sciences in Human Movement Science",
+    "code": "84001-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": [],
+    "programme": "Bachelor of Health Sciences in Human Movement Science",
+    "code": "84001-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": [],
+    "programme": "Bachelor of Science in Speech Language Pathology",
+    "code": "84033-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": [],
+    "programme": "Bachelor of Science in Speech Language Pathology",
+    "code": "84033-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": [],
+    "programme": "Bachelor of Nursing",
+    "code": "84040-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Health Sciences",
+    "campuses": [],
+    "programme": "Bachelor of Nursing",
+    "code": "84040-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "Physical Science", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Administration in Public Administration",
+    "code": "62005-M",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 2, "percentage": 30 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Administration in Public Administration",
+    "code": "62005-L",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Commerce",
+    "code": "60015",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Commerce (Extended Programme)",
+    "code": "61015",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Commerce in Accounting",
+    "code": "60001",
+    "aps": 32,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 5, "percentage": 60 },
+          { "name": "Mathematics", "level": 5, "percentage": 60 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "2 at 4, 2 at 5", "percentage": "50-59 and 60-69" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Two subjects at Level 4 (50-59%) and two at Level 5 (60-69%)."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Commerce in Accounting (Extended Programme)",
+    "code": "60006",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "2 at 4, 2 at 5", "percentage": "50-59 and 60-69" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Two subjects at Level 4 (50-59%) and two at Level 5 (60-69%)."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Commerce in Information Systems",
+    "code": "60011",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS."
+  },
+  {
+    "faculty": "Management and Commerce",
+    "campuses": [],
+    "programme": "Bachelor of Commerce in Information Systems (Extended Programme)",
+    "code": "60101",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Any 4 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Arts",
+    "code": "30000",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Arts (Extended Programme)",
+    "code": "30040",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 2, 3 at 4", "percentage": "30-39 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 2 (30-39%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Science",
+    "code": "40000",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Science (Extended Programme)",
+    "code": "40400",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics AND Physical Science", "level": "one at 3, other at 4", "percentage": "40-49 and 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Must have Mathematics AND Physical Science – one at Level 3, the other at Level 4. Choose one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Soil Science)",
+    "code": "71522",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Soil Science) (Extended)",
+    "code": "71422",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics AND Physical Science", "level": "one at 3, other at 4", "percentage": "40-49 and 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Must have Mathematics AND Physical Science – one at Level 3, the other at Level 4. Choose one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Horticulture)",
+    "code": "71523",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Horticulture) (Extended)",
+    "code": "71423",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics AND Physical Science", "level": "one at 3, other at 4", "percentage": "40-49 and 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Must have Mathematics AND Physical Science – one at Level 3, the other at Level 4. Choose one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Crops)",
+    "code": "71524",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Crops) (Extended)",
+    "code": "71424",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics AND Physical Science", "level": "one at 3, other at 4", "percentage": "40-49 and 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Must have Mathematics AND Physical Science – one at Level 3, the other at Level 4. Choose one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Animal Production)",
+    "code": "71525",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Animal Production) (Extended)",
+    "code": "71425",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics AND Physical Science", "level": "one at 3, other at 4", "percentage": "40-49 and 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Must have Mathematics AND Physical Science – one at Level 3, the other at Level 4. Choose one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Pasture Science)",
+    "code": "71526",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Physical Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Pasture Science) (Extended)",
+    "code": "71426",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics AND Physical Science", "level": "one at 3, other at 4", "percentage": "40-49 and 50-59" }
+        ],
+        "optional_any": [
+          { "name": "Life Sciences", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Must have Mathematics AND Physical Science – one at Level 3, the other at Level 4. Choose one of Life Sciences, Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Agricultural Economics)",
+    "code": "71521",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Agriculture, Geography, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "BSc Agriculture (Agricultural Economics) (Extended)",
+    "code": "71421",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Life Sciences", "level": 3, "percentage": 40 }
+        ],
+        "optional_any": [
+          { "name": "Geography", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 },
+          { "name": "Information Technology", "level": 4, "percentage": 50 },
+          { "name": "Any 2 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Choose any one of Geography, Agriculture, Information Technology."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture",
+    "code": "70001-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture",
+    "code": "70001-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture (Extended Programme)",
+    "code": "70401-M",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture (Extended Programme)",
+    "code": "70401-L",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture (Agricultural Extension)",
+    "code": "70002-M",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture (Agricultural Extension)",
+    "code": "70002-L",
+    "aps": 29,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 5, "percentage": 60 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture (Agricultural Extension) (Extended)",
+    "code": "70402-M",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematics", "level": 3, "percentage": 40 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematics route."
+  },
+  {
+    "faculty": "Science and Agriculture",
+    "campuses": [],
+    "programme": "Bachelor of Agriculture (Agricultural Extension) (Extended)",
+    "code": "70402-L",
+    "aps": 28,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Mathematical Literacy", "level": 4, "percentage": 50 },
+          { "name": "Agriculture", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any 3 other subjects", "level": "4 each", "percentage": "50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. This is the Mathematical Literacy route."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Fine Art",
+    "code": "30100",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Library and Information Science",
+    "code": "32000",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Music",
+    "code": "30003",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Social Science",
+    "code": "30002",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Social Science (Extended Programme)",
+    "code": "30041",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Social Science in Communication",
+    "code": "30201",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Social Science in Human Settlement",
+    "code": "30005",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Social Work",
+    "code": "33002",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Bachelor of Theology",
+    "code": "10001",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 },
+          { "name": "Another Language", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Other subjects", "level": "1 at 3, 3 at 4", "percentage": "40-49 and 50-59" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. One subject at Level 3 (40-49%) and three at Level 4 (50-59%)."
+  },
+  {
+    "faculty": "Social Science and Humanities",
+    "campuses": [],
+    "programme": "Diploma in Fine Art",
+    "code": "35000",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": 4, "percentage": 50 }
+        ],
+        "optional_any": [
+          { "name": "Any four 20-credit NSC subjects", "level": 3, "percentage": "40-49" },
+          { "name": "Any one 20-credit NSC subject", "level": 2, "percentage": "30-39" }
+        ]
+      }
+    },
+    "notes": "Life Orientation capped at Level 4 for APS. Four subjects at Level 3 (40-49%) and one at Level 2 (30-39%)."
+  }
+]
