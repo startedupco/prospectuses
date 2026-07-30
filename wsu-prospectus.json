@@ -1,0 +1,2077 @@
+[
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Diploma in Accountancy",
+    "code": "W63001",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires Level 3 in any two additional subjects. Provides essential skills for financial, taxation, auditing, and management accounting roles. Foundation for further studies in accounting disciplines."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Diploma in Financial Information Systems",
+    "code": "W63002",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires Level 3 in any two additional subjects. Equips graduates with competencies in financial and information system activities including accounting, taxation, auditing, and management accounting."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Diploma in Internal Auditing",
+    "code": "W63004",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Accounting", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "Mainstream programme. Equips graduates with skills to perform financial and operational audit functions. Foundation for further studies in accounting and internal auditing."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Diploma in Internal Auditing (Extended Curriculum Programme)",
+    "code": "W63005",
+    "duration": "4 years",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Accounting", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Extended stream with reduced APS requirement of 20. ECP provides additional academic support."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Bachelor of Accounting",
+    "code": "W63008",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Prepares students with essential financial, analytical, and managerial skills for careers in commerce and industry."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Bachelor of Accounting Science",
+    "code": "W63009",
+    "duration": "3 years",
+    "aps": 27,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Foundation for Chartered Accountant (CA) route. Prepares students for CTA program. Also prepares students to practice as Registered General Accountants."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Bachelor of Commerce",
+    "code": "W63010",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "Imparts knowledge and understanding of fundamental principles and practices in commerce-related subjects."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Bachelor of Commerce in Business Management",
+    "code": "W63011",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "Empowers students with logical and critical thinking skills for informed business decisions. Emphasis on electronic-based activities in modern business."
+  },
+  {
+    "faculty": "Commerce and Management",
+    "programme": "Bachelor of Commerce in Economics",
+    "code": "W63012",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 6 }
+      ]
+    },
+    "notes": "Imparts knowledge of micro- and macro-economic principles. Fosters independent thinking and critical evaluation skills to address socioeconomic challenges."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Foundation Phase Teaching",
+    "code": "W62006",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "Life Orientation", "level": 5 },
+        { "name": "IsiXhosa Home Language", "level": 4 },
+        { "name": "English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "APS calculation: 4 compulsory subjects + any other two additional subjects totalling 8 APS. Specialisation linked to Grades R-3."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts History)",
+    "code": "W62007",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "History", "level": 4 },
+        { "name": "Music or Dance Studies or Dramatic Arts or Visual Arts", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires any other three additional subjects totalling 8 APS. Applicants without Music at Matric will be subjected to Auditions and Music Aptitude Test."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts English)",
+    "code": "W62019",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Music or Dance Studies or Dramatic Arts or Visual Arts", "level": 4 },
+        { "name": "Any other subject", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires any other three additional subjects totalling 7 APS. Applicants without Music at Matric will be subjected to Auditions and Music Aptitude Test."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts English) - ECP",
+    "code": "W62023",
+    "duration": "4 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Music or Dance Studies or Dramatic Arts or Visual Arts", "level": 3 },
+        { "name": "Any other subject", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires any other three additional subjects totalling 7 APS. Extended Curriculum Programme with lower requirements."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Consumer & Management Science)",
+    "code": "W62008",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Consumer Studies", "level": 4 },
+        { "name": "Hospitality", "level": 4 },
+        { "name": "Tourism", "level": 4 }
+      ]
+    },
+    "notes": "Requires one of Consumer Studies/Hospitality/Tourism at Level 4. Also requires any other two additional subjects totalling 10 APS."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Economic & Management Science)",
+    "code": "W62009",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 },
+        { "name": "Accounting", "level": 4 },
+        { "name": "Business Studies", "level": 4 },
+        { "name": "Economics", "level": 4 }
+      ]
+    },
+    "notes": "Requires two of Accounting/Business Studies/Economics at Level 4. Also requires any other two additional subjects totalling 6 APS."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Humanities)",
+    "code": "W62010",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "History", "level": 4 },
+        { "name": "Geography", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires any other three additional subjects totalling 8 APS."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Languages)",
+    "code": "W62011",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Xhosa Home Language or Xhosa First Additional Language", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires any other two subjects at Level 4 and any other three additional subjects totalling 7 APS."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Maths, Science and Technology)",
+    "code": "W62012",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ]
+    },
+    "notes": "Requires either Life Sciences or Physical Sciences at Level 4. Also requires any other two additional subjects totalling 8 APS."
+  },
+  {
+    "faculty": "Education",
+    "programme": "Bachelor of Education in Senior Phase & FET Teaching (Technical and Vocational)",
+    "code": "W62018",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Technical Sciences", "level": 4 },
+        { "name": "Engineering Graphics and Design", "level": 4 },
+        { "name": "Civil Technology", "level": 4 },
+        { "name": "Electrical Technology", "level": 4 },
+        { "name": "Mechanical Technology", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ]
+    },
+    "notes": "Requires any two technical subjects at Level 4. Also requires any two additional subjects totalling 8 APS."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Building Technology",
+    "code": "W60001",
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City/Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Technical Mathematics", "level": 5 },
+        { "name": "Technical Science", "level": 4 }
+      ]
+    },
+    "notes": "Mainstream programme. Prepares learners for supervisory and middle management level employment in the building industry, Quantity Surveying and Construction Management."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Building Technology (Extended Curriculum Programme)",
+    "code": "W60002",
+    "duration": "4 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City/Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 2 }
+      ],
+      "optional_any": [
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Technical Science", "level": 3 }
+      ]
+    },
+    "notes": "Extended stream: applicants who have an NSC achievement rating of 3 (one level below the required levels) in ONE of the three subjects may be considered."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Civil Engineering",
+    "code": "W60003",
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City/Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Trains technicians who will meet criteria for registration as Candidate Engineering Technicians by ECSA."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Civil Engineering (Extended Curriculum Programme)",
+    "code": "W60004",
+    "duration": "4 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City/Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream: applicants with NSC achievement rating of 3 (one level below required) in ONE of the three subjects may be considered."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Electrical Engineering",
+    "code": "W60005",
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Trains electrical engineering technicians who will meet criteria for registration as Candidate Engineering Technicians by ECSA."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Electrical Engineering (Extended Curriculum Programme)",
+    "code": "W60006",
+    "duration": "4 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream: applicants with NSC achievement rating of 3 (one level below required) in ONE of the three subjects may be considered."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Mechanical Engineering",
+    "code": "W60007",
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Technical Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Technical Science", "level": 4 }
+      ]
+    },
+    "notes": "Requires one of Mathematics/Technical Mathematics at Level 4 AND one of Physical Sciences/Technical Science at Level 4. Trains mechanical engineering technicians for ECSA registration."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Mechanical Engineering (Extended Curriculum Programme)",
+    "code": "W60008",
+    "duration": "4 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Technical Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 3 },
+        { "name": "Technical Science", "level": 3 }
+      ]
+    },
+    "notes": "Extended stream: applicants with NSC achievement rating of 3 (one level below required) in ONE of the three subjects may be considered."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Applications Development",
+    "code": "W60009",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 22; with Mathematical Literacy: 24. Prepares graduates to conceptualize, design, develop, implement, and test application development solutions."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Applications Development (ECP)",
+    "code": "W60010",
+    "duration": "4 years",
+    "aps": 18,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Extended stream: APS with Mathematics: 18; with Mathematical Literacy: 20. Applicants with achievement one level below required may be considered."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Business Analysis",
+    "code": "W60011",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 22; with Mathematical Literacy: 24. Prepares graduates to analyse business environments and design ICT solutions for business alignment."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Business Analysis (ECP)",
+    "code": "W60012",
+    "duration": "4 years",
+    "aps": 18,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Extended stream: APS with Mathematics: 18; with Mathematical Literacy: 20."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Communication Networks",
+    "code": "W60013",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 22; with Mathematical Literacy: 24. Trains network technicians to design, develop, implement, and manage computer networks."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Communication Networks (ECP)",
+    "code": "W60014",
+    "duration": "4 years",
+    "aps": 18,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Extended stream: APS with Mathematics: 18; with Mathematical Literacy: 20."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Support Services",
+    "code": "W60015",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 5 }
+      ]
+    },
+    "notes": "APS with Mathematics: 22; with Mathematical Literacy: 24. Trains IT support technicians to identify ICT solutions, maintain equipment, and manage IT call centres."
+  },
+  {
+    "faculty": "Engineering, Built Environment & Information Technology",
+    "programme": "Diploma in Information and Communications Technology in Support Services (ECP)",
+    "code": "W60016",
+    "duration": "4 years",
+    "aps": 18,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Extended stream: APS with Mathematics: 18; with Mathematical Literacy: 20."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Diploma in Fashion",
+    "code": "W66001",
+    "duration": "3 years",
+    "aps": 19,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 },
+        { "name": "Accounting", "level": 2 }
+      ]
+    },
+    "notes": "Students who meet minimum requirements will be subject to an evaluation to confirm final placement. Provides fashion designing/manufacturing skills for the fashion industry."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Diploma in Fine Art",
+    "code": "W66002",
+    "duration": "3 years",
+    "aps": 19,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "In exceptional cases, an excellent portfolio of artworks and passing internal assessment/interview may enable entry with Level 2 in English. Students who meet minimum requirements subject to evaluation."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Arts",
+    "code": "W66004",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "IsiXhosa", "level": 4 },
+        { "name": "Sesotho", "level": 4 },
+        { "name": "Geography", "level": 4 },
+        { "name": "History", "level": 4 }
+      ]
+    },
+    "notes": "Requires achievement in any two subjects from the optional list at Level 4. Equips students with undergraduate level knowledge for Honours specialisation."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Arts (English)",
+    "code": "W66029",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or First Additional Language", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "IsiXhosa", "level": 4 },
+        { "name": "Sesotho", "level": 4 },
+        { "name": "Geography", "level": 4 },
+        { "name": "History", "level": 4 }
+      ]
+    },
+    "notes": "Requires English at Level 5 and one other subject from the optional list at Level 4."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Anthropology)",
+    "code": "W66007",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Promotes academic competence, community engagement, and research competence in social and human development."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Anthropology) - ECP",
+    "code": "W66008",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Criminology)",
+    "code": "W66009",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Criminology) - ECP",
+    "code": "W66010",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Philosophy)",
+    "code": "W66011",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Philosophy) - ECP",
+    "code": "W66012",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Political Studies)",
+    "code": "W66013",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Political Studies) - ECP",
+    "code": "W66014",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Population Studies)",
+    "code": "W66015",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Population Studies) - ECP",
+    "code": "W66016",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Psychology)",
+    "code": "W66017",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Psychology) - ECP",
+    "code": "W66018",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Sociology)",
+    "code": "W66019",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": null
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Sciences (Sociology) - ECP",
+    "code": "W66020",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any four other subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Laws",
+    "code": "W66021",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Provides knowledge, skills, and values of South African law and legal system. Prepares students for entry into legal practice."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Psychology",
+    "code": "W66022",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Life Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Requires achievement in English, any other African Language, and Life Sciences at Level 4. Provides comprehensive understanding of cognitive processes, human development, and behaviour."
+  },
+  {
+    "faculty": "Law, Humanities & Social Sciences",
+    "programme": "Bachelor of Social Work",
+    "code": "W66023",
+    "duration": "4 years",
+    "aps": 26,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 5 },
+        { "name": "Life Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Also requires any other three subjects (excluding Life Orientation) at Level 4. Professional 4-year degree. Character reference checks conducted for all admitted students."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Higher Certificate in Versatile Broadcasting",
+    "code": "W61001",
+    "duration": "1 year",
+    "aps": 18,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other language", "level": 3 },
+        { "name": "Any two additional subjects", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Provides skills and knowledge needed to work in all forms of mass communication including journalism, radio, television, film, and digital media."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Administrative Management",
+    "code": "W61002",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any two additional subjects", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Graduates must identify and solve problems, make responsible and ethical decisions, and work effectively as a member of a team."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Hospitality Management",
+    "code": "W61003",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any three relevant school subjects", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Prepares learners for careers in hotels, lodges, restaurants, and food service institutions."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Human Resources Management",
+    "code": "W61004",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any two school subjects", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Mainstream programme. Produces HR practitioners who are critical thinkers, improving relations between management, employees, and unions."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Human Resources Management (ECP)",
+    "code": "W61005",
+    "duration": "4 years",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any two school subjects", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Journalism",
+    "code": "W61006",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Any other language", "level": 4 },
+        { "name": "Any two additional subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Focuses on gathering, assessing, and presenting news and information through print, electronic, and social media platforms."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Local Government Finance",
+    "code": "W61007",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Accounting", "level": 3 },
+        { "name": "Mathematics", "level": 3 }
+      ]
+    },
+    "notes": "Mainstream programme. Requires either Accounting or Mathematics at Level 3. Graduates perform municipal finance and operational audit functions."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Local Government Finance (ECP)",
+    "code": "W61008",
+    "duration": "4 years",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Accounting", "level": 2 },
+        { "name": "Mathematics", "level": 2 }
+      ]
+    },
+    "notes": "Extended stream. Requires either Accounting or Mathematics at Level 2."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Management",
+    "code": "W61009",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Accounting", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Mainstream programme. Requires one of Accounting/Mathematics/Mathematical Literacy at specified levels. Applies management principles, procedures, and processes."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Management (ECP)",
+    "code": "W61010",
+    "duration": "4 years",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Accounting", "level": 2 },
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Marketing Management",
+    "code": "W61011",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any other two subjects", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Key areas include product distribution, sales generation, customer loyalty, and effective digital marketing."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Policing",
+    "code": "W61012",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any other four subjects", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Prepares graduates for the law enforcement environment and uplifts professional standards of policing."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Office Management and Technology",
+    "code": "W61013",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other two subjects", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Mainstream programme. Provides multi-skilled graduates who manage information efficiently with managerial, administrative, financial, HR, and legal skills."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Office Management and Technology (ECP)",
+    "code": "W61014",
+    "duration": "4 years",
+    "aps": 19,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any other two subjects", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 2 },
+        { "name": "Mathematical Literacy", "level": 3 }
+      ]
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Public Management",
+    "code": "W61015",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth/Komani",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any other four subjects", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Prepares graduates to work with public officials and senior management to transform all spheres of government."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Public Relations Management",
+    "code": "W61016",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Any other language", "level": 4 },
+        { "name": "Any other two subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Focuses on building mutually beneficial relationships between organisations and public. Covers corporate image, crisis communication, and media relations."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Public Relations Management (ECP)",
+    "code": "W61017",
+    "duration": "4 years",
+    "aps": 19,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other language", "level": 3 },
+        { "name": "Any other two subjects", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Small Business Management",
+    "code": "W61018",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any other two subjects", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Accounting", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Prepares graduates for entry into the world of business and to apply essential business strategies, principles, and techniques to start and run a small enterprise."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Sport Management",
+    "code": "W61019",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Any other three subjects", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Provides applied competence in management principles in fitness and health, coaching, teaching, and retailing sectors of the sports industry."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Diploma in Tourism Management",
+    "code": "W61020",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any three relevant school subjects", "level": 3 }
+      ],
+      "optional_any": [
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Mathematical Literacy", "level": 4 }
+      ]
+    },
+    "notes": "Provides comprehensive understanding of tourism and leisure industries. Graduates can independently manage and integrate specialist activities within the tourism value chain."
+  },
+  {
+    "faculty": "Management & Public Administration Sciences",
+    "programme": "Bachelor of Administration",
+    "code": "W61029",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Butterworth",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other four subjects", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Enables students to direct, improve, and manage institutional structures, resources, and functions to improve service delivery in the public sector."
+  },
+  {
+    "faculty": "Medicine & Health Sciences",
+    "programme": "Bachelor of Medical Sciences",
+    "code": "W65001",
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Any other subject excluding Life Orientation", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Additional selection criteria will apply when final selections are made. First year common with non-medical sciences. From year 2, students choose Physiology or Biochemistry stream."
+  },
+  {
+    "faculty": "Medicine & Health Sciences",
+    "programme": "Bachelor of Medicine in Clinical Practice",
+    "code": "W65002",
+    "duration": "3 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Any other subject excluding Life Orientation", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Additional selection criteria will apply. Trains Clinical Associates to assist district hospital doctors with defined scope of clinical procedures under their supervision."
+  },
+  {
+    "faculty": "Medicine & Health Sciences",
+    "programme": "Bachelor of Nursing",
+    "code": "W65004",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Any other subject excluding Life Orientation", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Additional selection criteria will apply. Produces competent professional nurse practitioners with comprehensive scope including obstetric skills, mental health, and primary health care."
+  },
+  {
+    "faculty": "Medicine & Health Sciences",
+    "programme": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics",
+    "code": "W65005",
+    "duration": "4 years",
+    "aps": 24,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Any other African Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Any other subject excluding Life Orientation", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Additional selection criteria will apply. Produces orthotic and prosthetic clinicians. Medical Prosthetics deals with replacing body limbs; Medical Orthotics deals with support and treatment of weak limbs."
+  },
+  {
+    "faculty": "Medicine & Health Sciences",
+    "programme": "Bachelor of Medicine and Bachelor of Surgery",
+    "code": "W65006",
+    "duration": "6 years",
+    "aps": 30,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 5 },
+        { "name": "Any other African Language", "level": 5 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 },
+        { "name": "Life Sciences", "level": 5 },
+        { "name": "Any other subject excluding Life Orientation", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Additional selection criteria will apply. Innovative medical programme using PBL and community-based approach. Equips learners to manage diverse health problems in individuals, families, and communities."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Diploma in Analytical Chemistry",
+    "code": "W64001",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Offers specialised knowledge for chemical and chemical-allied industries including pharmaceuticals, manufacturing, food, mining, and environmental sectors."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Diploma in Analytical Chemistry (ECP)",
+    "code": "W64002",
+    "duration": "4 years",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 3 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement of 20. Provides additional academic support."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Diploma in Consumer Science in Food and Nutrition",
+    "code": "W64004",
+    "duration": "3 years",
+    "aps": 22,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Provides science-based food and nutrition theoretical and practical knowledge and culinary skills for food production, retail, and service."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Diploma in Consumer Science in Food and Nutrition (ECP)",
+    "code": "W64039",
+    "duration": "4 years",
+    "aps": 20,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Buffalo City",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement of 20."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Diploma in Pest Management",
+    "code": "W64005",
+    "duration": "3 years",
+    "aps": 21,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 3 },
+        { "name": "Life Sciences", "level": 3 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Provides knowledge on diagnosing pest problems and manipulating pest control equipment. Students demonstrate understanding of agricultural pests, their damage diagnostics, and control."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Applied Mathematics",
+    "code": "W64007",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Provides basic mathematical knowledge tailored for application in technical problems and for further training in Mathematical Sciences."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Applied Mathematics (ECP)",
+    "code": "W64008",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Applied Statistical Sciences",
+    "code": "W64009",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Provides statistical knowledge with inclination towards application in technical problems and for further training in Statistical Sciences."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Applied Statistical Sciences (ECP)",
+    "code": "W64010",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Biological Sciences",
+    "code": "W64011",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 },
+        { "name": "Life Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Skills developed in scientific investigations on plants and animals including microscopy, biochemistry, plant and animal identification, and ecological techniques."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Biological Sciences (ECP)",
+    "code": "W64012",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream: requires 3 (40-49%) for 2 of the majors below and 4 (50-59%) for the third major: Mathematics, Physical Sciences, Life Sciences."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Chemistry",
+    "code": "W64013",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Produces graduates with solid foundations in all branches of Chemistry. Additional Mathematics courses up to level two enable understanding of Physical Science phenomena."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Chemistry (ECP)",
+    "code": "W64014",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Computer Science",
+    "code": "W64015",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Equips students with knowledge and skills to become computer scientists. Deals with design, implementation, and maintenance of software systems."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Computer Science (ECP)",
+    "code": "W64016",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Environmental Studies",
+    "code": "W64017",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": [
+        { "name": "Life Sciences", "level": 4 },
+        { "name": "Agriculture", "level": 4 },
+        { "name": "Tourism", "level": 4 }
+      ]
+    },
+    "notes": "Mainstream programme. Provides detailed knowledge of Environmental Impact Assessment, Resources and Environmental Law. Also covers tourism and ecotourism."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Environmental Studies (ECP)",
+    "code": "W64018",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream: requires 3 (40-49%) for 2 of the majors below and 4 (50-59%) for the third major: Mathematics, Physical Sciences, Life Sciences."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Mathematics",
+    "code": "W64019",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Provides mathematical knowledge for placement in jobs requiring significant mathematical maturity and for further training in Mathematics."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Mathematics (ECP)",
+    "code": "W64020",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 3 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Pest Management",
+    "code": "W64021",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 },
+        { "name": "Life Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Provides understanding of initiating, planning, and implementing adaptive pest control programmes. Includes manipulating technical equipment, capturing and analysing field and laboratory data."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Pest Management (ECP)",
+    "code": "W64022",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream: requires 3 (40-49%) for 2 of the majors below and 4 (50-59%) for the third major: Mathematics, Physical Sciences, Life Sciences."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Physics",
+    "code": "W64023",
+    "duration": "3 years",
+    "aps": 25,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 5 },
+        { "name": "Physical Sciences", "level": 5 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Mainstream programme. Focuses on understanding fundamental principles governing the natural world including mechanics, electromagnetism, quantum mechanics, and thermodynamics."
+  },
+  {
+    "faculty": "Natural Sciences",
+    "programme": "Bachelor of Science in Physics (ECP)",
+    "code": "W64024",
+    "duration": "4 years",
+    "aps": 23,
+    "selection": false,
+    "closing_date": null,
+    "campus": "Mthatha",
+    "requirements": {
+      "compulsory": [
+        { "name": "English Home Language or English First Additional Language", "level": 4 },
+        { "name": "Mathematics", "level": 4 },
+        { "name": "Physical Sciences", "level": 4 }
+      ],
+      "optional_any": []
+    },
+    "notes": "Extended stream with reduced APS requirement."
+  }
+]
