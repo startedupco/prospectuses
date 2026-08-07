@@ -1,0 +1,336 @@
+{
+  "institution": "Boland TVET College",
+  "year": 2027,
+  "province": "Western Cape",
+  "campuses": [
+    "Caledon",
+    "Paarl",
+    "Stellenbosch",
+    "Strand",
+    "Worcester"
+  ],
+  "qualifications": {
+    "NCV": {
+      "duration_default": "1 Year",
+      "courses": [
+        {
+          "course_name": "Safety in Society",
+          "course_id": "ncv-safety-in-society",
+          "duration": "1 Year",
+          "campuses": ["Caledon"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 10,
+              "notes": ["Grade 10 pass."]
+            },
+            "alternative_plp": {
+              "subjects": [
+                { "subject": "English", "minimum_percent": 50 },
+                { "subject": "Mathematics", "minimum_percent": 40 },
+                { "subject": "Life Skills", "minimum_percent": 40 }
+              ]
+            }
+          }
+        },
+        {
+          "course_name": "Civil Engineering Construction",
+          "course_id": "ncv-civil-engineering",
+          "duration": "1 Year",
+          "campuses": ["Paarl"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 9,
+              "subjects": ["Mathematics"],
+              "notes": ["Grade 9 pass with a pass in Mathematics."]
+            },
+            "alternative_plp": {
+              "subjects": [
+                { "subject": "English", "minimum_percent": 50 },
+                { "subject": "Mathematics", "minimum_percent": 55 },
+                { "subject": "Science", "minimum_percent": 50 },
+                { "subject": "Life Skills", "minimum_percent": 40 }
+              ]
+            }
+          }
+        },
+        {
+          "course_name": "Information Technology & Computer Science",
+          "course_id": "ncv-it-computer-science",
+          "duration": "1 Year",
+          "campuses": ["Stellenbosch"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 11,
+              "subjects": [
+                { "subject": ["Mathematics", "Mathematical Literacy"], "minimum_percent": 55 }
+              ],
+              "notes": ["Grade 11 with 55% in Mathematics or Mathematical Literacy."]
+            },
+            "alternative_plp": {
+              "subjects": [
+                { "subject": "English", "minimum_percent": 50 },
+                { "subject": "Mathematics", "minimum_percent": 55 },
+                { "subject": "Science", "minimum_percent": 50 },
+                { "subject": "Life Skills", "minimum_percent": 40 }
+              ]
+            }
+          }
+        },
+        {
+          "course_name": "Electrical Infrastructure Construction",
+          "course_id": "ncv-electrical-infrastructure",
+          "duration": "1 Year",
+          "campuses": ["Strand"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 9,
+              "subjects": ["Mathematics"],
+              "notes": ["Grade 9 pass with a pass in Mathematics."]
+            },
+            "alternative_plp": {
+              "subjects": [
+                { "subject": "English", "minimum_percent": 50 },
+                { "subject": "Mathematics", "minimum_percent": 55 },
+                { "subject": "Science", "minimum_percent": 50 },
+                { "subject": "Life Skills", "minimum_percent": 40 }
+              ]
+            }
+          }
+        },
+        {
+          "course_name": "Engineering and Related Design (Auto)",
+          "course_id": "ncv-engineering-auto",
+          "duration": "1 Year",
+          "campuses": ["Worcester"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 9,
+              "subjects": ["Mathematics"],
+              "notes": ["Grade 9 pass with a pass in Mathematics."]
+            },
+            "alternative_plp": {
+              "subjects": [
+                { "subject": "English", "minimum_percent": 50 },
+                { "subject": "Mathematics", "minimum_percent": 55 },
+                { "subject": "Science", "minimum_percent": 50 },
+                { "subject": "Life Skills", "minimum_percent": 40 }
+              ]
+            }
+          }
+        },
+        {
+          "course_name": "Engineering and Related Design (Welding)",
+          "course_id": "ncv-engineering-welding",
+          "duration": "1 Year",
+          "campuses": ["Worcester"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 9,
+              "subjects": ["Mathematics"],
+              "notes": ["Grade 9 pass with a pass in Mathematics."]
+            },
+            "alternative_plp": {
+              "subjects": [
+                { "subject": "English", "minimum_percent": 50 },
+                { "subject": "Mathematics", "minimum_percent": 55 },
+                { "subject": "Science", "minimum_percent": 50 },
+                { "subject": "Life Skills", "minimum_percent": 40 }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "QCTO": {
+      "courses": [
+        {
+          "course_name": "ECD Practitioner",
+          "course_id": "qcto-ecd-practitioner",
+          "duration": "1 Year",
+          "campuses": ["Caledon", "Paarl", "Worcester"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 11,
+              "notes": ["Passed Grade 11."]
+            },
+            "alternative_route": {
+              "type": "NCV Level 3",
+              "notes": ["Passed NCV Level 3."]
+            },
+            "additional_checks": [
+              {
+                "name": "Child Protection Register",
+                "description": "Mandatory verification against the Child Protection Register / police clearance."
+              }
+            ]
+          }
+        },
+        {
+          "course_name": "Bookkeeper",
+          "course_id": "qcto-bookkeeper",
+          "duration": "1 Year",
+          "campuses": ["Caledon", "Paarl", "Worcester"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 12,
+              "notes": ["Passed Matric (Grade 12)."]
+            },
+            "alternative_routes": [
+              {
+                "type": "NCV Level 4",
+                "notes": ["Passed NCV Level 4 in any field."]
+              },
+              {
+                "type": "FETC at NQF Level 4",
+                "notes": ["Relevant FETC at NQF Level 4."]
+              }
+            ]
+          }
+        },
+        {
+          "course_name": "Management Assistant",
+          "course_id": "qcto-management-assistant",
+          "duration": "1 Year",
+          "campuses": ["Caledon", "Paarl", "Worcester"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 12,
+              "notes": ["Passed Matric (Grade 12)."]
+            },
+            "alternative_routes": [
+              {
+                "type": "NCV Level 4",
+                "notes": ["Passed NCV Level 4 in any field."]
+              },
+              {
+                "type": "FETC at NQF Level 4",
+                "notes": ["Relevant FETC at NQF Level 4."]
+              }
+            ]
+          }
+        },
+        {
+          "course_name": "Office Administrator",
+          "course_id": "qcto-office-administrator",
+          "duration": "1 Year",
+          "campuses": ["Caledon", "Paarl", "Strand", "Stellenbosch"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 12,
+              "notes": ["Passed Matric (Grade 12)."]
+            },
+            "alternative_routes": [
+              {
+                "type": "NCV Level 4",
+                "notes": ["Passed NCV Level 4 in any field."]
+              },
+              {
+                "type": "FETC at NQF Level 4",
+                "notes": ["Relevant FETC at NQF Level 4."]
+              }
+            ]
+          }
+        },
+        {
+          "course_name": "Tourism Information Officer",
+          "course_id": "qcto-tourism-information-officer",
+          "duration": "1 Year",
+          "campuses": ["Caledon"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 12,
+              "notes": ["Passed Matric (Grade 12)."]
+            },
+            "alternative_routes": [
+              {
+                "type": "NCV Level 4",
+                "notes": ["Passed NCV Level 4 in any field."]
+              },
+              {
+                "type": "FETC at NQF Level 4",
+                "notes": ["Relevant FETC at NQF Level 4."]
+              }
+            ]
+          }
+        },
+        {
+          "course_name": "Cook",
+          "course_id": "qcto-cook",
+          "duration": "18 Months",
+          "campuses": ["Paarl"],
+          "entry_requirement": {
+            "standard_route": {
+              "type": "NQF Level 1",
+              "notes": ["Passed NQF Level 1."]
+            },
+            "alternative_route": {
+              "min_age": 16,
+              "notes": ["At least 16 years old with possible numeracy and literacy assessment."]
+            }
+          }
+        },
+        {
+          "course_name": "Welder",
+          "course_id": "qcto-welder",
+          "duration": "36 Months",
+          "campuses": ["Worcester"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 9,
+              "subjects": ["Mathematics", "Science"],
+              "notes": ["Passed Grade 9 with Mathematics and Science (compulsory)."]
+            },
+            "alternative_routes": [
+              {
+                "type": "ABET Level 4",
+                "notes": ["ABET Level 4 with Mathematics."]
+              },
+              {
+                "type": "NQF Level 1",
+                "notes": ["NQF Level 1 with Mathematics."]
+              }
+            ],
+            "age_requirement": {
+              "min_age": 16,
+              "notes": ["Student must be 16 or older."]
+            }
+          }
+        },
+        {
+          "course_name": "Automotive Mechanic",
+          "course_id": "qcto-automotive-mechanic",
+          "duration": "36 Months",
+          "campuses": ["Worcester"],
+          "entry_requirement": {
+            "standard_route": {
+              "min_grade": 9,
+              "subjects": ["Mathematics", "Science"],
+              "notes": ["Passed Grade 9 with Mathematics and Science (compulsory)."]
+            },
+            "alternative_routes": [
+              {
+                "type": "ABET Level 4",
+                "notes": ["ABET Level 4 with Mathematics."]
+              },
+              {
+                "type": "NQF Level 1",
+                "notes": ["NQF Level 1 with Mathematics."]
+              }
+            ],
+            "age_requirement": {
+              "min_age": 16,
+              "notes": ["Student must be 16 or older."]
+            }
+          }
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_unique_courses": 14,
+    "total_course_offers_across_campuses": 23,
+    "ncv_courses": 6,
+    "qcto_courses": 8,
+    "campuses_covered": 5
+  }
+}
