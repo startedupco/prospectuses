@@ -1,1 +1,392 @@
-
+{
+  "institution": "Mopani TVET College",
+  "year": 2027,
+  "province": "Limpopo",
+  "campuses": {
+    "Phalaborwa": {
+      "location": "Phalaborwa, Limpopo",
+      "qualification_type": "NCV",
+      "registration_type": "Full Time",
+      "duration_per_level": "1 Year",
+      "courses": [
+        {
+          "course_name": "Hospitality",
+          "course_id": "ncv-hospitality-phalaborwa",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Grade 10, 11 or 12 with admission to Higher Certificate",
+              "target_audience": "New students with Grade 10+"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Level 2 Hospitality Required",
+              "target_audience": "Students who passed Hospitality L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Level 3 Hospitality Required",
+              "target_audience": "Students who passed Hospitality L3"
+            }
+          }
+        },
+        {
+          "course_name": "Tourism",
+          "course_id": "ncv-tourism-phalaborwa",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Grade 10, 11 or 12 with admission to Higher Certificate",
+              "target_audience": "New students with Grade 10+"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Level 2 Tourism Required",
+              "target_audience": "Students who passed Tourism L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Level 3 Tourism Required",
+              "target_audience": "Students who passed Tourism L3"
+            }
+          }
+        },
+        {
+          "course_name": "Generic Management",
+          "course_id": "ncv-generic-management-phalaborwa",
+          "levels": {
+            "L2": {
+              "available": false,
+              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Level 2 Generic Management Required",
+              "target_audience": "Students who passed Generic Management L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Level 3 Generic Management Required",
+              "target_audience": "Students who passed Generic Management L3"
+            }
+          }
+        },
+        {
+          "course_name": "Finance, Economics & Accounting",
+          "course_id": "ncv-finance-accounting-phalaborwa",
+          "levels": {
+            "L2": {
+              "available": false,
+              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Level 2 Finance Required",
+              "target_audience": "Students who passed Finance L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Level 3 Finance Required",
+              "target_audience": "Students who passed Finance L3"
+            }
+          }
+        },
+        {
+          "course_name": "Marketing",
+          "course_id": "ncv-marketing-phalaborwa",
+          "levels": {
+            "L2": {
+              "available": false,
+              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Level 2 Marketing Required",
+              "target_audience": "Students who passed Marketing L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Level 3 Marketing Required",
+              "target_audience": "Students who passed Marketing L3"
+            }
+          }
+        },
+        {
+          "course_name": "Office Administration",
+          "course_id": "ncv-office-administration-phalaborwa",
+          "levels": {
+            "L2": {
+              "available": false,
+              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Level 2 Office Administration Required",
+              "target_audience": "Students who passed Office Admin L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Level 3 Office Administration Required",
+              "target_audience": "Students who passed Office Admin L3"
+            }
+          }
+        }
+      ],
+      "note": "Only Hospitality and Tourism offer L2 entry for new students at Phalaborwa Campus."
+    },
+    "Sir_Val_Duncan": {
+      "location": "Sir Val Duncan Campus, Limpopo",
+      "qualification_type": "NCV",
+      "registration_type": "Full Time",
+      "duration_per_level": "1 Year",
+      "courses": [
+        {
+          "course_name": "Engineering Related & Design (Automotive)",
+          "course_id": "ncv-engineering-automotive-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 Automotive",
+              "target_audience": "Students who passed Automotive L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 Automotive",
+              "target_audience": "Students who passed Automotive L3"
+            }
+          }
+        },
+        {
+          "course_name": "Civil Engineering & Building Construction (Carpentry)",
+          "course_id": "ncv-carpentry-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 Carpentry",
+              "target_audience": "Students who passed Carpentry L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 Carpentry",
+              "target_audience": "Students who passed Carpentry L3"
+            }
+          }
+        },
+        {
+          "course_name": "Electrical Infrastructure Construction (Electrical)",
+          "course_id": "ncv-electrical-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 Electrical",
+              "target_audience": "Students who passed Electrical L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 Electrical",
+              "target_audience": "Students who passed Electrical L3"
+            }
+          }
+        },
+        {
+          "course_name": "Engineering Related & Design (Fabrication)",
+          "course_id": "ncv-fabrication-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 Fabrication",
+              "target_audience": "Students who passed Fabrication L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 Fabrication",
+              "target_audience": "Students who passed Fabrication L3"
+            }
+          }
+        },
+        {
+          "course_name": "Engineering Related & Design (Fitting and Turning)",
+          "course_id": "ncv-fitting-turning-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 Fitting and Turning",
+              "target_audience": "Students who passed Fitting and Turning L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 Fitting and Turning",
+              "target_audience": "Students who passed Fitting and Turning L3"
+            }
+          }
+        },
+        {
+          "course_name": "Information Technology & Computer Science",
+          "course_id": "ncv-information-technology-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 IT",
+              "target_audience": "Students who passed IT L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 IT",
+              "target_audience": "Students who passed IT L3"
+            }
+          }
+        },
+        {
+          "course_name": "Civil Engineering & Building Construction (Masonry)",
+          "course_id": "ncv-masonry-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 Masonry",
+              "target_audience": "Students who passed Masonry L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 Masonry",
+              "target_audience": "Students who passed Masonry L3"
+            }
+          }
+        },
+        {
+          "course_name": "Civil Engineering & Building Construction (Plumbing)",
+          "course_id": "ncv-plumbing-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Level 2 Plumbing",
+              "target_audience": "Students who passed Plumbing L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Level 3 Plumbing",
+              "target_audience": "Students who passed Plumbing L3"
+            }
+          }
+        },
+        {
+          "course_name": "Electrical Renewable Technologies",
+          "course_id": "ncv-renewable-technologies-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
+              "target_audience": "New students with Grade 9+ and Science"
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Electrical Infrastructure Construction L2",
+              "target_audience": "Students who passed Electrical L2",
+              "note": "Progression from Electrical Infrastructure Construction L2 is required."
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Electrical Infrastructure Construction L3",
+              "target_audience": "Students who passed Electrical L3",
+              "note": "Progression from Electrical Infrastructure Construction L3 is required."
+            }
+          },
+          "note": "Renewable Technologies is a specialization within Electrical Infrastructure Construction."
+        },
+        {
+          "course_name": "IT & Computer Science (Programming & Robotics)",
+          "course_id": "ncv-robotics-sirvalduncan",
+          "levels": {
+            "L2": {
+              "available": true,
+              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths and English",
+              "target_audience": "New students with Grade 9+",
+              "note": "Physical Science is NOT required for this course."
+            },
+            "L3": {
+              "available": true,
+              "entry_requirement": "Passed Information Technology (Robotics) L2",
+              "target_audience": "Students who passed Robotics L2"
+            },
+            "L4": {
+              "available": true,
+              "entry_requirement": "Passed Information Technology (Robotics) L3",
+              "target_audience": "Students who passed Robotics L3"
+            }
+          },
+          "note": "This is the only engineering/IT course at Sir Val Duncan that does NOT require Physical Science."
+        }
+      ],
+      "note": "All L2 engineering/trade courses require Grade 9+ with Maths, Physical Science & English."
+    }
+  },
+  "summary": {
+    "total_unique_courses": 16,
+    "phases": {
+      "Phalaborwa_Campus": 6,
+      "Sir_Val_Duncan_Campus": 10
+    },
+    "levels_offered": {
+      "L2_available": [
+        "Hospitality",
+        "Tourism",
+        "Automotive",
+        "Carpentry",
+        "Electrical",
+        "Fabrication",
+        "Fitting and Turning",
+        "Information Technology",
+        "Masonry",
+        "Plumbing",
+        "Renewable Technologies",
+        "Robotics"
+      ],
+      "L2_not_available_requires_prior_study": [
+        "Generic Management",
+        "Finance, Economics & Accounting",
+        "Marketing",
+        "Office Administration"
+      ]
+    },
+    "note": "Phalaborwa Campus only offers L2 entry for Hospitality and Tourism. All other Phalaborwa courses require prior L2 from elsewhere. Sir Val Duncan Campus offers L2 entry for all engineering/trade/IT courses."
+  }
+}
