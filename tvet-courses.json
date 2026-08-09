@@ -1,0 +1,576 @@
+{
+  "Waterberg TVET College": [
+    {
+      "id": "occupational-chef",
+      "name": "Occupational Certificate: Chef",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "max_grade": 12,
+        "subjects": [
+          { "subject": ["Hospitality", "Consumer Studies"], "minimum_percent": 40 },
+          { "subject": ["Mathematics", "Mathematical Literacy"], "minimum_percent": 40 },
+          { "subject": ["English"], "minimum_percent": 50 }
+        ]
+      }
+    },
+    {
+      "id": "occupational-ecd-practitioner",
+      "name": "Occupational Certificate: Early Childhood Development Practitioner",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "max_grade": 11,
+        "subjects": [
+          { "subject": ["English"], "minimum_percent": 40 },
+          { "subject": ["Mathematics", "Mathematical Literacy"], "minimum_percent": 40 }
+        ],
+        "notes": ["No NCV Level 4 students allowed to apply."]
+      }
+    },
+    {
+      "id": "ncv-primary-health-l2",
+      "name": "National Certificate Vocational: Primary Health Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Life Sciences"], "required": true },
+          { "subject": ["Physical Science", "Natural Science"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-safety-in-society-l2",
+      "name": "National Certificate Vocational: Safety in Society Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Physical Sciences", "Natural Science"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-civil-engineering-building-construction-masonry-l2",
+      "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2 (Masonry)",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-civil-engineering-building-construction-plumbing-l2",
+      "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2 (Plumbing)",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-electrical-infrastructure-construction-l2",
+      "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-it-computer-science-robotics-l2",
+      "name": "National Certificate Vocational: Information Technology and Computer Science (Robotics) Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true },
+          { "subject": ["Physical Science", "Natural Science", "CAT"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-it-computer-science-software-development-design-l2",
+      "name": "National Certificate Vocational: Information Technology and Computer Science (Software Development and Design) Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true },
+          { "subject": ["Physical Science", "Natural Science", "CAT"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-primary-agriculture-mathlit-l2",
+      "name": "National Certificate Vocational: Primary Agriculture Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematical Literacy"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-primary-agriculture-maths-l2",
+      "name": "National Certificate Vocational: Primary Agriculture Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-tourism-l2",
+      "name": "National Certificate Vocational: Tourism Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Tourism", "Geography"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-electrical-infrastructure-construction-l2-thabazimbi",
+      "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true }
+        ]
+      }
+    },
+    {
+      "id": "ncv-engineering-related-design-fitting-turning-l2",
+      "name": "National Certificate Vocational: Engineering and Related Design (Fitting and Turning) Level 2",
+      "institution": "Waterberg TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true }
+        ]
+      }
+    }
+  ],
+  "Boland TVET College": [
+    {
+      "id": "boland-ncv-safety-in-society",
+      "name": "NCV Safety in Society",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "subjects": [
+          { "subject": ["English"], "minimum_percent": 50 },
+          { "subject": ["Mathematics", "Mathematical Literacy"], "minimum_percent": 40 },
+          { "subject": ["Life Skills"], "minimum_percent": 40 }
+        ],
+        "notes": ["Grade 10 pass."]
+      },
+      "campuses": ["Caledon"]
+    },
+    {
+      "id": "boland-ncv-civil-engineering",
+      "name": "NCV Civil Engineering Construction",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "minimum_percent": 50 },
+          { "subject": ["Physical Science", "Natural Science"], "minimum_percent": 50 },
+          { "subject": ["Life Skills"], "minimum_percent": 40 }
+        ],
+        "notes": ["Grade 9 pass with a pass in Mathematics."]
+      },
+      "campuses": ["Paarl"]
+    },
+    {
+      "id": "boland-ncv-it-computer-science",
+      "name": "NCV Information Technology & Computer Science",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 11,
+        "subjects": [
+          { "subject": ["Mathematics", "Mathematical Literacy"], "minimum_percent": 55 }
+        ],
+        "notes": ["Grade 11 with 55% in Mathematics or Mathematical Literacy."]
+      },
+      "campuses": ["Stellenbosch"]
+    },
+    {
+      "id": "boland-ncv-electrical-infrastructure",
+      "name": "NCV Electrical Infrastructure Construction",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "minimum_percent": 50 },
+          { "subject": ["Physical Science", "Natural Science"], "minimum_percent": 50 },
+          { "subject": ["Life Skills"], "minimum_percent": 40 }
+        ],
+        "notes": ["Grade 9 pass with a pass in Mathematics."]
+      },
+      "campuses": ["Strand"]
+    },
+    {
+      "id": "boland-ncv-engineering-auto",
+      "name": "NCV Engineering and Related Design (Auto)",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "minimum_percent": 50 },
+          { "subject": ["Physical Science", "Natural Science"], "minimum_percent": 50 },
+          { "subject": ["Life Skills"], "minimum_percent": 40 }
+        ],
+        "notes": ["Grade 9 pass with a pass in Mathematics."]
+      },
+      "campuses": ["Worcester"]
+    },
+    {
+      "id": "boland-ncv-engineering-welding",
+      "name": "NCV Engineering and Related Design (Welding)",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "minimum_percent": 50 },
+          { "subject": ["Physical Science", "Natural Science"], "minimum_percent": 50 },
+          { "subject": ["Life Skills"], "minimum_percent": 40 }
+        ],
+        "notes": ["Grade 9 pass with a pass in Mathematics."]
+      },
+      "campuses": ["Worcester"]
+    },
+    {
+      "id": "boland-qcto-ecd-practitioner",
+      "name": "QCTO ECD Practitioner",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 11,
+        "notes": ["Passed Grade 11."]
+      },
+      "campuses": ["Caledon", "Paarl", "Worcester"]
+    },
+    {
+      "id": "boland-qcto-bookkeeper",
+      "name": "QCTO Bookkeeper",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 12,
+        "notes": ["Passed Matric (Grade 12)."]
+      },
+      "campuses": ["Caledon", "Paarl", "Worcester"]
+    },
+    {
+      "id": "boland-qcto-management-assistant",
+      "name": "QCTO Management Assistant",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 12,
+        "notes": ["Passed Matric (Grade 12)."]
+      },
+      "campuses": ["Caledon", "Paarl", "Worcester"]
+    },
+    {
+      "id": "boland-qcto-office-administrator",
+      "name": "QCTO Office Administrator",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 12,
+        "notes": ["Passed Matric (Grade 12)."]
+      },
+      "campuses": ["Caledon", "Paarl", "Strand", "Stellenbosch"]
+    },
+    {
+      "id": "boland-qcto-tourism-info-officer",
+      "name": "QCTO Tourism Information Officer",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 12,
+        "notes": ["Passed Matric (Grade 12)."]
+      },
+      "campuses": ["Caledon"]
+    },
+    {
+      "id": "boland-qcto-cook",
+      "name": "QCTO Cook",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "notes": ["Passed NQF Level 1 or at least 16 years old."]
+      },
+      "campuses": ["Paarl"]
+    },
+    {
+      "id": "boland-qcto-welder",
+      "name": "QCTO Welder",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Mathematics and Science. Must be 16+ years old."]
+      },
+      "campuses": ["Worcester"]
+    },
+    {
+      "id": "boland-qcto-automotive-mechanic",
+      "name": "QCTO Automotive Mechanic",
+      "institution": "Boland TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Mathematics and Science. Must be 16+ years old."]
+      },
+      "campuses": ["Worcester"]
+    }
+  ],
+  "Mopani TVET College": [
+    {
+      "id": "mopani-ncv-hospitality",
+      "name": "NCV Hospitality",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "notes": ["Grade 10, 11 or 12 with admission to Higher Certificate"]
+      },
+      "campuses": ["Phalaborwa"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-tourism",
+      "name": "NCV Tourism",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "notes": ["Grade 10, 11 or 12 with admission to Higher Certificate"]
+      },
+      "campuses": ["Phalaborwa"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-generic-management",
+      "name": "NCV Generic Management",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "notes": ["Requires prior NCV Level 2 from elsewhere. No L2 entry at Phalaborwa."]
+      },
+      "campuses": ["Phalaborwa"],
+      "levels": { "L2": false, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-finance-accounting",
+      "name": "NCV Finance, Economics & Accounting",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "notes": ["Requires prior NCV Level 2 from elsewhere. No L2 entry at Phalaborwa."]
+      },
+      "campuses": ["Phalaborwa"],
+      "levels": { "L2": false, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-marketing",
+      "name": "NCV Marketing",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "notes": ["Requires prior NCV Level 2 from elsewhere. No L2 entry at Phalaborwa."]
+      },
+      "campuses": ["Phalaborwa"],
+      "levels": { "L2": false, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-office-admin",
+      "name": "NCV Office Administration",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 10,
+        "notes": ["Requires prior NCV Level 2 from elsewhere. No L2 entry at Phalaborwa."]
+      },
+      "campuses": ["Phalaborwa"],
+      "levels": { "L2": false, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-engineering-automotive",
+      "name": "NCV Engineering Related & Design (Automotive)",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-carpentry",
+      "name": "NCV Civil Engineering & Building Construction (Carpentry)",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-electrical",
+      "name": "NCV Electrical Infrastructure Construction",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-fabrication",
+      "name": "NCV Engineering Related & Design (Fabrication)",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-fitting-turning",
+      "name": "NCV Engineering Related & Design (Fitting and Turning)",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-it-computer-science",
+      "name": "NCV Information Technology & Computer Science",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-masonry",
+      "name": "NCV Civil Engineering & Building Construction (Masonry)",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-plumbing",
+      "name": "NCV Civil Engineering & Building Construction (Plumbing)",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English"]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-renewable-technologies",
+      "name": "NCV Electrical Renewable Technologies",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["Physical Science", "Natural Science"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths, Physical Science & English. Specialization within Electrical Infrastructure Construction."]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    },
+    {
+      "id": "mopani-ncv-robotics",
+      "name": "NCV IT & Computer Science (Programming & Robotics)",
+      "institution": "Mopani TVET College",
+      "entry_requirement": {
+        "min_grade": 9,
+        "subjects": [
+          { "subject": ["Mathematics"], "required": true, "minimum_percent": 40 },
+          { "subject": ["English"], "required": true, "minimum_percent": 40 }
+        ],
+        "notes": ["Passed Grade 9 with Maths and English. Physical Science NOT required."]
+      },
+      "campuses": ["Sir Val Duncan"],
+      "levels": { "L2": true, "L3": true, "L4": true }
+    }
+  ]
+}
