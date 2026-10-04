@@ -1,0 +1,27 @@
+{
+  "college": "sccollege",
+  "course": {
+    "name": "Office Administration Level 2 – 4",
+    "grade": "9",
+    "subjects": [
+      {
+        "subject": {
+          "name": "Mathematics",
+          "slug": "math"
+        },
+        "min_level": 5,
+        "min_percentage": 60,
+        "is_compulsory": true
+      },
+      {
+        "subject": {
+          "name": "Physical Sciences",
+          "slug": "phsc"
+        },
+        "min_level": 4,
+        "min_percentage": 50,
+        "is_compulsory": false
+      }
+    ]
+  }
+}

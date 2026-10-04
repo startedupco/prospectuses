@@ -1,0 +1,22 @@
+make sitemap.xml
+add robots.txt
+remove noindex tags
+add canonical atgs
+add meta titles
+meta description
+one h1 per page
+fix heading order
+add alt text
+add schema makeup
+add internal links
+fix the broken links
+compress images
+core webvitals
+fix mobile and desktop layouts
+enforce https
+clean up url slugs
+add an og:image
+verify search console
+add an llmxt
+
+prptect
