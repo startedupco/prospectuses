@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "subjects": [
+        { "id": "south-african-sign-language", "name": "South African Sign Language" },
+        { "id": "afrikaans-home", "name": "Afrikaans Home Language" },
+        { "id": "afrikaans-fal", "name": "Afrikaans First Additional Language" },
+        { "id": "afrikaans-second", "name": "Afrikaans Second Additional Language" },
+        { "id": "english-home", "name": "English Home Language" },
+        { "id": "english-fal", "name": "English First Additional Language" },
+        { "id": "english-second", "name": "English Second Additional Language" },
+        { "id": "isindebele-home", "name": "isiNdebele Home Language" },
+        { "id": "isindebele-fal", "name": "isiNdebele First Additional Language" },
+        { "id": "isindebele-second", "name": "isiNdebele Second Additional Language" },
+        { "id": "isixhosa-home", "name": "isiXhosa Home Language" },
+        { "id": "isixhosa-fal", "name": "isiXhosa First Additional Language" },
+        { "id": "isixhosa-second", "name": "isiXhosa Second Additional Language" },
+        { "id": "isizulu-home", "name": "isiZulu Home Language" },
+        { "id": "isizulu-fal", "name": "isiZulu First Additional Language" },
+        { "id": "isizulu-second", "name": "isiZulu Second Additional Language" },
+        { "id": "sepedi-home", "name": "Sepedi Home Language" },
+        { "id": "sepedi-fal", "name": "Sepedi First Additional Language" },
+        { "id": "sepedi-second", "name": "Sepedi Second Additional Language" },
+        { "id": "sesotho-home", "name": "Sesotho Home Language" },
+        { "id": "sesotho-fal", "name": "Sesotho First Additional Language" },
+        { "id": "sesotho-second", "name": "Sesotho Second Additional Language" },
+        { "id": "setswana-home", "name": "Setswana Home Language" },
+        { "id": "setswana-fal", "name": "Setswana First Additional Language" },
+        { "id": "setswana-second", "name": "Setswana Second Additional Language" },
+        { "id": "siswati-home", "name": "Siswati Home Language" },
+        { "id": "siswati-fal", "name": "Siswati First Additional Language" },
+        { "id": "siswati-second", "name": "Siswati Second Additional Language" },
+        { "id": "tshivenda-home", "name": "Tshivenda Home Language" },
+        { "id": "tshivenda-fal", "name": "Tshivenda First Additional Language" },
+        { "id": "tshivenda-second", "name": "Tshivenda Second Additional Language" },
+        { "id": "xitsonga-home", "name": "Xitsonga Home Language" },
+        { "id": "xitsonga-fal", "name": "Xitsonga First Additional Language" },
+        { "id": "xitsonga-second", "name": "Xitsonga Second Additional Language" },
+        { "id": "south-african-sign-language-home", "name": "South African Sign Language Home Language" },
+        { "id": "south-african-sign-language-fal", "name": "South African Sign Language First Additional Language" },
+        { "id": "south-african-sign-language-second", "name": "South African Sign Language Second Additional Language" }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subjects": [
+        { "id": "mathematics", "name": "Mathematics" },
+        { "id": "mathematical-literacy", "name": "Mathematical Literacy" },
+        { "id": "technical-mathematics", "name": "Technical Mathematics" }
+      ]
+    },
+    {
+      "name": "Science",
+      "subjects": [
+        { "id": "natural-sciences", "name": "Natural Sciences" },
+        { "id": "life-sciences", "name": "Life Sciences" },
+        { "id": "physical-sciences", "name": "Physical Sciences" },
+        { "id": "technical-sciences", "name": "Technical Sciences" },
+        { "id": "marine-sciences", "name": "Marine Sciences" }
+      ]
+    },
+    {
+      "name": "Commerce",
+      "subjects": [
+        { "id": "accounting", "name": "Accounting" },
+        { "id": "business-studies", "name": "Business Studies" },
+        { "id": "economics", "name": "Economics" },
+        { "id": "economic-and-management-sciences", "name": "Economic and Management Sciences (EMS)" },
+        { "id": "maritime-economics", "name": "Maritime Economics" }
+      ]
+    },
+    {
+      "name": "Agriculture",
+      "subjects": [
+        { "id": "agricultural-sciences", "name": "Agricultural Sciences" },
+        { "id": "agricultural-technology", "name": "Agricultural Technology" },
+        { "id": "agricultural-management-practices", "name": "Agricultural Management Practices" }
+      ]
+    },
+    {
+      "name": "Technology",
+      "subjects": [
+        { "id": "technology", "name": "Technology" },
+        { "id": "civil-technology", "name": "Civil Technology" },
+        { "id": "electrical-technology", "name": "Electrical Technology" },
+        { "id": "mechanical-technology", "name": "Mechanical Technology" },
+        { "id": "engineering-graphics-and-design", "name": "Engineering Graphics and Design (EGD)" },
+        { "id": "computer-applications-technology", "name": "Computer Applications Technology (CAT)" },
+        { "id": "information-technology", "name": "Information Technology (IT)" },
+        { "id": "technical-civil-technology", "name": "Technical Civil Technology" },
+        { "id": "technical-electrical-technology", "name": "Technical Electrical Technology" },
+        { "id": "technical-mechanical-technology", "name": "Technical Mechanical Technology" },
+        { "id": "coding-and-robotics", "name": "Coding and Robotics" }
+      ]
+    },
+    {
+      "name": "Humanities",
+      "subjects": [
+        { "id": "history", "name": "History" },
+        { "id": "geography", "name": "Geography" },
+        { "id": "social-sciences", "name": "Social Sciences" },
+        { "id": "religion-studies", "name": "Religion Studies" }
+      ]
+    },
+    {
+      "name": "Arts",
+      "subjects": [
+        { "id": "creative-arts", "name": "Creative Arts" },
+        { "id": "visual-arts", "name": "Visual Arts" },
+        { "id": "design", "name": "Design" },
+        { "id": "dance-studies", "name": "Dance Studies" },
+        { "id": "dramatic-arts", "name": "Dramatic Arts" },
+        { "id": "music", "name": "Music" }
+      ]
+    },
+    {
+      "name": "Consumer & Services",
+      "subjects": [
+        { "id": "consumer-studies", "name": "Consumer Studies" },
+        { "id": "hospitality-studies", "name": "Hospitality Studies" },
+        { "id": "tourism", "name": "Tourism" }
+      ]
+    },
+    {
+      "name": "Health & Physical Education",
+      "subjects": [
+        { "id": "life-orientation", "name": "Life Orientation" },
+        { "id": "sport-and-exercise-science", "name": "Sport and Exercise Science" }
+      ]
+    },
+    {
+      "name": "Maritime",
+      "subjects": [
+        { "id": "nautical-science", "name": "Nautical Science" }
+      ]
+    },
+    {
+      "name": "Animal Studies",
+      "subjects": [
+        { "id": "equine-studies", "name": "Equine Studies" }
+      ]
+    }
+  ]
+}

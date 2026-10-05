@@ -1,0 +1,2964 @@
+[
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Commercial Photography",
+    "code": "DCP",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MArt and Design, and DArt and Design: Commercial Photography. Careers: Photographer employed by an organisation or doing freelance work: portraiture, advertising, fashion, press, editorial, industrial, architecture, fine art."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Fashion Design and Technology",
+    "code": "DFDT",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MArt and Design, and DArt and Design: Fashion Design and Technology. Careers: Fashion designer; Digital & Manual pattern cutter; Digital & Manual pattern grader; Manual and digital pattern making; Garment technologist; Wardrobe assistant; Visual retail merchandiser; Fashion retail merchandiser; Fashion retail buyer; Fashion entrepreneur."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Fine and Applied Arts",
+    "code": "DFAA",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MArt and Design, and DArt and Design: Fine and Applied Arts. Careers: Product developer in glass/ceramics/fibre; Designer in glass/ceramics/fibre; Crafter in glass/ceramics/fibre; Painter; Sculptor; Installation artist; Printmaker; Ceramist; Fibre artist; Glass artist; Muralist; Museum/gallery guide; Museum/gallery curator; Illustrator."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Integrated Communication Design",
+    "code": "DICD",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MArt and Design, and DArt and Design: Integrated Communication Design. Careers: Design artist in the public and private sectors, e.g. layout artist, visualiser, illustrator, package designer. Producer, creative director, art director, technical director, games designer, interface designer and interactive writer."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Interior Design",
+    "code": "DID",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Civil Technology, Design Studies, Engineering Graphics and Design, and Visual Arts. Possible further studies: AdvDip, PGDip, MArt and Design, and DArt and Design: Interior Design. Careers: Residential design; Office design; Community and education design; Healthcare design; Architectural and interior design consultancies; Interior stylist; Project manager; Shopfitter draughtsman; Independent interior design practice."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Jewellery Design and Manufacture",
+    "code": "DJDM",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MArt and Design, and DArt and Design: Jewellery Design and Manufacture. Careers: CAD designer; Advanced bench worker; Product developer; Setter; CAM practitioner; 3D wax printer technician; Artist jeweller; Restorer; Jewellery retailer; Product representative; Caster; Wax carver; Jewellery renderer; Model maker."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Motion Picture Production",
+    "code": "DMPP",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MMotion Picture Production, and DMotion Picture Production. Careers: Film producer; Film director; Scriptwriter; VFX editor; Camera operator; Location manager; Production assistant; Broadcast journalist; Production manager; Assistant director; Film editor; Cinematographer; Lighting technician; Programme researcher; Sound technician; Production coordinator."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Performing Arts (Dance)",
+    "code": "DPAD",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MPerforming Arts, and DPerforming Arts. Careers: Choreographer; Creative entrepreneur; Dancer; Dance captain; Performing Arts maker; Performing Arts reviewer; Theatre maker."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Performing Arts (Jazz Music)",
+    "code": "DPAJM",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MPerforming Arts, and DPerforming Arts. Careers: Choral conductor; Chorus member; Composer; Creative entrepreneur; Film-score composer; Jazz musician; Jingle writer; Music producer; Opera singer; Performing Arts maker; Performing Arts reviewer; Theatre maker."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Performing Arts (Opera)",
+    "code": "DPAO",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MPerforming Arts, and DPerforming Arts. Careers: Choral conductor; Chorus member; Composer; Creative entrepreneur; Film-score composer; Jazz musician; Jingle writer; Music producer; Opera singer; Performing Arts maker; Performing Arts reviewer; Theatre maker."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Performing Arts (Technical Theatre and Design)",
+    "code": "DPATT",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MPerforming Arts, and DPerforming Arts. Careers: Actor; Applied Theatre practitioner; Creative entrepreneur; Director; Lighting/sound operator; Media performer (radio and television); Musical Theatre performer; Performing Arts maker; Performing Arts reviewer; Performing Arts technician; Physical Theatre practitioner; Production manager; Scriptwriter; Stage manager; Stage technical crew; Theatre maker; Theatre technician; Voice-over artist."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Diploma in Performing Arts (Theatre Arts and Performance)",
+    "code": "DPATP",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MPerforming Arts, and DPerforming Arts. Careers: Actor; Applied Theatre practitioner; Creative entrepreneur; Director; Lighting/sound operator; Media performer (radio and television); Musical Theatre performer; Performing Arts maker; Performing Arts reviewer; Performing Arts technician; Physical Theatre practitioner; Production manager; Scriptwriter; Stage manager; Stage technical crew; Theatre maker; Theatre technician; Voice-over artist."
+  },
+  {
+    "faculty": "Arts",
+    "programme": "Higher Certificate in Music",
+    "code": "HCMus",
+    "duration_years": 1,
+    "aps": 18,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Performing Arts). Careers: Jazz Musician, Music Producer, Opera Singer."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Accounting (Mathematics/Technical Mathematics Route)",
+    "code": "DACCT-M",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting OR Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip and PGDip: Accounting. Careers: Financial accountant, auditor, asset manager, administrative service manager. Offered at Mbombela and Polokwane campuses."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Accounting (Mathematical Literacy Route)",
+    "code": "DACCT-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip and PGDip: Accounting. Careers: Financial accountant, auditor, asset manager, administrative service manager. Offered at Mbombela and Polokwane campuses."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Economics (Mathematics/Technical Mathematics Route)",
+    "code": "DECON-M",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Economics), PGDip (Economics) and MEcon (Comparative Local Development). Careers: Consultant, financial analyst, entrepreneur, economist, banking, insurance, investment, public sectors in economics and financial management, financial and management consultant."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Economics (Mathematical Literacy Route)",
+    "code": "DECON-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Economics), PGDip (Economics) and MEcon (Comparative Local Development). Careers: Consultant, financial analyst, entrepreneur, economist, banking, insurance, investment, public sectors in economics and financial management, financial and management consultant."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Financial Management (Mathematics/Technical Mathematics Route)",
+    "code": "DFINM-M",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting OR Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Financial Management), PGDip (Financial Management), MBusiness Studies (Finance) and DBusiness Studies (Finance). Careers: Cost and pricing accountant, project accountant, management accountant, financial controller, financial accountant/controllers, business operations manager, budget controller, finance consultants. Offered at Mbombela and Polokwane."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Financial Management (Mathematical Literacy Route)",
+    "code": "DFINM-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Financial Management), PGDip (Financial Management), MBusiness Studies (Finance) and DBusiness Studies (Finance). Careers: Cost and pricing accountant, project accountant, management accountant, financial controller, financial accountant/controllers, business operations manager, budget controller, finance consultants. Offered at Mbombela and Polokwane."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Financial Planning (Mathematics/Technical Mathematics Route)",
+    "code": "DFP-M",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting OR Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Financial Planning), PGDip (Financial Planning), MBusiness Studies (Finance) and DBusiness Studies (Finance). Careers: Junior business analysts, research analysts, financial analysts, business performance analysts, performance and monitoring assistant/manager, financial planner, finance consultants, investment analysts."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Financial Planning (Mathematical Literacy Route)",
+    "code": "DFP-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Financial Planning), PGDip (Financial Planning), MBusiness Studies (Finance) and DBusiness Studies (Finance). Careers: Junior business analysts, research analysts, financial analysts, business performance analysts, performance and monitoring assistant/manager, financial planner, finance consultants, investment analysts."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Internal Auditing (Mathematics/Technical Mathematics Route)",
+    "code": "DIA-M",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting OR Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Internal Auditing), PGDip (Internal Auditing), MBusiness Studies (Auditing) and DBusiness Studies (Auditing). Careers: Auditor. Offered at Mbombela and Polokwane."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Internal Auditing (Mathematical Literacy Route)",
+    "code": "DIA-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Internal Auditing), PGDip (Internal Auditing), MBusiness Studies (Auditing) and DBusiness Studies (Auditing). Careers: Auditor. Offered at Mbombela and Polokwane."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Public Finance (Mathematics/Technical Mathematics Route)",
+    "code": "DPF-M",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Public Finance), PGDip (Public Finance), MBusiness Studies (Finance) and DBusiness Studies (Finance). Careers: State accountant and accountant in central and provincial government sectors, as well as statutory government institutions. Offered at Mbombela and Polokwane."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Public Finance (Accounting Route)",
+    "code": "DPF-A",
+    "duration_years": 3,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Public Finance), PGDip (Public Finance), MBusiness Studies (Finance) and DBusiness Studies (Finance). Careers: State accountant and accountant in central and provincial government sectors, as well as statutory government institutions. Offered at Mbombela and Polokwane."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Diploma in Public Finance (Mathematical Literacy Route)",
+    "code": "DPF-L",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Public Finance), PGDip (Public Finance), MBusiness Studies (Finance) and DBusiness Studies (Finance). Careers: State accountant and accountant in central and provincial government sectors, as well as statutory government institutions. Offered at Mbombela and Polokwane."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Higher Certificate in Accounting (Mathematics/Technical Mathematics Route)",
+    "code": "HCACC-M",
+    "duration_years": 1,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Accounting), Dip (Internal Auditing), Dip (Financial Management), Dip (Financial Planning) or Dip (Public Finance). Careers: Accounting technician, bookkeeper, accounts clerk, tax consultant, financial accountant."
+  },
+  {
+    "faculty": "Economics and Finance",
+    "programme": "Higher Certificate in Accounting (Mathematical Literacy Route)",
+    "code": "HCACC-L",
+    "duration_years": 1,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Accounting), Dip (Internal Auditing), Dip (Financial Management), Dip (Financial Planning) or Dip (Public Finance). Careers: Accounting technician, bookkeeper, accounts clerk, tax consultant, financial accountant."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Architecture",
+    "code": "BArch",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "4 (or 5 for Lit)", "percentage_range": "50-59% (or 60-69% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MArch and DArch. Careers: Architectural technologist, property inspector, building product consultant, specialising in architectural technology, self-employed and private architect. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Architecture (Extended)",
+    "code": "BArchE",
+    "duration_years": 5,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "4 (or 5 for Lit)", "percentage_range": "50-59% (or 60-69% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MArch and DArch. Careers: Architectural technologist, property inspector, building product consultant, specialising in architectural technology, self-employed and private architect. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Bachelor of Geomatics",
+    "code": "BGeom",
+    "duration_years": 3,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: PGDip (Geomatics). Careers: Survey technologist and route to professional topographic or engineering surveyor, geographic information systems practitioner, photogrammetrist. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Chemical Engineering)",
+    "code": "BETChem",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design and Mechanical Technology. Possible further studies: BEngTechHons, MEng and DEng: Chemical Engineering. Careers: Chemical engineering technician and technologist, researcher and developer, fuel cell technologist, consultant. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Civil Engineering)",
+    "code": "BETCiv",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design and Civil Technology. Possible further studies: BEngTechHons, MEng and DEng: Civil Engineering. Careers: Construction manager or supervisor, project manager, technician in civil engineering working for a civil engineering consultant, construction company, or local, provincial or national government. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Electrical Engineering)",
+    "code": "BETElec",
+    "duration_years": 3,
+    "aps": 30,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Any three additional subjects", "level": null, "percentage_range": null }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design and Electrical Technology. Possible further studies: BEngTechHons, MEng and DEng: Electrical Engineering. Careers: Design, planning, construction and maintenance of specialised fields systems related to electrical engineering. Offered at eMalahleni Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Industrial Engineering)",
+    "code": "BETInd",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design and Mechanical Technology. Possible further studies: BEngTechHons, MEng and DEng: Industrial Engineering. Careers: Professional technologist, technician, manager, entrepreneur and consultant. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Materials Engineering - Polymer Technology)",
+    "code": "BETMat",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design and Mechanical Technology. Possible further studies: BEngTechHons, MEng and DEng: Polymer Technology. Careers: Management of production and processing of raw material, manufacturing and processing of products, development, characterisation and quality assurance of products and raw materials, development of new plastic products and material, marketing and sales of raw materials and products. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Mechanical Engineering)",
+    "code": "BETMech",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design and Mechanical Technology. Possible further studies: BEngTechHons, MEng and DEng: Mechanical Engineering. Careers: Mechanical technologist, technician, manager, entrepreneur and consultant. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Mechatronics Engineering)",
+    "code": "BETMechat",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design and Mechanical Technology. Possible further studies: BEngTechHons, MEng and DEng: Mechatronic Engineering. Careers: Mechanical and Electronic technologist, technician, manager, entrepreneur and consultant. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "BEngTech (Metallurgical Engineering)",
+    "code": "BETMet",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Engineering Graphics and Design, and Mechanical Technology. Possible further studies: BEngTechHons, MEng and DEng: Metallurgical Engineering. Careers: Metallurgist, technician, technologist, plant manager, consultant, researcher and developer. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Building Science",
+    "code": "DBldg",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Construction Management) or AdvDip (Quantity Surveying), PGDip (Quantity Surveying) and MBuiSci. Careers: Construction manager, technician quality surveyor, clerk of works, building inspector. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Civil Engineering",
+    "code": "DCiv",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Engineering Graphics. Possible further studies: BEngTech, BEngTechHons, MEng and DEng: Civil Engineering. Careers: Construction manager or supervisor, project manager, technician in civil engineering working for a civil engineering consultant, construction company, or local, provincial or national government. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Electrical Engineering",
+    "code": "DElec",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Electrical Technology and Engineering Graphics and Design. Possible further studies: AdvDip, BEngTechHons, MEng and DEng: Electrical Engineering. Careers: Design, planning, construction and maintenance of specialised fields systems related to electrical engineering. Offered at eMalahleni Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Geomatics",
+    "code": "DGeom",
+    "duration_years": 3,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip and PGDip: Geomatics. Careers: Survey technologist and route to professional topographic or engineering surveyor, geographic information systems practitioner, photogrammetrist. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Diploma in Industrial Design",
+    "code": "DIndDes",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Industrial Design). Careers: Junior industrial designer, member of design and development team, junior design entrepreneur. Design skills can be applied across diverse business fields. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Higher Certificate in Construction Engineering: Material Test",
+    "code": "HCConstMat",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Civil Technology and Engineering Graphics and Design. Possible further studies: BEngTech (Civil Engineering). Careers: Construction manager or supervisor, project manager, technician in civil engineering working for a civil engineering consultant, construction company, or local, provincial or national government. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Higher Certificate in Construction Engineering: Water and Waste",
+    "code": "HCConstWat",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Civil Technology and Engineering Graphics and Design. Possible further studies: BEngTech (Civil Engineering). Careers: Construction manager or supervisor, project manager, technician in civil engineering working for a civil engineering consultant, construction company, or local, provincial or national government. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Higher Certificate in Electrical Engineering",
+    "code": "HCElec",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Electrical Technology. Possible further studies: BEngTech (Electrical Engineering). Careers: Design, planning, construction and maintenance of specialised fields systems related to electrical engineering. Offered at eMalahleni Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Higher Certificate in Industrial Engineering",
+    "code": "HCInd",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Mechanical Technology. Possible further studies: BEngTech (Industrial Engineering). Careers: Technician, manager, entrepreneur and consultant. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Engineering and the Built Environment",
+    "programme": "Higher Certificate in Mechanical Engineering",
+    "code": "HCMech",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Mechanical Technology or Technical: Mechanical Technology. Possible further studies: BEngTech (Mechanical Engineering). Careers: Technician, manager, entrepreneur and consultant. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Education in Foundation Phase Teaching",
+    "code": "BEdFP",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "Home language offered in the programme", "level": "5", "percentage_range": "60-69%" },
+          { "name": "First additional language", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "4 (or 5 for Lit)", "percentage_range": "50-59% (or 60-69% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Bachelor of Education in Intermediate Phase Teaching",
+    "code": "BEdIP",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any other home language offered in the programme", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "4 (or 5 for Lit)", "percentage_range": "50-59% (or 60-69% for Lit)" },
+          { "name": "One of the following combinations: Life Sciences and Physical Science OR History and Geography", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Agriculture",
+    "code": "BEdSPAgri",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Agricultural Sciences OR Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Agricultural Technology OR Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Consumer Sciences",
+    "code": "BEdSPCons",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Consumer Studies OR Hospitality Studies OR Tourism", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Economic and Management Sciences",
+    "code": "BEdSPEMS",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Accounting OR Business Studies OR Economics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Information Technology",
+    "code": "BEdSPIT",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Information Technology", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Mathematics",
+    "code": "BEdSPMath",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics and Life Sciences OR Mathematics and Physical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Physical Education",
+    "code": "BEdSPPE",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Sciences",
+    "code": "BEdSPSci",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences OR Physical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "BEd (Senior Phase and FET Teaching) - Technology",
+    "code": "BEdSPTech",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics and/or Civil Technology (Civil Service/Construction/Woodworking) and/or Electrical Technology (Digital Systems/Electronics/Power Systems) and/or Mechanical Technology (Automotive/Fitting and Machining/Welding and Metal Work) and/or Engineering Graphics and Design and/or Physical Sciences or Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: BEdHons, MEd and DEd. Careers: Educator/lecturer, school inspector, representative of Department of Education, life-skills facilitator, guidance counsellor. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Adult and Community Education and Training (Civil Technology)",
+    "code": "DACET-Civ",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Engineering Graphics Design OR Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Civil Technology OR Physical Science OR Technical Science", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Additional language", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Adult and Community Education and Training Teaching). Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Adult and Community Education and Training (Consumer Sciences)",
+    "code": "DACET-Cons",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" },
+          { "name": "Additional language", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Adult and Community Education and Training Teaching). Careers: Child care (Infant and Toddlers), elder care, elementary teacher (teach adult about food and nutrition), dress making/sewing/fashion design, caterers/baking, pottery, interior designing, marketing consumer product within the community, working in family and community service agencies, community service worker, financial consultant. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Adult and Community Education and Training (Electrical and Mechanical)",
+    "code": "DACET-EM",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Science OR Technical Science", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Additional language", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Adult and Community Education and Training Teaching). Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Correctional and Rehabilitation Studies",
+    "code": "DCRS",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip and PGDip: Correctional and Rehabilitation Studies. Careers: Correctional services official, skills development officer, manager, security official. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Integrated Communication (Mathematics/Technical Mathematics Route)",
+    "code": "DIC-M",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Engineering Mathematics N3", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Preference will be given to applicants with a score of 5 or more for English. Possible further studies: AdvDip (Integrated Communication). Careers: Marketing communication specialist, industrial journalist, public relations practitioner, media planner, communications practitioner, social media strategist, publicity coordinator, account planner/manager, media practitioner, industrial journalist, events coordinator, diplomat, international communication specialist. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Integrated Communication (Mathematical Literacy Route)",
+    "code": "DIC-L",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Preference will be given to applicants with a score of 5 or more for English. Possible further studies: AdvDip (Integrated Communication). Careers: Marketing communication specialist, industrial journalist, public relations practitioner, media planner, communications practitioner, social media strategist, publicity coordinator, account planner/manager, media practitioner, industrial journalist, events coordinator, diplomat, international communication specialist. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Journalism",
+    "code": "DJourn",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Geography, History, third language or any art-related subject. Possible further studies: AdvDip (Journalism), PGDip (Journalism), MJournalism and DJournalism. Careers: Journalist in printed media, broadcasting, industrial and online journalism. Offered at Soshanguve Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Language Practice",
+    "code": "DLangPrac",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any other official South African language offered in the programme", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Afrikaans, Sepedi, Setswana, IsiZulu, Tshivenda or Xitsonga. Possible further studies: AdvDip (Language Practice), PGDip (Language Practice), MLanguage Practice and DLanguage Practice. Careers: General language practitioner, translator, editor or proofreader, language advisor, consultant, technologist, interpreter, language planner, editor, columnist, writer. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Law",
+    "code": "DLaw",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Careers: Costs consultants at cost consulting firms, cost consultant proprietors, paralegals in law firms, paralegals at justice centres (Legal Aid Board), paralegals at the office of the Master of the Supreme Court, paralegals at the Deeds' Office, paralegals at private companies such as Scorpion Legal Protection. Offered at Soshanguve South and Mbombela Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Legal Support",
+    "code": "DLegalSup",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Any other additional language", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Careers: Conveyancing secretaries, legal secretaries, paralegals in law firms, paralegals at justice centres (Legal Aid Board), paralegals at the office of the Master of the Supreme Court, paralegals at the Deeds' Office, paralegals at private companies such as Scorpion Legal Protection. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Policing (Not Employed Route)",
+    "code": "DPol-NE",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "For applicants who are not employed in a law enforcement department, with a National Senior Certificate obtained in or after 2008. Possible further studies: AdvDip (Policing), PGDip (Policing), MPolicing and DPolicing. Careers: Employee of SAPS, reservist, security occupation community policing, municipal and metro police, private investigators. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Policing (Employed Route)",
+    "code": "DPol-Em",
+    "duration_years": 3,
+    "aps": null,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "For applicants who are employed in a law enforcement department: A Senior Certificate or a National Senior Certificate with a bachelor’s degree or a diploma endorsement, and a relevant NQF Level 5 or 6 qualification in the law enforcement environment. Applicants are also required to have at least five (5) years of confirmed working experience as a law enforcement official. Proof of employment (in the form of an official letter from the HR division of the department) should be submitted with the application. Possible further studies: AdvDip (Policing), PGDip (Policing), MPolicing and DPolicing. Careers: Employee of SAPS, reservist, security occupation community policing, municipal and metro police, private investigators. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Public Affairs (Admin of State)",
+    "code": "DPA-Admin",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Public Affairs), PGDip (Public Affairs), MPublic Affairs and DPublic Affairs. Careers: Clerk, public official manager. Offered at Soshanguve South, Mbombela and Polokwane Campuses."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Public Affairs (Local Government)",
+    "code": "DPA-Local",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Public Affairs), PGDip (Public Affairs), MPublic Affairs and DPublic Affairs. Careers: Clerk, public official manager. Offered at Soshanguve South, Mbombela and Polokwane Campuses."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Traffic Safety and Municipal Police Management (Not Employed Route)",
+    "code": "DTraffic-NE",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "For applicants who are not employed in a law enforcement department, with a National Senior Certificate obtained in or after 2008. Possible further studies: AdvDip and PGDip: Traffic Safety and Municipal Police Management. Careers: Road traffic and municipal police official, licensing and registration, road safety, senior position in traffic safety division, traffic chief, metro or municipal police official. Offered at Soshanguve South and Polokwane Campuses."
+  },
+  {
+    "faculty": "Humanities",
+    "programme": "Diploma in Traffic Safety and Municipal Police Management (Employed Route)",
+    "code": "DTraffic-Em",
+    "duration_years": 3,
+    "aps": null,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "For applicants who are employed in a law enforcement department: A Senior Certificate or a National Senior Certificate with a bachelor’s degree or a diploma endorsement, and a relevant NQF Level 5 or 6 qualification in the law enforcement environment. Applicants are also required to have at least five (5) years of confirmed working experience as a law enforcement official. Proof of employment (in the form of an official letter from the HR division of the department) should be submitted with the application. Possible further studies: AdvDip and PGDip: Traffic Safety and Municipal Police Management. Careers: Road traffic and municipal police official, licensing and registration, road safety, senior position in traffic safety division, traffic chief, metro or municipal police official. Offered at Soshanguve South and Polokwane Campuses."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Computer Science (Mathematics Route)",
+    "code": "DCS-M",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Computer Science. Careers: Software developer, web developer, mobile solution developer, database developer, data scientist, system analyst, quality engineer. Offered at Soshanguve South, eMalahleni and Polokwane Campuses."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Computer Science (Mathematical Literacy Route)",
+    "code": "DCS-L",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "7", "percentage_range": "80-89%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Computer Science. Careers: Software developer, web developer, mobile solution developer, database developer, data scientist, system analyst, quality engineer. Offered at Soshanguve South, eMalahleni and Polokwane Campuses."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Computer Science (Extended) (Mathematics Route)",
+    "code": "DCSE-M",
+    "duration_years": 4,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Computer Science. Offered at Soshanguve South, eMalahleni and Polokwane Campuses."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Computer Science (Extended) (Mathematical Literacy Route)",
+    "code": "DCSE-L",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Computer Science. Offered at Soshanguve South, eMalahleni and Polokwane Campuses."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Computer Systems Engineering",
+    "code": "DCSEng",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Computer Systems Engineering. Careers: Computer systems engineer, electronic engineer, electronics tester, software engineer, software tester, programmer, web developer, systems analyst, network administrator, systems administrator, database administrator, systems support, network planner, data science and cloud computing technologist, system integration specialist, intelligent system technologist. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Computer Systems Engineering (Extended)",
+    "code": "DCSEngE",
+    "duration_years": 4,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Computer Systems Engineering. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Informatics (Mathematics Route)",
+    "code": "DINF-M",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Informatics. Careers: Business analyst, user acceptance tester, systems trainer, systems tester, support specialist, e-commerce developer, enterprise systems manager, information resource manager, database administrator, project manager, technology consultant, systems analyst. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Informatics (Mathematical Literacy Route)",
+    "code": "DINF-L",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "7", "percentage_range": "80-89%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Informatics. Careers: Business analyst, user acceptance tester, systems trainer, systems tester, support specialist, e-commerce developer, enterprise systems manager, information resource manager, database administrator, project manager, technology consultant, systems analyst. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Informatics (Extended) (Mathematics Route)",
+    "code": "DINFE-M",
+    "duration_years": 4,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Informatics. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Informatics (Extended) (Mathematical Literacy Route)",
+    "code": "DINFE-L",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Informatics. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Information Technology (Mathematics Route)",
+    "code": "DIT-M",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Science OR Technical Science", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Information Technology. Careers: Computer network support specialist, network and computer systems administrator, computer network architect, network analyst, network engineer, cybersecurity specialist, data centre technician, digital forensics/IT Assurance / IT Forensics Specialist, Security Operations Centre (SOC) Engineer, penetration tester, cloud security engineer, Identity and Access Management (IAM) specialist, threat intelligence analyst, wireless communications specialist. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Information Technology (Mathematical Literacy Route)",
+    "code": "DIT-L",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "7", "percentage_range": "80-89%" },
+          { "name": "Physical Science OR Technical Science", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Information Technology. Careers: Computer network support specialist, network and computer systems administrator, computer network architect, network analyst, network engineer, cybersecurity specialist, data centre technician, digital forensics/IT Assurance / IT Forensics Specialist, Security Operations Centre (SOC) Engineer, penetration tester, cloud security engineer, Identity and Access Management (IAM) specialist, threat intelligence analyst, wireless communications specialist. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Information Technology (Extended) (Mathematics Route)",
+    "code": "DITE-M",
+    "duration_years": 4,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Science OR Technical Science", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Information Technology. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Information Technology (Extended) (Mathematical Literacy Route)",
+    "code": "DITE-L",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" },
+          { "name": "Physical Science OR Technical Science", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MComputing and DComputing: Information Technology. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Multimedia Computing (Mathematics Route)",
+    "code": "DMMC-M",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Multimedia Computing. Careers: Content designer, 3D games programmer, 3D animation creator, virtual reality designer, interactive training systems developer, simulation developer, web developer, user interface and user experience designer, e-learning specialist, hybrid art director, front-end developer. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Multimedia Computing (Mathematical Literacy Route)",
+    "code": "DMMC-L",
+    "duration_years": 3,
+    "aps": 28,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "7", "percentage_range": "80-89%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Multimedia Computing. Careers: Content designer, 3D games programmer, 3D animation creator, virtual reality designer, interactive training systems developer, simulation developer, web developer, user interface and user experience designer, e-learning specialist, hybrid art director, front-end developer. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Multimedia Computing (Extended) (Mathematics Route)",
+    "code": "DMMCE-M",
+    "duration_years": 4,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Multimedia Computing. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "ICT",
+    "programme": "Diploma in Multimedia Computing (Extended) (Mathematical Literacy Route)",
+    "code": "DMMCE-L",
+    "duration_years": 4,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subject: Information Technology. Possible further studies: AdvDip, PGDip, MComputing and DComputing: Multimedia Computing. Offered at Soshanguve South Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Administrative Information Management",
+    "code": "DAIM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MMSc and DMSc: Administrative Information Management. Careers: Secretary, administration officer, personal assistant, office manager. Offered at eMalahleni and Polokwane Campuses."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Adventure Tourism Management",
+    "code": "DATM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Business Studies, Geography and Tourism Studies. Possible further studies: AdvDip, PGDip, MMSc and DMSc: Tourism Management. Careers: Adventure specialist, planning and presenting outdoor activities (e.g. rafting, mountain climbing, bungee jumping), providing outdoor equipment, tourism operator. Offered only at Mbombela Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Casino Resort Management",
+    "code": "DCRM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Business Studies, Geography, Hospitality Studies, and Tourism. Careers: Casino-, hotel- and resort managers, supervisors and VIP hosts. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Contact Centre Management",
+    "code": "DCCM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, and MMSc: Contact Centre Management. Careers: Agent, call centre representative, call centre officer, team leader, supervisor, functional leader, strategic manager. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Credit Management",
+    "code": "DCM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" },
+          { "name": "Accounting", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Mathematics and Commercial subjects. Possible further studies: AdvDip and PGDip: Credit Management. Careers: Financial credit analyst, accounts receivable manager, credit and litigation coordinator, credit/debtor clerk in banking sector. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Ecotourism Management",
+    "code": "DEcotour",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Business Studies, Geography, Hospitality Studies, Life Sciences and Tourism. Possible further studies: AdvDip, PGDip, MMSc and DMSc: Tourism Management. Careers: Field guide, ecotourism guide, tour operator, planner, developer, manager, entrepreneur, eco-destination planner, manager at eco-lodges. Offered only at Mbombela Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Entrepreneurship",
+    "code": "DEntrep",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Commercial subjects. Possible further studies: AdvDip (Entrepreneurship). Careers: Creating and building a business, business training consultant, small business development officer. Offered at eMalahleni and Polokwane Campuses."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Event Management",
+    "code": "DEvt",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Business Studies, Hospitality Studies and Tourism. Possible further studies: AdvDip, PGDip, MMSc and DMSc: Tourism Management. Careers: Events coordinator, events planner, events manager. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Food Operations Management",
+    "code": "DFOM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Careers: Food Management Industries: Working in Hospital kitchens, Old Age Homes, Prison Service Hostels, Hotels and Boarding Schools, Banqueting and Mass Catering Chefs. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Hospitality Management",
+    "code": "DHosp",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Hospitality Management), PGDip (Hospitality Management), MMSc (Food Operations Management) and DMSc (Food Operations Management). Careers: Manager in the hospitality industry (hotels, guesthouses), entrepreneur, researcher, chef, food and beverage manager, industrial catering service/accommodation manager. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Human Resource Management",
+    "code": "DHRM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MMSc and DMSc: Human Resources Management. Careers: Training officer, personnel officer, personnel manager, training officer, labour relations officer. Offered at eMalahleni and Polokwane Campuses."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Marketing",
+    "code": "DMkt",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Accounting, Business Studies and Economics. Possible further studies: AdvDip, PGDip, MMSc and DMSc: Marketing. Careers: Sales consultant, sales manager, marketing manager, advertising manager, researcher, customer services, product manager. Offered at Mbombela Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Operations Management",
+    "code": "DOM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 5 for Lit)", "percentage_range": "40-49% (or 60-69% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip and MMSc: Operations Management. Careers: Inventory controller, materials manager, operations manager, production analyst, process engineer. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Retail Business Management",
+    "code": "DRBM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Retail Business Management). Careers: Merchandising and sales representative for retail suppliers and wholesalers. Offered online (O)."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Sport Management",
+    "code": "DSM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Accounting, Business Studies and Economics. Possible further studies: AdvDip and PGDip: Sport Management. Careers: Sports administrator, club manager, sports marketing agent, sports development officer, promoter, commentator, entrepreneur, sales consultant, market researcher. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Supply Chain Management",
+    "code": "DSCM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Commercial subjects. Possible further studies: AdvDip, PGDip, MMSc and DMSc: Supply Chain Management. Careers: Buyer, materials manager, logistics manager, distribution manager, warehouse manager. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Tourism Management",
+    "code": "DTM",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Business Studies, Geography, Hospitality Studies and Travel and Tourism. Possible further studies: AdvDip, PGDip, MMSc and DMSc: Tourism Management. Careers: Travel agent, tour operator, guest services, tourism information services, education and training, sight seeing tours and recreation, tourism information services. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Diploma in Work Study",
+    "code": "DWS",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 5 for Lit)", "percentage_range": "40-49% (or 60-69% for Lit)" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip (Work Study). Careers: Work-study practitioner, management services practitioner, business analyst, value-chain consultant. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Higher Certificate in Administrative Information Management",
+    "code": "HCAIM",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Administrative Information Management). Careers: Secretary, administration officer, personal assistant, office manager. Offered online (O)."
+  },
+  {
+    "faculty": "Management Sciences",
+    "programme": "Higher Certificate in Contact Centre Management",
+    "code": "HCCCM",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Contact Centre Management). Careers: Agent, call centre representative, call centre officer, team leader, supervisor, functional leader, strategic manager. Offered online (O)."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Animal Sciences",
+    "code": "DAS",
+    "duration_years": 3,
+    "aps": 19,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Science", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural Sciences and Life Sciences. Possible further studies: AdvDip (Animal Sciences), PGDip (Animal Sciences), MAgricSci (Animal Production) and PhD (Science) (Animal Production). Careers: Animal production manager, animal production representative, animal production technician, researcher farmer, feedlot manager, lecturer, agricultural journalist. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Crop Production (Mathematics/Technical Mathematics Route)",
+    "code": "DCP-M",
+    "duration_years": 3,
+    "aps": 19,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural subjects, Life Sciences and/or Physical Sciences. Possible further studies: AdvDip, PGDip, MAgricSci and PhD (Science): Crop Sciences. Careers: Commercial crop producer, production manager, extension service worker. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Crop Production (Mathematical Literacy Route)",
+    "code": "DCP-L",
+    "duration_years": 3,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural subjects, Life Sciences and/or Physical Sciences. Possible further studies: AdvDip, PGDip, MAgricSci and PhD (Science): Crop Sciences. Careers: Commercial crop producer, production manager, extension service worker. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Equine Science",
+    "code": "DES",
+    "duration_years": 3,
+    "aps": 19,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Science", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural Sciences and Life Sciences. Possible further studies: AdvDip (Animal Sciences), PGDip (Animal Sciences), MAgricSci (Animal Production) and PhD (Science) (Animal Production). Careers: Horse-stud manager, horse seller, riding-school owner, equine breeder. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Horticulture (Mathematics/Technical Mathematics Route)",
+    "code": "DHort-M",
+    "duration_years": 3,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Horticulture. Careers: Horticulturists, maintenance managers, site managers or as grounds superintendents, researchers (developing new cultivars or solving problems) and in the academic world of teaching, learning and education. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Horticulture (Mathematical Literacy Route)",
+    "code": "DHort-L",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences OR Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Horticulture. Careers: Horticulturists, maintenance managers, site managers or as grounds superintendents, researchers (developing new cultivars or solving problems) and in the academic world of teaching, learning and education. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Landscape Technology (Mathematics/Technical Mathematics Route)",
+    "code": "DLT-M",
+    "duration_years": 3,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Life Sciences OR Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Landscape Technology. Careers: Landscape consultants, landscape designers or landscape contractors, site managers, maintenance managers, nursery managers, researchers (developing new cultivars or solving problems) as well as in the academic world of teaching, learning and education. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Landscape Technology (Mathematical Literacy Route)",
+    "code": "DLT-L",
+    "duration_years": 3,
+    "aps": 26,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences OR Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Landscape Technology. Careers: Landscape consultants, landscape designers or landscape contractors, site managers, maintenance managers, nursery managers, researchers (developing new cultivars or solving problems) as well as in the academic world of teaching, learning and education. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Nature Conservation (Mathematics/Technical Mathematics Route)",
+    "code": "DNC-M",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural Sciences, Geography, Life Sciences, Physical Sciences or Technical Sciences. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Nature Conservation. Careers: Conservation manager, conservation researcher, environmental educationist, eco-destination planners, guides, nature conservator, hunting operator. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Nature Conservation (Mathematical Literacy Route)",
+    "code": "DNC-L",
+    "duration_years": 3,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural Sciences, Geography, Life Sciences, Physical Sciences or Technical Sciences. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Nature Conservation. Careers: Conservation manager, conservation researcher, environmental educationist, eco-destination planners, guides, nature conservator, hunting operator. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Wildlife Management (Mathematics/Technical Mathematics Route)",
+    "code": "DWM-M",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural Sciences, Geography, Life Sciences, Physical Sciences or Technical Sciences. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Wildlife Management. Careers: Game-farm or ranch manager, wildlife adviser, professional hunter, disease control, habitat management, game population dynamics, game capture and translocation. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Wildlife Management (Mathematical Literacy Route)",
+    "code": "DWM-L",
+    "duration_years": 3,
+    "aps": 25,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Agricultural Sciences, Geography, Life Sciences, Physical Sciences or Technical Sciences. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Wildlife Management. Careers: Game-farm or ranch manager, wildlife adviser, professional hunter, disease control, habitat management, game population dynamics, game capture and translocation. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Higher Certificate in Forestry Management (Mathematics/Technical Mathematics Route)",
+    "code": "HCFM-M",
+    "duration_years": 2,
+    "aps": 18,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Offered only at Mbombela Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Higher Certificate in Forestry Management (Mathematical Literacy Route)",
+    "code": "HCFM-L",
+    "duration_years": 2,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Offered only at Mbombela Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Environmental Health",
+    "code": "BEnvH",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Two other subjects", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Environmental Health. Careers: Environmental health practitioner, health advisor, air-pollution control officer, meat inspector, occupational hygienist, consultant, inspector, environmental officer/auditor, food safety auditor, risk officer, researcher. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Nursing",
+    "code": "BNurs",
+    "duration_years": 4,
+    "aps": 27,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MNusing and PhD (Science) (Nursing). Careers: Practice as nurse and midwife in public and private health care facilities or as private nurse practitioner. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Pharmacy",
+    "code": "BPharm",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Two other subjects", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MPharmSci and PhD (Science): Pharmaceutical Sciences. Careers: Pharmacist. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Radiography in Diagnostics",
+    "code": "BRadDiag",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Radiography. Careers: Radiographer, radiation control officer and medical and pharmaceutical representative. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Health Sciences in Biokinetics",
+    "code": "BHSciBio",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Science", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Biokinetics. Careers: Employment in a number of allied health-related fields. The scope of occupation is primarily dependent on the entrepreneurial initiative of the individual and includes practising as a Biokineticist in the following environments: Corporate Sector, Correctional Facilities, Elite and Professional Sport, Fire Services, Industry, Local Authorities, Military Bases, Military Hospitals, Police Services, Private Practices. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Health Sciences in Clinical Technology",
+    "code": "BHSciClin",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Clinical Technology. Careers: Clinical technologist, private hospitals and private practices, opportunities in cardiology, nephrology, reproduction, the respiratory system and neurophysiology, cardiovascular perfusion, pulmonology. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Health Sciences in Medical Laboratory Science",
+    "code": "BHSciMLS",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Medical Laboratory Science. Careers: Medical technologist, work in medical field, analysing human tissue and blood, pathology, histology, virology, blood transfusion and laboratory work. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics",
+    "code": "BHSciMOP",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "15 June",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Medical Orthotics and Prosthetics. Careers: Medical orthotist or prosthetist, own practice, medical representative (orthopaedic rehabilitation by assessing, measuring, designing, manufacturing, maintaining and fitting orthoses and prostheses). Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Health Sciences in Veterinary Technology",
+    "code": "BHSciVet",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences OR Agricultural Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Veterinary Technology. Careers: Veterinary technologist (activities include the collection and processing of samples, diagnostic work and research and vaccine production). Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Kinesiology and Coaching Science",
+    "code": "DKCS",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" },
+          { "name": "Life Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Kinesiology and Coaching Science. Careers: Sports scientists, sports coaches, sports managers, and sports researchers. Qualified students will function at such a level to cater for the needs of an apparently healthy population as well as fitness training for special populations such as children, the youth and older adults. This qualification also offers a physical activity foundation based on scientific knowledge to facilitate health and sport in order to support health workers, as well as enhancing the level of professionalism within the national sport, health and fitness industry. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Somatic Therapy (Mathematics/Technical Mathematics Route)",
+    "code": "DST-M",
+    "duration_years": 3,
+    "aps": 22,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Somatic Therapy. Careers: Health and skin care professional as a somatologist, aromatherapist, reflexologist, stress-relief and relaxation therapist at health spa or stress clinic, representative of cosmetic firm or own business. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Somatic Therapy (Mathematical Literacy Route)",
+    "code": "DST-L",
+    "duration_years": 3,
+    "aps": 23,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematical Literacy", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Life Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: MHealthSci and PhD (Science): Somatic Therapy. Careers: Health and skin care professional as a somatologist, aromatherapist, reflexologist, stress-relief and relaxation therapist at health spa or stress clinic, representative of cosmetic firm or own business. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Higher Certificate in Dental Assisting",
+    "code": "HCDA",
+    "duration_years": 1,
+    "aps": 20,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Mathematical Literacy", "level": "3 (or 4 for Lit)", "percentage_range": "40-49% (or 50-59% for Lit)" },
+          { "name": "Any other additional subjects", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Careers: Assisting in a dental practice, assisting a dentist, infection control, stock control and accounts. Offered at Pretoria Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Bachelor of Science in Industrial Chemistry",
+    "code": "BScIndChem",
+    "duration_years": 4,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics", "level": "5", "percentage_range": "60-69%" },
+          { "name": "Physical Sciences", "level": "5", "percentage_range": "60-69%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Careers: Industrial Chemists usually work in chemical plants and laboratories across a broad range of industries, from chemical manufacturing, mining, building materials and paints/coatings through to paper, petroleum, plastics and advanced materials manufacturing. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Analytical Chemistry",
+    "code": "DAC",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Chemistry. Careers: Chemist, laboratory analyst, technologist. Opportunities for analytical chemistry graduates exist in laboratories, manufacturing and mining industries, research industries, forensic departments, and national science councils. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Biotechnology",
+    "code": "DBT",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Biotechnology. Careers: Biotechnologist or microbiologist, work in the industry or research labs, microbiology, waste management, beverage production, food production, research. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Environmental Sciences",
+    "code": "DES",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Geography and Life Sciences. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Environmental Sciences. Careers: Appointed as an environmental officer or environmental technologist within numerous industries that deal with either managing negative changes on the biogeophysical environment or/and investigating existing impacts or potential impacts on the biogeophysical environment. Graduates may also be employed into a number of government departments or state bodies that deal with environmental impacts such as the Department of Environmental Affairs. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Fire Technology",
+    "code": "DFT",
+    "duration_years": 3,
+    "aps": null,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [],
+        "optional_any": []
+      }
+    },
+    "notes": "Only offered to Fire and Rescue Services personnel. A National Senior Certificate with a bachelor’s degree or a diploma endorsement, or an equivalent qualification and three years’ relevant work experience, HAZMAT Awareness, Fire Fighter I, HAZMAT Operational, and Fire Fighter II certificates. Applicants must submit proof of employment in the form of an official letter from the employer. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Fire Technology. Careers: Fire fighter, fire prevention officer, fire safety officer, station officer, divisional officer, emergency services manager, officer in SANDF. Offered at Arcadia Campus (Distance Education)."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Food Technology",
+    "code": "DFT",
+    "duration_years": 3,
+    "aps": 24,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Life Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Food Technology. Careers: Food technologist, quality controller, researcher, developer of new products, opportunities in food processing, canning, meat or fish factories, food quality and hygiene. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Geology",
+    "code": "DGeo",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "31 July",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Computer Applications Technology, Geography and/or Information Technology. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Geology. Careers: Engineering geologist, geological technician or technologist, hydro-geological consultant, mining companies, Department of Minerals and Energy, Department of Water Affairs and Forestry. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Industrial Physics",
+    "code": "DIPhys",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Industrial Physics. Careers: Photonics - work as optical instrument technicians, lens-coating technicians, laser technicians, vacuum technicians, metrologists (optical), non-destructive testing technicians. Nuclear Technologist - work as general nuclear technicians, radiation protection technicians, waste management technicians, radiation risk technicians, radioactive contamination risk technicians, vacuum technicians, non-destructive testing technicians and metrologists. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Diploma in Water Science and Technology",
+    "code": "DWST",
+    "duration_years": 3,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "4", "percentage_range": "50-59%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "4", "percentage_range": "50-59%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Recommended subjects: Life Sciences. Possible further studies: AdvDip, PGDip, MAppSci and PhD (Science): Water Science and Technology. Careers: Water care technician, water care technologist and process controller. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Higher Certificate in Resource and Waste Management (Mathematics/Technical Mathematics Route)",
+    "code": "HCRWM-M",
+    "duration_years": 1,
+    "aps": 18,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Environmental Sciences). Careers: Water care technician, water care technologist and process controller. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Higher Certificate in Resource and Waste Management (Mathematical Literacy Route)",
+    "code": "HCRWM-L",
+    "duration_years": 1,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Environmental Sciences). Careers: Water care technician, water care technologist and process controller. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Higher Certificate in Water Treatment (Mathematics/Technical Mathematics Route)",
+    "code": "HCWT-M",
+    "duration_years": 1,
+    "aps": 18,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematics OR Technical Mathematics", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Water Science and Technology). Careers: Water care technician, water care technologist and process controller. Offered at Arcadia Campus."
+  },
+  {
+    "faculty": "Science",
+    "programme": "Higher Certificate in Water Treatment (Mathematical Literacy Route)",
+    "code": "HCWT-L",
+    "duration_years": 1,
+    "aps": 21,
+    "selection": false,
+    "closing_date": "30 September",
+    "requirements": {
+      "subjects": {
+        "compulsory": [
+          { "name": "English", "level": "3", "percentage_range": "40-49%" },
+          { "name": "Mathematical Literacy", "level": "6", "percentage_range": "70-79%" },
+          { "name": "Physical Sciences OR Technical Sciences", "level": "3", "percentage_range": "40-49%" }
+        ],
+        "optional_any": []
+      }
+    },
+    "notes": "Possible further studies: Dip (Water Science and Technology). Careers: Water care technician, water care technologist and process controller. Offered at Arcadia Campus."
+  }
+]
