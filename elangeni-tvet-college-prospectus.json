@@ -1,1 +1,33 @@
-{"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}},"campuses":[{"id":"pinetown","name":"Pinetown","town":"","campus_manager":"","notes":[],"programmes":["ncv_hospitality"]}],"institution":{"id":"d306835d-8f31-4d4b-97eb-922ca80c301c","name":"Elangeni TVET College","short_name":"Elangeni","slug":"elangeni","province":"KwaZulu-Natal","city":"Pinetown","country":"South Africa","avatar":"","tel":"","email":"","fax":"","website":"","application_cycles":[{"cycle":"first_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"second_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"late_application","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"}],"logos":{"horizontal":"https://raw.githubusercontent.com/startedupco/institutions/main/elangeni.png","vertical":""},"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}}},"matching_rules":{"grade_rule":"learner_grade >= programme.minimum_grade","percentage_rule":"If minimum_percentage is not null, learner_percentage >= minimum_percentage.","required_subject_rule":"Every subject marked required=true must be present in the learner's results.","subject_group_rule":"The learner must have the required number of additional subjects satisfying the specified rule.","placement_test_rule":"If a placement test applies to the learner, the learner's result must meet or exceed minimum_percentage.","progression_rule":"A progression requirement must be satisfied before the learner can enter the next level.","alternative_path_rule":"any_of means at least one eligibility path must be satisfied.","document_rule":"All documents marked required=true must be supplied before application submission.","application_submission_rule":"Application submission should be blocked when a required document is missing.","unknown_requirement_rule":"null or requirements_provided=false means the supplied source did not provide enough information to determine eligibility."},"programme_categories":{"ncv":{"id":"ncv","name":"NC(V)","qualification_level":"NQF Levels 2-4","programmes":[{"id":"ncv_hospitality","name":"HOSPITALITY","category":"NC(V)","levels":["2"],"description":"HOSPITALITY : This course equips the student with skills in Hotel Management and Food Preparation and Housekeeping.","careers":[],"campus_ids":["pinetown"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}}]},"occupational":{"id":"occupational","name":"Occupational Programmes","qualification_level":null,"programmes":[]},"report_191":{"id":"report_191","name":"Report 191","qualification_level":"N1-N3","programmes":[]}},"source":{"institution":"Elangeni TVET College","website":""},"subject_dictionary":{"mathematics":"Mathematics","english":"English","life_orientation":"Life Orientation","physical_science":"Physical Science","life_sciences":"Life Sciences","natural_sciences":"Natural Sciences","technology":"Technology"},"summary":{"campus_count":1,"ncv_programme_count":1,"occupational_programme_count":0,"report_191_programme_count":0,"total_known_programmes":1}}
+{
+  "institution": "Elangeni TVET College",
+  "province": "KwaZulu-Natal",
+  "source_files": ["ELANGENI TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 1,
+  "programmes": [
+    {
+      "institution": "Elangeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2",
+        "description": "This course equips the student with skills in Hotel Management and Food Preparation and Housekeeping.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Pinetown Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    }
+  ]
+}

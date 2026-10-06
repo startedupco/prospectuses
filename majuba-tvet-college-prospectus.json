@@ -1,0 +1,1558 @@
+{
+  "institution": "Majuba TVET College",
+  "province": "KwaZulu-Natal",
+  "source_files": ["majuba tvet college.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 50,
+  "programmes": [
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": "Covers heavy current including the distribution of electricity, domestic wiring and civil and industrial industries, and light current including digital electronics, industrial electronics, communication electronics, sound engineering and instrumentation.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3",
+        "description": "Covers heavy current including the distribution of electricity, domestic wiring and civil and industrial industries, and light current including digital electronics, industrial electronics, communication electronics, sound engineering and instrumentation.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 4",
+        "description": "Covers heavy current including the distribution of electricity, domestic wiring and civil and industrial industries, and light current including digital electronics, industrial electronics, communication electronics, sound engineering and instrumentation.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": "Covers construction, masonry building and woodworking, design, drainage and sanitation in a practical, theoretical management and design environment.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "All requirements are subject to Admission Point Score."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 3",
+        "description": "Covers construction, masonry building and woodworking, design, drainage and sanitation in a practical, theoretical management and design environment.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 4",
+        "description": "Covers construction, masonry building and woodworking, design, drainage and sanitation in a practical, theoretical management and design environment.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "description": "Teaches the broad principles regarding farming activities such as animal and soil production, as well as how to run the farm as a business.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "All requirements are subject to Admission Point Score."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 3",
+        "description": "Teaches the broad principles regarding farming activities such as animal and soil production, as well as how to run the farm as a business.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 4",
+        "description": "Teaches the broad principles regarding farming activities such as animal and soil production, as well as how to run the farm as a business.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2",
+        "description": "Equips students with knowledge and skills for successful entry into an administrative secretarial field in any sector.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "All requirements are subject to Admission Point Score."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 3",
+        "description": "Equips students with knowledge and skills for successful entry into an administrative secretarial field in any sector.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 4",
+        "description": "Equips students with knowledge and skills for successful entry into an administrative secretarial field in any sector.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2",
+        "description": "Provides the learner with theoretical and practical skills to operate as an assistant in the fields of food preparation, food service or accommodation in various hospitality establishments.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "All requirements are subject to Admission Point Score."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 3",
+        "description": "Provides the learner with theoretical and practical skills to operate as an assistant in the fields of food preparation, food service or accommodation in various hospitality establishments.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 4",
+        "description": "Provides the learner with theoretical and practical skills to operate as an assistant in the fields of food preparation, food service or accommodation in various hospitality establishments.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2",
+        "description": "Covers aspects of tourism principles like tour guiding, tour operations and tourism development.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "All requirements are subject to Admission Point Score."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 3",
+        "description": "Covers aspects of tourism principles like tour guiding, tour operations and tourism development.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 4",
+        "description": "Covers aspects of tourism principles like tour guiding, tour operations and tourism development.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2",
+        "description": "Caters for a wide range of career opportunities for students that would like to become qualified artisans within the mechanical engineering sector.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "All requirements are subject to Admission Point Score."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3",
+        "description": "Caters for a wide range of career opportunities for students that would like to become qualified artisans within the mechanical engineering sector.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4",
+        "description": "Caters for a wide range of career opportunities for students that would like to become qualified artisans within the mechanical engineering sector.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 558,
+        "attendance": [],
+        "campus": ["CPD"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 2,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "nqf", "level": 4, "field": "Hospitality", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Consumer Studies", "level": null, "percentage": null },
+                  { "name": "Home Economics", "level": null, "percentage": null },
+                  { "name": "Hospitality Studies", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "NQF Level 4 applicants in a relevant Hospitality qualification must have completed Level 2 to Level 4.",
+          "Grade 12 applicants with basic culinary knowledge, cooking techniques or prior culinary classes may apply with supporting evidence."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Computer Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 2, "unit": "years" },
+        "credits": 282,
+        "attendance": [],
+        "campus": ["ITB"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": 50 }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": 50 }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "Any relevant computer subject is additionally required."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 2, "unit": "years" },
+        "credits": 316,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Communication", "level": null, "percentage": null },
+                  { "name": "English", "level": null, "percentage": 50 }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "English", "level": null, "percentage": 50 }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "Any relevant computer subject is additionally required."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Mechanical Fitter Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 410,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": [
+          "N3 candidates must pass four subjects including Fitting Trade Theory or Technology.",
+          "NC(V) Level 4 candidates must have passed seven subjects including Engineering and Related Design and Fitting subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanic Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 540,
+        "attendance": [],
+        "campus": ["NEWTECH", "MTC"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": [
+          "Mathematical Literacy is not accepted.",
+          "N3 candidates must pass four subjects including Automotive or Diesel Mechanic Trade Theory.",
+          "NC(V) Level 4 candidates must have passed seven subjects including Engineering and Related Design and Automotive Motor or Diesel Mechanical subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 361,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ncv",
+            "level": 4,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Engineering Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Fitter and Turner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 548,
+        "attendance": [],
+        "campus": ["NEWTECH"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Physical Sciences", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 373,
+        "attendance": [],
+        "campus": ["NEWTECH"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Physical Sciences", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Boilermaker Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 395,
+        "attendance": [],
+        "campus": ["NEWTECH", "MTC"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": [
+          "N3 candidates must pass four subjects including Fabrication or Mechanical Trade Theory or Technology.",
+          "NC(V) Level 4 candidates must have passed seven subjects including Engineering and Related Design (Fabrication or Welding) subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Millwright Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 697,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": 50 }
+                ]
+              }
+            ]
+          },
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": [
+          "Mathematical Literacy is not accepted.",
+          "N3 candidates must pass four subjects including Electrical and Mechanical Trade Theory or Technology.",
+          "NC(V) Level 4 candidates must have passed seven subjects with Electrical and or Mechanical subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumber Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 360,
+        "attendance": [],
+        "campus": ["NEWTECH", "MTC"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": [
+          "NQF Level 3 must be equivalent to N2 knowledge areas of Engineering Mathematics, Science and Building Drawing.",
+          "N3 candidates must pass four subjects including Plumbing Trade Theory or Civil Technology.",
+          "NC(V) Level 4 candidates must have passed seven subjects in Civil and Building Construction with Plumbing subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Skills Programme: End-User Computing",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Candidates must meet the individual subject admission requirements for the qualification.",
+          "Candidates must pass the theoretical and practical interviews set by the campuses offering the programme.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Skills Programme: Garment Making",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Candidates must meet the individual subject admission requirements for the qualification.",
+          "Candidates must pass the theoretical and practical interviews set by the campuses offering the programme.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Skills Programme: Furniture Making",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Candidates must meet the individual subject admission requirements for the qualification.",
+          "Candidates must pass the theoretical and practical interviews set by the campuses offering the programme.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Skills Programme: Retail",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Candidates must meet the individual subject admission requirements for the qualification.",
+          "Candidates must pass the theoretical and practical interviews set by the campuses offering the programme.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Skills Programme: Insurance",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Candidates must meet the individual subject admission requirements for the qualification.",
+          "Candidates must pass the theoretical and practical interviews set by the campuses offering the programme.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Skills Programme: Technical Skills (IT)",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Candidates must meet the individual subject admission requirements for the qualification.",
+          "Candidates must pass the theoretical and practical interviews set by the campuses offering the programme.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Apprenticeship: Electrician",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Apprenticeship: Turner",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Apprenticeship: Instrument Mechanic",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Apprenticeship: Rigger",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Apprenticeship: Carpenter",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Apprenticeship: Diesel Mechanic",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "Apprenticeship: Refractory Masonry",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate: Financial Management N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["ITB"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "N levels not specified in the college source.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate: Hospitality N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["ITB"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "N levels not specified in the college source.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate: Management Assistant N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["ITB"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "N levels not specified in the college source.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate: Public Management N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["ITB"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "N levels not specified in the college source.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    },
+    {
+      "institution": "Majuba TVET College",
+      "programme": {
+        "name": "National Certificate: Farming Management N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["ITB"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "N levels not specified in the college source.",
+          "Entry requirements not specified in the college source - standard national TVET minimum shown."
+        ]
+      }
+    }
+  ]
+}

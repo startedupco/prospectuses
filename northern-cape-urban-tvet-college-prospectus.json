@@ -1,0 +1,583 @@
+{
+  "institution": "Northern Cape Urban TVET College",
+  "province": "Northern Cape",
+  "source_files": ["Northern Cape Urban TVET colleg.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 24,
+  "programmes": [
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Finance, Economics and Accounting",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Accounting", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9; for Finance, Economics and Accounting the applicant must have passed Accounting as a subject."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Finance, Economics and Accounting",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Accounting", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9; for Finance, Economics and Accounting the applicant must have passed Accounting as a subject."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Finance, Economics and Accounting",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Accounting", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9; for Finance, Economics and Accounting the applicant must have passed Accounting as a subject."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Information Technology",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Information Technology",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Information Technology",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Tourism",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Tourism",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Tourism",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Safety in Society",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Safety in Society",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Safety in Society",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Transport and Logistics",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Transport and Logistics",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Transport and Logistics",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: the minimum requirement for all NC(V) programmes is Grade 9."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Apprenticeship: Plumbing",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 18, "max": 35 },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Apprenticeship: Carpentry and Joinery",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Employer recruitment."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Apprenticeship: Bricklaying",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Employer recruitment."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Apprenticeship: Hairdressing",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Learnership: Hairdressing Level 2-4",
+        "description": "Hairdressing course offered at NQF Levels 2-4, duration one year per level.",
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 12, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states this rule for skills programmes: minimum Grade 12 and 16 years of age or older. Duration stated as 1 year per NQF level."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Learnership: Early Childhood Development Level 4-5",
+        "description": "Early Childhood Development course offered at NQF Levels 4-5, duration one year per level.",
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 12, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states this rule for skills programmes: minimum Grade 12 and 16 years of age or older. Duration stated as 1 year per NQF level."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Learnership: Business Administration Level 4",
+        "description": "Business Administration course at NQF Level 4, duration one year per level.",
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 12, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states this rule for skills programmes: minimum Grade 12 and 16 years of age or older. Duration stated as 1 year per NQF level."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Learnership: Association of Accounting Technicians (AAT) SA Level 4",
+        "description": "Association of Accounting Technicians (AAT) SA course at NQF Level 4, duration one year per level.",
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 12, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states this rule for skills programmes: minimum Grade 12 and 16 years of age or older. Duration stated as 1 year per NQF level."]
+      }
+    },
+    {
+      "institution": "Northern Cape Urban TVET College",
+      "programme": {
+        "name": "Learnership: New Venture Creation Level 4",
+        "description": "New Venture Creation course at NQF Level 4, duration one year per level.",
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 12, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states this rule for skills programmes: minimum Grade 12 and 16 years of age or older. Duration stated as 1 year per NQF level."]
+      }
+    }
+  ]
+}

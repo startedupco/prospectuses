@@ -1,1 +1,1548 @@
-{"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}},"campuses":[{"id":"bambanani","name":"Bambanani","town":"","campus_manager":"","notes":[],"programmes":["ncv_primary_agri","ncv_primary_agriculture","ncv_primary_agriculture_maths_lit","occupational_management_assistant","occupational_office_administrator","occupational_hr_management_administrator","occupational_training_and_develop_practitioner"]},{"id":"eshowe","name":"Eshowe","town":"","campus_manager":"","notes":[],"programmes":["ncv_primary_agri","ncv_primary_agriculture","ncv_electrical_infrastructure_and_construction_level2","ncv_electrical_infrastructure_and_construction","ncv_hospitality","ncv_hospitality_services","ncv_primary_agriculture_with_mathematics","ncv_ncv_primary_agriculture_with_maths_literacy","occupational_management_assistant","occupational_office_administrator","occupational_hr_management_administrator"]},{"id":"esikhawini","name":"Esikhawini","town":"","campus_manager":"","notes":[],"programmes":["ncv_hospitality","ncv_civil_engineering_and_building_construction","ncv_engineering_and_related_design","ncv_engineering_and_related_design_2","ncv_cannot_find_what_you","ncv_transport_and_logistics"]},{"id":"mandeni","name":"Mandeni","town":"","campus_manager":"","notes":[],"programmes":["ncv_electrical_infrastructure_and_construction_level2","ncv_engineering_and_related_design","ncv_electrical_infrastructure_construction_esc","ncv_electrical_infrastructure_construction_ret","ncv_engineering_and_related_design_fitting_and_turning","occupational_tourist_information_officer","occupational_office_adminis","occupational_ecd_practitioner","occupational_early_childhood_development"]},{"id":"nkandla","name":"Nkandla","town":"","campus_manager":"","notes":[],"programmes":["ncv_primary_agri","ncv_primary_agriculture","ncv_civil_engineering_and_building_construction","ncv_electrical_infrastucture_and_construction","ncv_electrical_infrastructure_construction","occupational_management_assistant","occupational_retail_supervisor","occupational_small_business_consultant","occupational_ecd_practitioner","occupational_early_childhood_development","occupational_poultry_farmer"]},{"id":"richtek","name":"Richtek","town":"","campus_manager":"","notes":[],"programmes":["occupational_office_administrator","occupational_tourist_information_officer","occupational_bookkeeper","occupational_computer_technician","occupational_electrician","occupational_mechanical_fitter","occupational_fitter_and_turner","occupational_millwright","occupational_rigger","occupational_metal_machinist"]},{"id":"sundumbili","name":"Sundumbili","town":"","campus_manager":"","notes":[],"programmes":["occupational_occupational_certificate_automotive_motor_mechanic","occupational_automotive_motor_mechanic","occupational_occupation_cert_bricklayer_assistant_skills_program","occupational_bricklayer","occupational_wel_oc_a","occupational_wel_oc_3a","occupational_occupational_cert_general_residential_repairer","occupational_plumber","occupational_wel_oc_2a","occupational_welder","occupational_hr_management_administrator","occupational_occupational_cert_assistant_handyperson_skills_program"]}],"institution":{"id":"7f773475-e629-4834-a1ab-7c701a93a3da","name":"Umfolozi TVET College","short_name":"Umfolozi","slug":"umfolozi","province":"KwaZulu-Natal","city":"Empangeni","country":"South Africa","avatar":"","tel":"","email":"","fax":"","website":"","application_cycles":[{"cycle":"first_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"second_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"late_application","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"}],"logos":{"horizontal":"https://raw.githubusercontent.com/startedupco/institutions/main/umfolozi.jpg","vertical":""},"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}}},"matching_rules":{"grade_rule":"learner_grade >= programme.minimum_grade","percentage_rule":"If minimum_percentage is not null, learner_percentage >= minimum_percentage.","required_subject_rule":"Every subject marked required=true must be present in the learner's results.","subject_group_rule":"The learner must have the required number of additional subjects satisfying the specified rule.","placement_test_rule":"If a placement test applies to the learner, the learner's result must meet or exceed minimum_percentage.","progression_rule":"A progression requirement must be satisfied before the learner can enter the next level.","alternative_path_rule":"any_of means at least one eligibility path must be satisfied.","document_rule":"All documents marked required=true must be supplied before application submission.","application_submission_rule":"Application submission should be blocked when a required document is missing.","unknown_requirement_rule":"null or requirements_provided=false means the supplied source did not provide enough information to determine eligibility."},"programme_categories":{"ncv":{"id":"ncv","name":"NC(V)","qualification_level":"NQF Levels 2-4","programmes":[{"id":"ncv_primary_agri","name":"PRIMARY AGRI","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["bambanani","eshowe","nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_primary_agriculture","name":"PRIMARY AGRICULTURE","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["bambanani","eshowe","nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_primary_agriculture_maths_lit","name":"PRIMARY AGRICULTURE MATHS LIT","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["bambanani"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_electrical_infrastructure_and_construction_level2","name":"ELECTRICAL INFRASTRUCTURE & CONSTRUCTION LEVEL2","category":"NC(V)","description":"","careers":[],"campus_ids":["eshowe","mandeni"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_electrical_infrastructure_and_construction","name":"ELECTRICAL INFRASTRUCTURE & CONSTRUCTION","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["eshowe"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_hospitality","name":"HOSPITALITY","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["eshowe","esikhawini"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_hospitality_services","name":"HOSPITALITY SERVICES","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["eshowe"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_primary_agriculture_with_mathematics","name":"PRIMARY AGRICULTURE WITH MATHEMATICS","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["eshowe"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_ncv_primary_agriculture_with_maths_literacy","name":"NCV:PRIMARY AGRICULTURE WITH MATHS LITERACY","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["eshowe"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_civil_engineering_and_building_construction","name":"CIVIL ENGINEERING AND BUILDING CONSTRUCTION","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["esikhawini","nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_engineering_and_related_design","name":"ENGINEERING & RELATED DESIGN","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["esikhawini","mandeni"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_engineering_and_related_design_2","name":"ENGINEERING AND RELATED DESIGN","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["esikhawini"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_cannot_find_what_you","name":"Cannot find what you","category":"NC(V)","description":"","careers":[],"campus_ids":["esikhawini"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_transport_and_logistics","name":"TRANSPORT AND LOGISTICS","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["esikhawini"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_electrical_infrastructure_construction_esc","name":"ELECTRICAL INFRASTRUCTURE CONSTRUCTION (ESC)","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["mandeni"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_electrical_infrastructure_construction_ret","name":"ELECTRICAL INFRASTRUCTURE CONSTRUCTION (RET)","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["mandeni"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_engineering_and_related_design_fitting_and_turning","name":"ENGINEERING AND RELATED DESIGN (FITTING & TURNING)","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["mandeni"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_electrical_infrastucture_and_construction","name":"ELECTRICAL INFRASTUCTURE & CONSTRUCTION","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_electrical_infrastructure_construction","name":"ELECTRICAL INFRASTRUCTURE CONSTRUCTION","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}}]},"occupational":{"id":"occupational","name":"Occupational Programmes","qualification_level":null,"programmes":[{"id":"occupational_management_assistant","name":"MANAGEMENT ASSISTANT","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["bambanani","eshowe","nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_office_administrator","name":"OFFICE ADMINISTRATOR","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["bambanani","eshowe","richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_tourist_information_officer","name":"TOURIST INFORMATION OFFICER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["mandeni","richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_office_adminis","name":"OFFICE ADMINIS","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["mandeni"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_retail_supervisor","name":"RETAIL SUPERVISOR","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_small_business_consultant","name":"SMALL BUSINESS CONSULTANT","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["nkandla"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_bookkeeper","name":"BOOKKEEPER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_computer_technician","name":"COMPUTER TECHNICIAN","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_electrician","name":"ELECTRICIAN","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_mechanical_fitter","name":"MECHANICAL FITTER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_fitter_and_turner","name":"FITTER AND TURNER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_millwright","name":"MILLWRIGHT","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_rigger","name":"RIGGER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_metal_machinist","name":"METAL MACHINIST","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["richtek"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_occupational_certificate_automotive_motor_mechanic","name":"OCCUPATIONAL CERTIFICATE AUTOMOTIVE MOTOR MECHANIC","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_automotive_motor_mechanic","name":"AUTOMOTIVE MOTOR MECHANIC","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_occupation_cert_bricklayer_assistant_skills_program","name":"OCCUPATION CERT: BRICKLAYER ASSISTANT (SKILLS PROGRAM)","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_bricklayer","name":"BRICKLAYER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_wel_oc_a","name":"WEL-OC-A","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_wel_oc_3a","name":"WEL-OC-3A","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_occupational_cert_general_residential_repairer","name":"OCCUPATIONAL CERT: GENERAL RESIDENTIAL REPAIRER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_plumber","name":"PLUMBER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_wel_oc_2a","name":"WEL-OC-2A","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_welder","name":"WELDER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_hr_management_administrator","name":"HR MANAGEMENT ADMINISTRATOR","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["bambanani","eshowe","sundumbili"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_training_and_develop_practitioner","name":"TRAINING & DEVELOP PRACTITIONER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["bambanani"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_ecd_practitioner","name":"ECD PRACTITIONER","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["mandeni","nkandla"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_early_childhood_development","name":"EARLY CHILDHOOD DEVELOPMENT","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["mandeni","nkandla"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_poultry_farmer","name":"POULTRY FARMER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["nkandla"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_occupational_cert_assistant_handyperson_skills_program","name":"OCCUPATIONAL CERT: ASSISTANT HANDYPERSON (SKILLS PROGRAM)","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sundumbili"],"duration":{"unit":"months","value":5},"fee":null,"eligibility":{"requirements_provided":false}}]},"report_191":{"id":"report_191","name":"Report 191","qualification_level":"N1-N3","programmes":[]}},"source":{"institution":"Umfolozi TVET College","website":""},"subject_dictionary":{"mathematics":"Mathematics","english":"English","life_orientation":"Life Orientation","physical_science":"Physical Science","life_sciences":"Life Sciences","natural_sciences":"Natural Sciences","technology":"Technology"},"summary":{"campus_count":7,"ncv_programme_count":19,"occupational_programme_count":30,"report_191_programme_count":0,"total_known_programmes":49}}
+{
+  "institution": "Umfolozi TVET College",
+  "province": "KwaZulu-Natal",
+  "source_files": ["UMFOLOZI TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 51,
+  "programmes": [
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Eshowe", "Mandeni", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Eshowe", "Mandeni", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Esikhawini", "Mandeni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Esikhawini", "Mandeni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Esikhawini", "Mandeni"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 11, "aps": null, "subjects": []}, {"type": "ncv", "level": 3, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 11, "aps": null, "subjects": []}, {"type": "ncv", "level": 3, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 11, "aps": null, "subjects": []}, {"type": "ncv", "level": 3, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "The college source lists Level 2 and Level 4 curriculum blocks for this programme; no Level 3 block is given."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Esikhawini", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Eshowe", "Esikhawini"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bambanani", "Eshowe", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bambanani", "Eshowe", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bambanani", "Eshowe", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 11, "aps": null, "subjects": []}, {"type": "ncv", "level": 3, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Process Plant Operations (Pulp and Paper Making) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Esikhawini"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanic Level 4",
+        "description": "The purpose of this qualification is to prepare a learner to operate as an Automotive Motor Mechanic.",
+        "saqa_code": "118733",
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Physical Sciences", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Physical Sciences", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 1 with Mathematics and Science."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer Level 4",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a bricklayer.",
+        "saqa_code": "93627",
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 11, "aps": null, "subjects": []}, {"type": "nqf", "level": 3, "field": null}],
+        "notes": ["Source minimum requirements: NQF Level 3."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder Level 4",
+        "description": "The purpose of this qualification is to prepare a learner to join metal products in accordance with Welding Procedure Specifications using an electric arc or gas welding process.",
+        "saqa_code": "94100",
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Physical Sciences", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Physical Sciences", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 1 with Mathematics and Science."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner Level 4",
+        "description": "The purpose of this qualification is to prepare a learner to operate as an Early Childhood Development Practitioner.",
+        "saqa_code": "97542",
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 36, "unit": "months"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Mandeni", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 11, "aps": null, "subjects": []}, {"type": "nqf", "level": 3, "field": null}],
+        "notes": ["Source minimum requirements: NQF Level 3."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Computer Technician Level 5",
+        "description": "Upon completion of the qualification students will be expected to provide technical assistance to users, including diagnosing and resolving issues and problems with software, hardware, computer peripheral equipment, networks, databases, systems and the internet.",
+        "saqa_code": "101408",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Computer Literacy", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Computer Literacy", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Maths and Computer Literacy."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Management Assistant.",
+        "saqa_code": "101876",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bambanani", "Eshowe", "Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Communication."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper Level 5",
+        "description": "The purpose of this qualification is to provide a learner with an informed understanding of bookkeeping in order to operate as a Bookkeeper.",
+        "saqa_code": "98959",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Mathematics."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator Level 5",
+        "description": "This occupational qualification provides an opportunity for the learner to acquire a range of administrative skills to coordinate the activities of an office including information management and operational processes.",
+        "saqa_code": "102161",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bambanani", "Eshowe", "Mandeni", "Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Communication."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Tourist Information Officer Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Tourist Information Officer.",
+        "saqa_code": "101865",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Mandeni", "Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Communication."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Poultry Farmer Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Poultry Farmer.",
+        "saqa_code": "99027",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 36, "unit": "months"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  {"name": "Mathematics", "level": null, "percentage": null},
+                  {"name": "Mathematical Literacy", "level": null, "percentage": null}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  {"name": "Mathematics", "level": null, "percentage": null},
+                  {"name": "Mathematical Literacy", "level": null, "percentage": null}
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Mathematics or Mathematical Literacy."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Human Resource Management Administrator Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to function as a Human Resource Management Administrator.",
+        "saqa_code": "121150",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 36, "unit": "months"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bambanani", "Eshowe", "Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [{"compulsory": true, "match": "any", "choices": [{"name": "English", "level": null, "percentage": null}]}]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [{"compulsory": true, "match": "any", "choices": [{"name": "English", "level": null, "percentage": null}]}]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 qualification with English Communication."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Retail Supervisor Level 5",
+        "description": "The purpose of this qualification is to equip a learner with knowledge and skills to operate as a Retail Supervisor.",
+        "saqa_code": "99253",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematical Literacy", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematical Literacy", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Communication", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Mathematical Literacy and Communication."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Small Business Consultant Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Small Business Consultant.",
+        "saqa_code": "118741",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Nkandla"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 12, "aps": null, "subjects": []}, {"type": "nqf", "level": 4, "field": null}],
+        "notes": ["Source minimum requirements: NQF Level 4 qualification."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Tax Technician Level 6",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Tax Technician who is able to provide tax compliance services by preparing and submitting tax returns, reviewing completed tax records, verifying and availing source documents.",
+        "saqa_code": "94098",
+        "type": "OC",
+        "nqf_level": 6,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {"type": "grade", "level": 12, "aps": null, "subjects": []},
+          {"type": "nqf", "level": 4, "field": null},
+          {"type": "ncv", "level": 4, "subjects": []}
+        ],
+        "notes": [
+          "Source minimum requirements: NQF Level 4, National Senior Certificate or Senior Certificate, or a National Certificate (Vocational)."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Training and Development Practitioner Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Learning and Development Practitioner.",
+        "saqa_code": "101321",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": {"value": 36, "unit": "months"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Bambanani"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  {"name": "Communication", "level": null, "percentage": null},
+                  {"name": "English", "level": null, "percentage": null}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  {"name": "Communication", "level": null, "percentage": null},
+                  {"name": "English", "level": null, "percentage": null}
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 with Communication/English."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Photovoltaic Service Technician Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Solar Photovoltaic Service Technician.",
+        "saqa_code": "99447",
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 4 qualification with mathematics."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4",
+        "description": "The purpose of this qualification is to prepare a learner to operate as an Electrician.",
+        "saqa_code": "91761",
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Physical Sciences", "level": null, "percentage": null}]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Physical Sciences", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ],
+        "notes": ["Source minimum requirements: NQF Level 1 with Mathematics and Science."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Mechanical Fitter Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Fitter and Turner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Millwright Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Metal Machinist Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source under the course heading 'Turner' as 'Occupational Certificate: Metal Machinist NQF4'."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Rigger Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Richtek"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: General Residential Repairer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "NQF level not specified in the college source."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumber Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as 'PLUMBER ARPL' with 'Occupational Certificate: Plumber NQF4'."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Skills Programme: Bricklayer Assistant",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Skills Programme: Assistant Handyperson",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": {"value": 5, "unit": "months"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sundumbili"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Electrician",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Richtek", "Mandeni"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Fitter",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Richtek", "Mandeni"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Turner",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Richtek", "Mandeni"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Fitter and Turner",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Richtek", "Mandeni"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Millwright",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Richtek"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Welder",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sundumbili", "ZCBF"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Motor Vehicle Servicing",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sundumbili"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    },
+    {
+      "institution": "Umfolozi TVET College",
+      "programme": {
+        "name": "Apprenticeship: Instrument Mechanician",
+        "description": null,
+        "saqa_code": null,
+        "type": "APPRENTICESHIP",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mandeni", "Richtek"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Listed in the source as artisan and learnership training at the college Technical Training Centres."
+        ]
+      }
+    }
+  ]
+}

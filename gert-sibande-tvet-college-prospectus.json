@@ -1,0 +1,717 @@
+{
+  "institution": "Gert Sibande TVET College",
+  "province": "Mpumalanga",
+  "source_files": ["Gert Sibande TVET College.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 29,
+  "programmes": [
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering Construction Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering Construction Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Mechatronics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Mechatronics Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Mechatronics Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2",
+        "description": "This programme covers the interpretation of software applications, as well as the installation of network cables together with information technology principles and data processing.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 3",
+        "description": "This programme covers the interpretation of software applications, as well as the installation of network cables together with information technology principles and data processing.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 4",
+        "description": "This programme covers the interpretation of software applications, as well as the installation of network cables together with information technology principles and data processing.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate: Mechanical Subjects N1-N3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate: Mechanical Subjects N5-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate: Civil Subjects N1-N3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate: Civil Subjects N5-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate: Electrical Subjects N1-N3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Gert Sibande TVET College",
+      "programme": {
+        "name": "National Certificate: Electrical Subjects N5-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    }
+  ]
+}

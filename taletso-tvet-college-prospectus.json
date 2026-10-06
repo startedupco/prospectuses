@@ -1,24 +1,24 @@
 {
-  "institution": "Capricorn TVET College",
-  "province": "Limpopo",
-  "source_files": ["CAPRICORN TVET COLLEGE.txt"],
+  "institution": "Taletso TVET College",
+  "province": "North West",
+  "source_files": ["taletso tvet.txt"],
   "updated": "2026-10-06",
-  "programme_count": 33,
+  "programme_count": 32,
   "programmes": [
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "name": "National Certificate Vocational: Primary Agriculture Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "Business Studies",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Lichtenburg"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -30,19 +30,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2",
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "Engineering Studies",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Mafikeng"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -54,19 +54,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Information Technology and Computer Science (Programming and Robotics) Level 2",
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "Engineering Studies",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Lehurutshe", "Mafikeng"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -78,19 +78,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Mechatronics Level 2",
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "Engineering Studies",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Mafikeng"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -102,19 +102,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Hospitality Level 2",
+        "name": "National Certificate Vocational: Hospitality Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "General and Utility Studies",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Mafikeng"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -126,19 +126,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Safety in Society Level 2",
+        "name": "National Certificate Vocational: Tourism Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "General and Utility Studies",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Lehurutshe"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -150,19 +150,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Tourism Level 2",
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "General and Utility Studies",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Lehurutshe"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -174,19 +174,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
         "description": null,
         "saqa_code": null,
         "type": "NCV",
-        "nqf_level": 2,
-        "faculty": "Farming",
-        "duration": { "value": 1, "unit": "years" },
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
         "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Senwabarwana Campus"],
-        "intake": ["2027"]
+        "attendance": [],
+        "campus": ["Lehurutshe", "Lichtenburg", "Mafikeng"],
+        "intake": []
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -198,9 +198,162 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "Occupational Certificate: Chef",
+        "name": "National Certificate Vocational: Generic Management Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Lehurutshe", "Lichtenburg", "Mafikeng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Taletso TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Health Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mahikeng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Taletso TVET College",
+      "programme": {
+        "name": "National Certificate: Civil Engineering N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mafikeng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Source heading states N1-N6 while the curriculum table lists N1, N2 and N3 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Taletso TVET College",
+      "programme": {
+        "name": "National Certificate: Electrical Engineering N1-N3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Lehurutshe", "Lichtenburg", "Mafikeng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Taletso TVET College",
+      "programme": {
+        "name": "National Certificate: Mechanical Engineering N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mafikeng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Source heading states N1-N6 while the curriculum table lists N1, N2 and N3 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Taletso TVET College",
+      "programme": {
+        "name": "National Certificate: Management Assistant N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Lehurutshe", "Lichtenburg", "Mafikeng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Source heading states N1-N6 while the curriculum table lists N4, N5 and N6 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Taletso TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician",
         "description": null,
         "saqa_code": null,
         "type": "OC",
@@ -209,7 +362,7 @@
         "duration": { "value": 1, "unit": "years" },
         "credits": null,
         "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
+        "campus": ["Lehurutshe", "Mafikeng"],
         "intake": ["2027"]
       },
       "entry_requirements": {
@@ -222,9 +375,9 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "Occupational Certificate: Cook",
+        "name": "Occupational Certificate: Clearing and Forwarding Agent",
         "description": null,
         "saqa_code": null,
         "type": "OC",
@@ -233,7 +386,7 @@
         "duration": { "value": 1, "unit": "years" },
         "credits": null,
         "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
+        "campus": ["Lichtenburg"],
         "intake": ["2027"]
       },
       "entry_requirements": {
@@ -246,103 +399,7 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
-      "programme": {
-        "name": "Occupational Certificate: Hairdresser",
-        "description": null,
-        "saqa_code": null,
-        "type": "OC",
-        "nqf_level": null,
-        "faculty": null,
-        "duration": { "value": 1, "unit": "years" },
-        "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
-      },
-      "entry_requirements": {
-        "age": { "min": null, "max": null },
-        "match": "any",
-        "options": [
-          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
-        ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
-      }
-    },
-    {
-      "institution": "Capricorn TVET College",
-      "programme": {
-        "name": "Occupational Certificate: Mechatronics Technician Level 5",
-        "description": null,
-        "saqa_code": null,
-        "type": "OC",
-        "nqf_level": 5,
-        "faculty": null,
-        "duration": { "value": 1, "unit": "years" },
-        "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Polokwane Campus"],
-        "intake": ["2027"]
-      },
-      "entry_requirements": {
-        "age": { "min": null, "max": null },
-        "match": "any",
-        "options": [
-          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
-        ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
-      }
-    },
-    {
-      "institution": "Capricorn TVET College",
-      "programme": {
-        "name": "Occupational Certificate: Carpenter",
-        "description": null,
-        "saqa_code": null,
-        "type": "OC",
-        "nqf_level": null,
-        "faculty": null,
-        "duration": { "value": 1, "unit": "years" },
-        "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Seshego Campus"],
-        "intake": ["2027"]
-      },
-      "entry_requirements": {
-        "age": { "min": null, "max": null },
-        "match": "any",
-        "options": [
-          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
-        ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
-      }
-    },
-    {
-      "institution": "Capricorn TVET College",
-      "programme": {
-        "name": "Occupational Certificate: Bricklayer",
-        "description": null,
-        "saqa_code": null,
-        "type": "OC",
-        "nqf_level": null,
-        "faculty": null,
-        "duration": { "value": 1, "unit": "years" },
-        "credits": null,
-        "attendance": ["full-time"],
-        "campus": ["Seshego Campus"],
-        "intake": ["2027"]
-      },
-      "entry_requirements": {
-        "age": { "min": null, "max": null },
-        "match": "any",
-        "options": [
-          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
-        ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
-      }
-    },
-    {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
         "name": "Occupational Certificate: Early Childhood Development Practitioner",
         "description": null,
@@ -353,23 +410,22 @@
         "duration": { "value": 1, "unit": "years" },
         "credits": null,
         "attendance": ["full-time"],
-        "campus": ["Seshego Campus"],
+        "campus": ["Lichtenburg"],
         "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
         "match": "any",
         "options": [
-          { "type": "nqf", "level": 3, "field": null },
-          { "type": "grade", "level": 11, "aps": null, "subjects": [] }
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
         ],
-        "notes": ["Source states: minimum requirements are NQF level 3 or passed Grade 11."]
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "Occupational Certificate: Electrician Trade",
+        "name": "Occupational Certificate: Freight Handler",
         "description": null,
         "saqa_code": null,
         "type": "OC",
@@ -378,31 +434,22 @@
         "duration": { "value": 1, "unit": "years" },
         "credits": null,
         "attendance": ["full-time"],
-        "campus": ["Seshego Campus"],
+        "campus": ["Lichtenburg"],
         "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
         "match": "any",
         "options": [
-          { "type": "nqf", "level": 1, "field": null },
-          {
-            "type": "grade",
-            "level": 9,
-            "aps": null,
-            "subjects": [
-              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
-              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
-            ]
-          }
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
         ],
-        "notes": ["Source states: minimum requirements are NQF level 1 or passed Grade 9 Maths and Science."]
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "Occupational Certificate: Fitter and Turner Trade",
+        "name": "Occupational Certificate: Transport Clerk",
         "description": null,
         "saqa_code": null,
         "type": "OC",
@@ -411,40 +458,32 @@
         "duration": { "value": 1, "unit": "years" },
         "credits": null,
         "attendance": ["full-time"],
-        "campus": ["Seshego Campus"],
+        "campus": ["Lichtenburg"],
         "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
         "match": "any",
         "options": [
-          { "type": "nqf", "level": 1, "field": null },
-          {
-            "type": "grade",
-            "level": 9,
-            "aps": null,
-            "subjects": [
-              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] }
-            ]
-          }
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
         ],
-        "notes": ["Source states: minimum requirements are NQF level 1 or passed Grade 9 with Maths."]
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2-4",
+        "name": "Occupational Certificate: Bricklayer",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Business Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -456,19 +495,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Marketing Level 2-4",
+        "name": "Occupational Certificate: Cloud Administration",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Business Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -480,19 +519,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "name": "Occupational Certificate: Internet of Things Developer",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Business Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -504,19 +543,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Management Level 2-4",
+        "name": "Occupational Certificate: Plumber",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Business Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -528,19 +567,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "name": "Occupational Certificate: Supply Chain Practitioner",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -552,19 +591,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "name": "Occupational Certificate: Welder",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -576,19 +615,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2-4",
+        "name": "Occupational Certificate: Tourist Information Officer",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Lehurutshe"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -600,19 +639,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Process Plant Operations Level 2-4",
+        "name": "Occupational Certificate: Computer Technician",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Lichtenburg", "Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -624,19 +663,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate Vocational: Drawing Office Practice Level 2-4",
+        "name": "Occupational Certificate: Artificial Intelligence Software Developer",
         "description": null,
         "saqa_code": null,
-        "type": "NCV",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -648,94 +687,19 @@
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National N Diploma: Educare N4-N6",
+        "name": "Occupational Certificate: Management Assistant",
         "description": null,
         "saqa_code": null,
-        "type": "NATED",
-        "nqf_level": 6,
-        "faculty": "General and Utility Studies",
-        "duration": null,
-        "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
-      },
-      "entry_requirements": {
-        "age": { "min": null, "max": null },
-        "match": "any",
-        "options": [
-          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
-          { "type": "nated", "level": "N3", "subjects": [] }
-        ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) programme under General and Utility Studies but does not state levels; the standard business N4-N6 route is shown."]
-      }
-    },
-    {
-      "institution": "Capricorn TVET College",
-      "programme": {
-        "name": "National N Diploma: Tourism N4-N6",
-        "description": null,
-        "saqa_code": null,
-        "type": "NATED",
-        "nqf_level": 6,
-        "faculty": "General and Utility Studies",
-        "duration": null,
-        "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
-      },
-      "entry_requirements": {
-        "age": { "min": null, "max": null },
-        "match": "any",
-        "options": [
-          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
-          { "type": "nated", "level": "N3", "subjects": [] }
-        ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) programme under General and Utility Studies but does not state levels; the standard business N4-N6 route is shown."]
-      }
-    },
-    {
-      "institution": "Capricorn TVET College",
-      "programme": {
-        "name": "National N Diploma: Hospitality N4-N6",
-        "description": null,
-        "saqa_code": null,
-        "type": "NATED",
-        "nqf_level": 6,
-        "faculty": "General and Utility Studies",
-        "duration": null,
-        "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
-      },
-      "entry_requirements": {
-        "age": { "min": null, "max": null },
-        "match": "any",
-        "options": [
-          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
-          { "type": "nated", "level": "N3", "subjects": [] }
-        ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) programme under General and Utility Studies but does not state levels; the standard business N4-N6 route is shown."]
-      }
-    },
-    {
-      "institution": "Capricorn TVET College",
-      "programme": {
-        "name": "National Certificate: Mechanical Engineering N1-N6",
-        "description": null,
-        "saqa_code": null,
-        "type": "NATED",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Lehurutshe", "Lichtenburg", "Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -743,23 +707,23 @@
         "options": [
           { "type": "grade", "level": 9, "aps": null, "subjects": [] }
         ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate: Electrical Engineering N1-N6",
+        "name": "Occupational Certificate: Bookkeeper",
         "description": null,
         "saqa_code": null,
-        "type": "NATED",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -767,23 +731,23 @@
         "options": [
           { "type": "grade", "level": 9, "aps": null, "subjects": [] }
         ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate: Civil Engineering N1-N6",
+        "name": "Occupational Certificate: Goldsmith",
         "description": null,
         "saqa_code": null,
-        "type": "NATED",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 48, "unit": "months" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Lehurutshe"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -791,23 +755,23 @@
         "options": [
           { "type": "grade", "level": 9, "aps": null, "subjects": [] }
         ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
       }
     },
     {
-      "institution": "Capricorn TVET College",
+      "institution": "Taletso TVET College",
       "programme": {
-        "name": "National Certificate: Laboratory Assistant/Chemical Plant Operations N1-N6",
+        "name": "Occupational Certificate: Office Administrator",
         "description": null,
         "saqa_code": null,
-        "type": "NATED",
+        "type": "OC",
         "nqf_level": null,
-        "faculty": "Engineering Studies",
-        "duration": null,
+        "faculty": null,
+        "duration": { "value": 48, "unit": "months" },
         "credits": null,
-        "attendance": [],
-        "campus": null,
-        "intake": []
+        "attendance": ["full-time"],
+        "campus": ["Lehurutshe", "Lichtenburg", "Mafikeng"],
+        "intake": ["2027"]
       },
       "entry_requirements": {
         "age": { "min": null, "max": null },
@@ -815,7 +779,7 @@
         "options": [
           { "type": "grade", "level": 9, "aps": null, "subjects": [] }
         ],
-        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this as a Report 191 (NATED) Engineering Studies programme but does not state levels; the standard engineering N1-N6 route is shown."]
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
       }
     }
   ]

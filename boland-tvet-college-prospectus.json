@@ -1,336 +1,744 @@
 {
   "institution": "Boland TVET College",
-  "year": 2027,
   "province": "Western Cape",
-  "campuses": [
-    "Caledon",
-    "Paarl",
-    "Stellenbosch",
-    "Strand",
-    "Worcester"
-  ],
-  "qualifications": {
-    "NCV": {
-      "duration_default": "1 Year",
-      "courses": [
-        {
-          "course_name": "Safety in Society",
-          "course_id": "ncv-safety-in-society",
-          "duration": "1 Year",
-          "campuses": ["Caledon"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 10,
-              "notes": ["Grade 10 pass."]
-            },
-            "alternative_plp": {
-              "subjects": [
-                { "subject": "English", "minimum_percent": 50 },
-                { "subject": "Mathematics", "minimum_percent": 40 },
-                { "subject": "Life Skills", "minimum_percent": 40 }
-              ]
-            }
-          }
-        },
-        {
-          "course_name": "Civil Engineering Construction",
-          "course_id": "ncv-civil-engineering",
-          "duration": "1 Year",
-          "campuses": ["Paarl"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 9,
-              "subjects": ["Mathematics"],
-              "notes": ["Grade 9 pass with a pass in Mathematics."]
-            },
-            "alternative_plp": {
-              "subjects": [
-                { "subject": "English", "minimum_percent": 50 },
-                { "subject": "Mathematics", "minimum_percent": 55 },
-                { "subject": "Science", "minimum_percent": 50 },
-                { "subject": "Life Skills", "minimum_percent": 40 }
-              ]
-            }
-          }
-        },
-        {
-          "course_name": "Information Technology & Computer Science",
-          "course_id": "ncv-it-computer-science",
-          "duration": "1 Year",
-          "campuses": ["Stellenbosch"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 11,
-              "subjects": [
-                { "subject": ["Mathematics", "Mathematical Literacy"], "minimum_percent": 55 }
-              ],
-              "notes": ["Grade 11 with 55% in Mathematics or Mathematical Literacy."]
-            },
-            "alternative_plp": {
-              "subjects": [
-                { "subject": "English", "minimum_percent": 50 },
-                { "subject": "Mathematics", "minimum_percent": 55 },
-                { "subject": "Science", "minimum_percent": 50 },
-                { "subject": "Life Skills", "minimum_percent": 40 }
-              ]
-            }
-          }
-        },
-        {
-          "course_name": "Electrical Infrastructure Construction",
-          "course_id": "ncv-electrical-infrastructure",
-          "duration": "1 Year",
-          "campuses": ["Strand"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 9,
-              "subjects": ["Mathematics"],
-              "notes": ["Grade 9 pass with a pass in Mathematics."]
-            },
-            "alternative_plp": {
-              "subjects": [
-                { "subject": "English", "minimum_percent": 50 },
-                { "subject": "Mathematics", "minimum_percent": 55 },
-                { "subject": "Science", "minimum_percent": 50 },
-                { "subject": "Life Skills", "minimum_percent": 40 }
-              ]
-            }
-          }
-        },
-        {
-          "course_name": "Engineering and Related Design (Auto)",
-          "course_id": "ncv-engineering-auto",
-          "duration": "1 Year",
-          "campuses": ["Worcester"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 9,
-              "subjects": ["Mathematics"],
-              "notes": ["Grade 9 pass with a pass in Mathematics."]
-            },
-            "alternative_plp": {
-              "subjects": [
-                { "subject": "English", "minimum_percent": 50 },
-                { "subject": "Mathematics", "minimum_percent": 55 },
-                { "subject": "Science", "minimum_percent": 50 },
-                { "subject": "Life Skills", "minimum_percent": 40 }
-              ]
-            }
-          }
-        },
-        {
-          "course_name": "Engineering and Related Design (Welding)",
-          "course_id": "ncv-engineering-welding",
-          "duration": "1 Year",
-          "campuses": ["Worcester"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 9,
-              "subjects": ["Mathematics"],
-              "notes": ["Grade 9 pass with a pass in Mathematics."]
-            },
-            "alternative_plp": {
-              "subjects": [
-                { "subject": "English", "minimum_percent": 50 },
-                { "subject": "Mathematics", "minimum_percent": 55 },
-                { "subject": "Science", "minimum_percent": 50 },
-                { "subject": "Life Skills", "minimum_percent": 40 }
-              ]
-            }
-          }
-        }
-      ]
+  "source_files": ["bolandtvet.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 18,
+  "programmes": [
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper Level 5",
+        "description": "Prepares the student to operate as a Financial Administration Clerk by assisting in the processes and procedures of fundamental financial aspects of a business or institution through financial recordkeeping and support for effective financial operations.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Economic & Management Sciences",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 364,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nqf", "level": 4, "field": null }
+        ]
+      }
     },
-    "QCTO": {
-      "courses": [
-        {
-          "course_name": "ECD Practitioner",
-          "course_id": "qcto-ecd-practitioner",
-          "duration": "1 Year",
-          "campuses": ["Caledon", "Paarl", "Worcester"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 11,
-              "notes": ["Passed Grade 11."]
-            },
-            "alternative_route": {
-              "type": "NCV Level 3",
-              "notes": ["Passed NCV Level 3."]
-            },
-            "additional_checks": [
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator Level 5",
+        "description": "Provides an opportunity for students to acquire a range of administrative skills to coordinate the activities of an office, including information management and operational processes in an administrative setting.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Economic & Management Sciences",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 445,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nqf", "level": 4, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": "Covers heavy current, overhead power lines as well as domestic, civil and industrial industries, and light current in the form of digital and electronics in communications, industrial electronics and sound engineering fields, as well as instrumentation.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
               {
-                "name": "Child Protection Register",
-                "description": "Mandatory verification against the Child Protection Register / police clearance."
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "PLP students must pass with English 50%, Mathematics 55%, Science 50% and Life Skills 40%."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": "Exposes the student to the basic industrial environment, engineering principles and operations, as well as engineering systems, activities and processes.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "PLP students must pass with English 50%, Mathematics 55%, Science 50% and Life Skills 40%."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanic Level 4",
+        "description": "Prepares students to become competent Automotive Motor Mechanics capable of maintaining, diagnosing and repairing petrol and diesel light motor vehicles and their mechanical systems.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 540,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              },
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               }
             ]
           }
-        },
-        {
-          "course_name": "Bookkeeper",
-          "course_id": "qcto-bookkeeper",
-          "duration": "1 Year",
-          "campuses": ["Caledon", "Paarl", "Worcester"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 12,
-              "notes": ["Passed Matric (Grade 12)."]
-            },
-            "alternative_routes": [
+        ],
+        "notes": [
+          "Mathematics and Science are compulsory subjects in Grade 9."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer Level 4",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a Bricklayer.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 361,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Diesel Mechanic Level 4",
+        "description": "A Diesel Mechanic maintains, tests and repairs commercial vehicles (more than 3 tons GVM) including engines, mechanical parts, transmissions, suspension, steering and brakes.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 540,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
               {
-                "type": "NCV Level 4",
-                "notes": ["Passed NCV Level 4 in any field."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               },
               {
-                "type": "FETC at NQF Level 4",
-                "notes": ["Relevant FETC at NQF Level 4."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               }
             ]
           }
-        },
-        {
-          "course_name": "Management Assistant",
-          "course_id": "qcto-management-assistant",
-          "duration": "1 Year",
-          "campuses": ["Caledon", "Paarl", "Worcester"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 12,
-              "notes": ["Passed Matric (Grade 12)."]
-            },
-            "alternative_routes": [
+        ],
+        "notes": [
+          "Mathematics and Science are compulsory subjects in Grade 9."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4",
+        "description": "Prepares a student to operate as an Electrician who installs, tests, connects, commissions, maintains and alters or repairs electrical equipment, wiring and control systems.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 360,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
               {
-                "type": "NCV Level 4",
-                "notes": ["Passed NCV Level 4 in any field."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               },
               {
-                "type": "FETC at NQF Level 4",
-                "notes": ["Relevant FETC at NQF Level 4."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               }
             ]
           }
-        },
-        {
-          "course_name": "Office Administrator",
-          "course_id": "qcto-office-administrator",
-          "duration": "1 Year",
-          "campuses": ["Caledon", "Paarl", "Strand", "Stellenbosch"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 12,
-              "notes": ["Passed Matric (Grade 12)."]
-            },
-            "alternative_routes": [
+        ],
+        "notes": [
+          "Mathematics and Science are compulsory subjects in Grade 9.",
+          "The student will complete a colourblind test."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder Level 4",
+        "description": "Prepares students to become fully qualified welders capable of performing various welding tasks using electric arc and gas welding processes, aligned with national and international standards.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 372,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
               {
-                "type": "NCV Level 4",
-                "notes": ["Passed NCV Level 4 in any field."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               },
               {
-                "type": "FETC at NQF Level 4",
-                "notes": ["Relevant FETC at NQF Level 4."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Science", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 1,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               }
             ]
           }
-        },
-        {
-          "course_name": "Tourism Information Officer",
-          "course_id": "qcto-tourism-information-officer",
-          "duration": "1 Year",
-          "campuses": ["Caledon"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 12,
-              "notes": ["Passed Matric (Grade 12)."]
-            },
-            "alternative_routes": [
+        ],
+        "notes": [
+          "Mathematics and Science are compulsory subjects in Grade 9."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cook Level 4",
+        "description": "The purpose of this qualification is to prepare the student to cook and prepare food in various forms using a variety of equipment and techniques.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Hospitality & Tourism",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": 184,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": [
+          "Open access: an NQF Level 1 qualification or at least 16 years of age is required.",
+          "A possible assessment of numeracy and literacy applies."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef Level 5",
+        "description": "The purpose of this qualification is to prepare a learner to operate as a chef who plans, organises and executes the preparation, cooking and finishing of food in hotels, restaurants and catering establishments.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Hospitality & Tourism",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 558,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 10,
+            "aps": null,
+            "subjects": [
               {
-                "type": "NCV Level 4",
-                "notes": ["Passed NCV Level 4 in any field."]
-              },
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "nqf",
+            "level": 2,
+            "field": null,
+            "subjects": [
               {
-                "type": "FETC at NQF Level 4",
-                "notes": ["Relevant FETC at NQF Level 4."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null }
+                ]
               }
             ]
           }
-        },
-        {
-          "course_name": "Cook",
-          "course_id": "qcto-cook",
-          "duration": "18 Months",
-          "campuses": ["Paarl"],
-          "entry_requirement": {
-            "standard_route": {
-              "type": "NQF Level 1",
-              "notes": ["Passed NQF Level 1."]
-            },
-            "alternative_route": {
-              "min_age": 16,
-              "notes": ["At least 16 years old with possible numeracy and literacy assessment."]
-            }
-          }
-        },
-        {
-          "course_name": "Welder",
-          "course_id": "qcto-welder",
-          "duration": "36 Months",
-          "campuses": ["Worcester"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 9,
-              "subjects": ["Mathematics", "Science"],
-              "notes": ["Passed Grade 9 with Mathematics and Science (compulsory)."]
-            },
-            "alternative_routes": [
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Tourism Information Officer Level 5",
+        "description": "Equips a student with the skills and knowledge to work in visitor information centres and tourism operations in South Africa.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Hospitality & Tourism",
+        "duration": { "value": 2, "unit": "years" },
+        "credits": 280,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": [
+          "An assessment of numeracy and literacy applies."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2-4",
+        "description": "Covers the interpretation of software applications, the installation of network cables, information technology principles and data processing.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Information Technology & Agriculture",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
               {
-                "type": "ABET Level 4",
-                "notes": ["ABET Level 4 with Mathematics."]
-              },
-              {
-                "type": "NQF Level 1",
-                "notes": ["NQF Level 1 with Mathematics."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": 55 },
+                  { "name": "Mathematical Literacy", "level": null, "percentage": 55 }
+                ]
               }
-            ],
-            "age_requirement": {
-              "min_age": 16,
-              "notes": ["Student must be 16 or older."]
-            }
-          }
-        },
-        {
-          "course_name": "Automotive Mechanic",
-          "course_id": "qcto-automotive-mechanic",
-          "duration": "36 Months",
-          "campuses": ["Worcester"],
-          "entry_requirement": {
-            "standard_route": {
-              "min_grade": 9,
-              "subjects": ["Mathematics", "Science"],
-              "notes": ["Passed Grade 9 with Mathematics and Science (compulsory)."]
-            },
-            "alternative_routes": [
+            ]
+          },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "PLP students must pass with English 50%, Mathematics 55%, Science 50% and Life Skills 40%."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Robotics Level 2-4",
+        "description": "Provides a solid foundation in programming with a special focus on robotics and industrial automation, engineering graphics and electronic concepts.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Information Technology & Agriculture",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
               {
-                "type": "ABET Level 4",
-                "notes": ["ABET Level 4 with Mathematics."]
-              },
-              {
-                "type": "NQF Level 1",
-                "notes": ["NQF Level 1 with Mathematics."]
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": 30 }
+                ]
               }
-            ],
-            "age_requirement": {
-              "min_age": 16,
-              "notes": ["Student must be 16 or older."]
-            }
-          }
-        }
-      ]
+            ]
+          },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "PLP students must pass with English 50%, Mathematics 55%, Science 50% and Life Skills 40%."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2-4",
+        "description": "The course is designed to teach the student the broad principles regarding farming activities such as animal and soil production, as well as how to run the farm as a business.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Information Technology & Agriculture",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant Level 5",
+        "description": "Provides an opportunity for students to acquire a range of administrative skills to coordinate the activities of an office, including information management and operational processes in an administrative setting.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Office Management Sciences",
+        "duration": { "value": 2, "unit": "years" },
+        "credits": 316,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nqf", "level": 4, "field": null }
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 2-4",
+        "description": "Consists of four vocational subjects namely Policing Practices, South African Criminal Law, Governance and the Criminal Justice System.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Social & Security Sciences",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "PLP students must pass with English 50%, Mathematics 40% and Life Skills 40%."
+        ]
+      }
+    },
+    {
+      "institution": "Boland TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner Level 4",
+        "description": "Helps students plan and prepare early childhood activities, facilitate and mediate learning, observe and assess the progress of children, and reflect on learning in an inclusive, play-based environment.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Social & Security Sciences",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": 131,
+        "attendance": [],
+        "campus": ["Caledon", "Paarl", "Stellenbosch", "Strand", "Worcester"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 3, "subjects": [] }
+        ],
+        "notes": [
+          "Students will need to undergo verification against the Child Protection Register."
+        ]
+      }
     }
-  },
-  "summary": {
-    "total_unique_courses": 14,
-    "total_course_offers_across_campuses": 23,
-    "ncv_courses": 6,
-    "qcto_courses": 8,
-    "campuses_covered": 5
-  }
+  ]
 }

@@ -1,1 +1,1046 @@
-{"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}},"campuses":[{"id":"cato_manor","name":"Cato Manor","town":"","campus_manager":"","notes":[],"programmes":["occupational_cook_year_1","occupational_beauty_therapist_full_tme","occupational_hairdresser_year_1","occupational_hairdresser_year_2","occupational_hairdresser_year_3"]},{"id":"centec","name":"Centec","town":"","campus_manager":"","notes":[],"programmes":["occupational_bookkeeper","occupational_retail_buyer_year_1","occupational_chef_year_1"]},{"id":"melbourne","name":"Melbourne","town":"","campus_manager":"","notes":[],"programmes":["occupational_electrician_year_1","occupational_computer_technician_year_1"]},{"id":"springfield","name":"Springfield","town":"","campus_manager":"","notes":[],"programmes":["occupational_diesel_mechanic_year_1"]},{"id":"umbilo","name":"Umbilo","town":"","campus_manager":"","notes":[],"programmes":["occupational_supply_chain_practitioner","occupational_clearing_and_forwarding_agent_year_1","occupational_freight_handler_year_1","occupational_transport_clerk_year_1"]}],"institution":{"id":"5c13ead3-0800-43d9-bf59-997bd4d46f3a","name":"Thekwini TVET College","short_name":"Thekwini","slug":"thekwini","province":"KwaZulu-Natal","city":"Durban","country":"South Africa","avatar":"","tel":"","email":"","fax":"","website":"","application_cycles":[{"cycle":"first_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"second_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"late_application","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"}],"logos":{"horizontal":"https://raw.githubusercontent.com/startedupco/institutions/main/thekwini.jpeg","vertical":""},"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}}},"matching_rules":{"grade_rule":"learner_grade >= programme.minimum_grade","percentage_rule":"If minimum_percentage is not null, learner_percentage >= minimum_percentage.","required_subject_rule":"Every subject marked required=true must be present in the learner's results.","subject_group_rule":"The learner must have the required number of additional subjects satisfying the specified rule.","placement_test_rule":"If a placement test applies to the learner, the learner's result must meet or exceed minimum_percentage.","progression_rule":"A progression requirement must be satisfied before the learner can enter the next level.","alternative_path_rule":"any_of means at least one eligibility path must be satisfied.","document_rule":"All documents marked required=true must be supplied before application submission.","application_submission_rule":"Application submission should be blocked when a required document is missing.","unknown_requirement_rule":"null or requirements_provided=false means the supplied source did not provide enough information to determine eligibility."},"programme_categories":{"ncv":{"id":"ncv","name":"NC(V)","qualification_level":"NQF Levels 2-4","programmes":[]},"occupational":{"id":"occupational","name":"Occupational Programmes","qualification_level":null,"programmes":[{"id":"occupational_cook_year_1","name":"COOK (YEAR 1)","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["cato_manor"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"Grade 12 or NQF L4 with Maths or Maths Literacy"}},{"id":"occupational_beauty_therapist_full_tme","name":"BEAUTY THERAPIST - - FULL TME","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["cato_manor"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"Grade 12 or NQF L4 with maths or maths literacy."}},{"id":"occupational_hairdresser_year_1","name":"HAIRDRESSER- YEAR 1","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["cato_manor"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_hairdresser_year_2","name":"HAIRDRESSER- YEAR 2","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["cato_manor"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"for this programme you must have completed the year 1 hairdressing course. NOTE: You will also be registered for the 1 year occupational skills programmes: hair cutting attendant and barber"}},{"id":"occupational_hairdresser_year_3","name":"HAIRDRESSER- YEAR 3","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["cato_manor"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"for this programme you must have completed the year 1 and year 2 of the hairdressing course."}},{"id":"occupational_bookkeeper","name":"BOOKKEEPER","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["centec"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"National Senior Certificate/Grade 12 or equivalent NQF L4 qualification with Mathematics, Accounting and Computer Applications technology (computer literacy). Interview and programme assessment."}},{"id":"occupational_retail_buyer_year_1","name":"RETAIL BUYER (YEAR 1)","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["centec"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"NQF L4 with minimum experience in business operations. Interview and programme assessment."}},{"id":"occupational_chef_year_1","name":"CHEF (YEAR 1)","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["centec"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"Any relevant completed NQF L4 in Hospitality, Grade 12 with: Consumer Studies/Home Economics/Hospitality Studies), basic culinary knowledge, cooking techniques/ evidence of prior culinary classes. Interview and assessment"}},{"id":"occupational_electrician_year_1","name":"ELECTRICIAN - (YEAR 1)","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["melbourne"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_computer_technician_year_1","name":"COMPUTER TECHNICIAN - - YEAR 1","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["melbourne"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_diesel_mechanic_year_1","name":"DIESEL MECHANIC (YEAR 1)","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["springfield"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"Passed Grade 12 with Mathematics/Technical Mathematics AND Physical Science/Technical Science"}},{"id":"occupational_supply_chain_practitioner","name":"SUPPLY CHAIN PRACTITIONER","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["umbilo"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"NQF Level 4 with Mathematical Literacy"}},{"id":"occupational_clearing_and_forwarding_agent_year_1","name":"CLEARING AND FORWARDING AGENT - (YEAR 1)","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["umbilo"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"National Senior Certificate OR Senior Certificate or NCV L4"}},{"id":"occupational_freight_handler_year_1","name":"FREIGHT HANDLER (YEAR 1)","category":"Occupational Programmes","levels":["3"],"description":"","careers":[],"campus_ids":["umbilo"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"National Senior Certificate OR Senior Certificate OR NCV L2"}},{"id":"occupational_transport_clerk_year_1","name":"TRANSPORT CLERK (YEAR 1)","category":"Occupational Programmes","levels":["4"],"description":"","careers":[],"campus_ids":["umbilo"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}}]},"report_191":{"id":"report_191","name":"Report 191","qualification_level":"N1-N3","programmes":[]}},"source":{"institution":"Thekwini TVET College","website":""},"subject_dictionary":{"mathematics":"Mathematics","english":"English","life_orientation":"Life Orientation","physical_science":"Physical Science","life_sciences":"Life Sciences","natural_sciences":"Natural Sciences","technology":"Technology"},"summary":{"campus_count":5,"ncv_programme_count":0,"occupational_programme_count":15,"report_191_programme_count":0,"total_known_programmes":15}}
+{
+  "institution": "Thekwini TVET College",
+  "province": "KwaZulu-Natal",
+  "source_files": ["THEKWINI TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 42,
+  "programmes": [
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cook Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Hospitality",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Cato Manor"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Mathematical Literacy", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Prerequisites: Grade 12 or NQF Level 4 with Mathematics or Mathematical Literacy."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Beauty Therapist Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Personal Care",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Cato Manor"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Mathematical Literacy", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Prerequisites: Grade 12 or NQF Level 4 with Mathematics or Mathematical Literacy."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Hairdresser Level 4",
+        "description": "A three-year full-time occupational certificate offered over Year 1, Year 2 and Year 3.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Centec"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "The source lists Year 1, Year 2 and Year 3: Year 2 requires completion of Year 1, and Year 3 requires completion of Year 1 and Year 2.",
+          "During Year 2 students are also registered for the one-year occupational skills programmes Hair Cutting Attendant and Barber."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Centec"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [
+            { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+            { "compulsory": true, "match": "any", "choices": [ { "name": "Accounting", "level": null, "percentage": null } ] },
+            { "compulsory": true, "match": "any", "choices": [ { "name": "Computer Applications Technology", "level": null, "percentage": null } ] }
+          ] },
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": [
+          "Prerequisites: National Senior Certificate / Grade 12 or an equivalent NQF Level 4 qualification with Mathematics, Accounting and Computer Applications Technology (computer literacy).",
+          "Interview and programme assessment required."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Retail Buyer Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Centec"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": [
+          "Prerequisites: NQF Level 4 with minimum experience in business operations.",
+          "Interview and programme assessment required."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Hospitality",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Centec"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Consumer Studies", "level": null, "percentage": null }, { "name": "Home Economics", "level": null, "percentage": null }, { "name": "Hospitality Studies", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": [
+          "Prerequisites: any relevant completed NQF Level 4 in Hospitality, or Grade 12 with Consumer Studies / Home Economics / Hospitality Studies.",
+          "Basic culinary knowledge and cooking techniques (or evidence of prior culinary classes) required.",
+          "Interview and assessment required."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Melbourne"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Computer Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Physical, Mathematical, Computer and Life Sciences",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Melbourne"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Diesel Mechanic Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Springfield"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [
+            { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Technical Mathematics", "level": null, "percentage": null } ] },
+            { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null }, { "name": "Technical Science", "level": null, "percentage": null } ] }
+          ] }
+        ],
+        "notes": ["Prerequisites: passed Grade 12 with Mathematics / Technical Mathematics AND Physical Science / Technical Science."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Supply Chain Practitioner Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Umbilo"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematical Literacy", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Prerequisite: NQF Level 4 with Mathematical Literacy."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Clearing and Forwarding Agent Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Transport and Logistics",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Umbilo"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Prerequisites: National Senior Certificate OR Senior Certificate OR NCV Level 4."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Freight Handler Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": "Transport and Logistics",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Umbilo"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 2, "subjects": [] }
+        ],
+        "notes": ["Prerequisites: National Senior Certificate OR Senior Certificate OR NCV Level 2."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Transport Clerk Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Transport and Logistics",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Umbilo"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Education and Development Level 2-4",
+        "description": "This qualification is designed to provide both the theory and practice of Education and Development, including a practical component of study which may be offered in a real work place environment.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Asherville"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [
+            { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": null } ] },
+            { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematical Literacy", "level": null, "percentage": null } ] }
+          ] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": ["An approved bridging programme to NQF Level 2 is also accepted."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Public Management N4-N6",
+        "description": "The Public Management course is offered at both full and part time.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Asherville"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2-4",
+        "description": "The National Certificate Vocational is a programme at each of the NQF levels of study and takes three years to complete the full (NQF L2/3/4) qualification.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Cato Manor"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Pre-Vocational Learning Programme",
+        "description": "A one-year foundational or bridging programme that bridges academic gaps and prepares the learner for entry into vocational or occupational programmes, covering Foundational English, Foundational Mathematics, Foundational Science and Foundational Life Skills.",
+        "saqa_code": null,
+        "type": "OTHER",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Cato Manor"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": "The National Certificate (Vocational) is a programme at each of the NQF levels of study and takes three years to complete the full (NQF L2/3/4) qualification.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Centec"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states the NCV admission requirements as: Grade 9 pass and Grade 12."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Travel and Tourism Level 2-4",
+        "description": "The National Certificate (Vocational) is a programme at each of the NQF levels of study and takes three years to complete the full (NQF L2/3/4) qualification.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Centec"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states the NCV admission requirements as: Grade 9 pass and Grade 12."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Financial Management N4-N6",
+        "description": "The diploma course is over three years - 18 months of tuition (6 months each for N4/N5/N6) and 18 months of on-the-job in-service training; N4-N6 semester courses begin in January and July.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Centec"],
+        "intake": ["January", "July"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Accounting", "level": null, "percentage": null } ] } ] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Admission requirements: NSC or N3 Certificate or Senior Certificate (Grade 12) with Accounting."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Hospitality and Catering Services N4-N6",
+        "description": "Report 191 course offered at Centec Campus.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Food and Hospitality Services",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Centec"],
+        "intake": ["January", "July"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "The source lists this under Report 191 at Centec Campus without stating levels; the N4-N6 diploma course details given in the same section are applied."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Travel and Tourism N4-N6",
+        "description": "The Travel and Tourism course is offered at both full and part time.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Travel and Tourism",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Centec"],
+        "intake": ["January", "July"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "The source lists this under Report 191 at Centec Campus without stating levels; the N4-N6 diploma course details given in the same section are applied."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "A Robotics specialisation is offered at Levels 2, 3 and 4 (Electronics and Digital Concepts for Robotics, Robotics Fundamentals, Introduction to Robotics, Robotics and Industrial Automation and Technical Programming)."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Civil Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Electrical Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Trade Test: Plumbing",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Trade Test: Electrical",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Trade Test: Hairdressing",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Skills Course: Bricklaying",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Skills Course: Plumbing",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Skills Course: Electrical",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Skills Course: Hairdressing",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Melbourne"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": "A vocationally orientated three-year full-time programme available at NQF Levels 2, 3 and 4, combining theory with in-service/on-the-job simulated practical training; each programme carries 130 credits.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 130,
+        "attendance": ["full-time"],
+        "campus": ["Springfield"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A year-end school report for Grade 9 or equivalent (NQF Level 1), or a Recognition of Prior Learning assessment.",
+          "An approved bridging programme to access NQF Level 2 is also accepted.",
+          "Applicants must be 16 years old in the first half of the year."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Public Relations Management N4-N6",
+        "description": "One semester (6 months) full-time per level, commencing January or July.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business and Social Studies",
+        "duration": { "value": 6, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Springfield"],
+        "intake": ["January", "July"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Minimum admission requirement: N3 / NSC / Senior Certificate / Grade 12 / NCV Level 4."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Marketing Management N4-N6",
+        "description": "Part-time only; one semester (6 months) per level, commencing January or July.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business and Social Studies",
+        "duration": { "value": 6, "unit": "months" },
+        "credits": null,
+        "attendance": ["part-time"],
+        "campus": ["Springfield"],
+        "intake": ["January", "July"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": [
+          "Minimum admission requirement: N3 / NSC / Senior Certificate / Grade 12 / NCV Level 4.",
+          "Source heading states part-time only while the duration line states full-time per level."
+        ]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Business Management N4-N6",
+        "description": "One semester per level, commencing January or July.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business and Social Studies",
+        "duration": { "value": 6, "unit": "months" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Springfield"],
+        "intake": ["January", "July"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Minimum admission requirement: N3 / NSC / Senior Certificate / Grade 12 / NCV Level 4."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National N Diploma: Mechanical Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Springfield"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Technical Certificate N1-N6",
+        "description": "Part-time Report 191 N courses; subjects offered depend on demand and are subject to viable class numbers.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "months" },
+        "credits": null,
+        "attendance": ["part-time"],
+        "campus": ["Springfield"],
+        "intake": ["January", "May", "August"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Wireman's Licence",
+        "description": "Candidates are prepared to sit for the Installation Rules (Paper 1 and Paper 2) examinations.",
+        "saqa_code": null,
+        "type": "OTHER",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Springfield"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Master Electrician",
+        "description": "Specialised Electrical Codes examinations are available.",
+        "saqa_code": null,
+        "type": "OTHER",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Springfield"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "Government Certificate of Competency",
+        "description": "The college is an examination centre for the Government Certificate of Competency (Government Ticket).",
+        "saqa_code": null,
+        "type": "OTHER",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Springfield"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Thekwini TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2-4",
+        "description": "A vocationally orientated programme available at NQF Levels 2, 3 and 4 with seven subjects per level, each programme carrying 130 credits.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": 130,
+        "attendance": ["full-time"],
+        "campus": ["Umbilo"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": 16, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Admission requirements: minimum Grade 9 pass and 16 years of age."]
+      }
+    }
+  ]
+}

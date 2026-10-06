@@ -1,1 +1,289 @@
-{"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}},"campuses":[{"id":"kroonstad","name":"Kroonstad","town":"","campus_manager":"","notes":[],"programmes":["ncv_civil_engineering","ncv_transport_and_logistics","ncv_electrical_infrastruction_and_construction"]},{"id":"sasolburg","name":"Sasolburg","town":"","campus_manager":"","notes":[],"programmes":["ncv_engineering_related_and_design_fitting","ncv_ncv_it_and_robotics","ncv_information_technology_and_computer_science_programming_and_robotics","ncv_ncv_electrical_infrastructure","ncv_ncv_eng_and_related_design","ncv_ncv_it_program_and_robotics","occupational_occupational_programme_cybersecurity","occupational_cyber_security_analyst","occupational_hairdresser_year_1_occupational_qualification","occupational_occupational_cources_boilermaker","occupational_occupational_courses_boilermaker","occupational_occupational_courses_career_development_officer","occupational_career_development_officer"]}],"institution":{"id":"908434d7-5019-41ea-9c08-9a1cc29920ec","name":"Flavius Mareka TVET College","short_name":"Flavius Mareka","slug":"flavius-mareka","province":"Free State","city":"Sasolburg","country":"South Africa","avatar":"","tel":"","email":"","fax":"","website":"","application_cycles":[{"cycle":"first_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"second_semester","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"},{"cycle":"late_application","intake_year":2027,"open_date":"2026-06-01","close_date":"2026-09-30"}],"logos":{},"application_process":{"required_certified_documents":[],"document_check":{"enabled":false,"check_before_submission":false,"block_application_if_required_document_missing":false},"application_tracking":{"available":false,"external":false,"name":"","url":""}}},"matching_rules":{"grade_rule":"learner_grade >= programme.minimum_grade","percentage_rule":"If minimum_percentage is not null, learner_percentage >= minimum_percentage.","required_subject_rule":"Every subject marked required=true must be present in the learner's results.","subject_group_rule":"The learner must have the required number of additional subjects satisfying the specified rule.","placement_test_rule":"If a placement test applies to the learner, the learner's result must meet or exceed minimum_percentage.","progression_rule":"A progression requirement must be satisfied before the learner can enter the next level.","alternative_path_rule":"any_of means at least one eligibility path must be satisfied.","document_rule":"All documents marked required=true must be supplied before application submission.","application_submission_rule":"Application submission should be blocked when a required document is missing.","unknown_requirement_rule":"null or requirements_provided=false means the supplied source did not provide enough information to determine eligibility."},"programme_categories":{"ncv":{"id":"ncv","name":"NC(V)","qualification_level":"NQF Levels 2-4","programmes":[{"id":"ncv_civil_engineering","name":"CIVIL ENGINEERING","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["kroonstad"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"PLP with 50% ENG + LO & 60% Maths + Science OR Grade 9 or 10 with 40% for English and 50% Maths NOT Maths Lit OR Grade 11 with 40% for English and 50% Maths OR FAILED Grade 12 with Maths"}},{"id":"ncv_transport_and_logistics","name":"TRANSPORT AND LOGISTICS","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["kroonstad"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"PLP with 50% ENG+ LO & 40% Maths + Science OR Grade 9 or 10 with 50% for English and Mathematics OR Grade 11 with 40% for English and Mathematics/Maths Literacy OR Failed Grade 12"}},{"id":"ncv_electrical_infrastruction_and_construction","name":"ELECTRICAL INFRASTRUCTION AND CONSTRUCTION","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["kroonstad"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"PLP with 50% ENG + LO & 60% Maths + Science OR Grade 9 or 10 with 40% for English and 50% Maths NOT Maths Lit OR Grade 11 with 40% for English and 50% Maths OR FAILED Grade 12 with Maths"}},{"id":"ncv_engineering_related_and_design_fitting","name":"ENGINEERING RELATED AND DESIGN (FITTING)","category":"NC(V)","levels":["2"],"description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"PLP with 50% ENG + LO & 60% Maths + Science OR Grade 9 or 10 with 40% for English and 50% Maths NOT Maths Lit OR Grade 11 with 40% for English and 50% Maths OR FAILED Grade 12 with Maths"}},{"id":"ncv_ncv_it_and_robotics","name":"NCV IT & ROBOTICS","category":"NC(V)","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_information_technology_and_computer_science_programming_and_robotics","name":"INFORMATION TECHNOLOGY & COMPUTER SCIENCE (PROGRAMMING & ROBOTICS)","category":"NC(V)","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"PLP with 50% ENG + LO & 60% Maths + Science OR Grade 9 or 10 with 40% for English and 50% Maths NOT Maths Lit OR Grade 11 with 40% for English and 50% Maths OR FAILED Grade 12 with Maths"}},{"id":"ncv_ncv_electrical_infrastructure","name":"NCV: ELECTRICAL INFRASTRUCTURE","category":"NC(V)","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_ncv_eng_and_related_design","name":"NCV: ENG & RELATED DESIGN","category":"NC(V)","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"ncv_ncv_it_program_and_robotics","name":"NCV: IT PROGRAM & ROBOTICS","category":"NC(V)","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}}]},"occupational":{"id":"occupational","name":"Occupational Programmes","qualification_level":null,"programmes":[{"id":"occupational_occupational_programme_cybersecurity","name":"Occupational Programme:: CyberSecurity","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_cyber_security_analyst","name":"CYBER SECURITY ANALYST","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":true,"raw":"Pass Grade 12 OR Pass NC(V) LEVEL 4"}},{"id":"occupational_hairdresser_year_1_occupational_qualification","name":"hAIRDRESSER YEAR 1 OCCUPATIONAL QUALIFICATION","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"years","value":1},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_occupational_cources_boilermaker","name":"OCCUPATIONAL COURCES - BOILERMAKER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_occupational_courses_boilermaker","name":"OCCUPATIONAL COURSES - BOILERMAKER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":true,"raw":"Pass Grade 12 with Mathematics OR Pass NC(V) Level 4 (ENGINERING)"}},{"id":"occupational_occupational_courses_career_development_officer","name":"OCCUPATIONAL COURSES - CAREER DEVELOPMENT OFFICER","category":"Occupational Programmes","description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":false}},{"id":"occupational_career_development_officer","name":"CAREER DEVELOPMENT OFFICER","category":"Occupational Programmes","levels":["5"],"description":"","careers":[],"campus_ids":["sasolburg"],"duration":{"unit":"months","value":36},"fee":null,"eligibility":{"requirements_provided":true,"raw":"Pass Grade 12 OR Pass NC(V) LEVEL 4"}}]},"report_191":{"id":"report_191","name":"Report 191","qualification_level":"N1-N3","programmes":[]}},"source":{"institution":"Flavius Mareka TVET College","website":""},"subject_dictionary":{"mathematics":"Mathematics","english":"English","life_orientation":"Life Orientation","physical_science":"Physical Science","life_sciences":"Life Sciences","natural_sciences":"Natural Sciences","technology":"Technology"},"summary":{"campus_count":2,"ncv_programme_count":9,"occupational_programme_count":7,"report_191_programme_count":0,"total_known_programmes":16}}
+{
+  "institution": "Flavius Mareka TVET College",
+  "province": "Free State",
+  "source_files": ["FLAVIUS MAREKA TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 9,
+  "programmes": [
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kroonstad Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kroonstad Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 40 }, { "name": "Mathematical Literacy", "level": null, "percentage": 40 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 40% for Mathematics and Science.", "A failed Grade 12 is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kroonstad Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted.", "Source places this course on the same application page as the Transport and Logistics listing (Kroonstad Campus)."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design (Fitting and Turning) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science (Programming and Robotics) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "plp", "accepted": true },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: PLP with 50% for English and Life Orientation and 60% for Mathematics and Science.", "Grade 9 or 10: 40% for English and 50% for Mathematics (Mathematical Literacy not accepted); Grade 11: 40% for English and 50% for Mathematics; a failed Grade 12 with Mathematics is also accepted."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cyber Security Analyst Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: pass Grade 12 or pass NC(V) Level 4."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Hairdresser",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Boilermaker",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: pass Grade 12 with Mathematics OR pass NC(V) Level 4 (Engineering)."]
+      }
+    },
+    {
+      "institution": "Flavius Mareka TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Career Development Officer Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sasolburg Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: pass Grade 12 or pass NC(V) Level 4."]
+      }
+    }
+  ]
+}

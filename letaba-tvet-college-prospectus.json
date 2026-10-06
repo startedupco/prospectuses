@@ -1,0 +1,433 @@
+{
+  "institution": "Letaba TVET College",
+  "province": "Limpopo",
+  "source_files": ["letcol tvet.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 17,
+  "programmes": [
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Generic Management Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Services",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Services",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: year-end school report for Grade 9 or an approved equivalent qualification."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National N Diploma: Business Management N4-N6",
+        "description": "Students are trained in Communication, Office Administration, Computer Skills, Sales Management, Public Relations, Accounting and Entrepreneurship to enable them to work in a business environment.",
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": { "value": 18, "unit": "months" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": 24, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] }
+        ],
+        "notes": ["Source states: Grade 12 certificate in the field of study with an APS Score of 24; OR NCV Level 4 in the relevant field as per the admission policy of the College; OR N4 Introductory Certificate in the relevant field.", "Students in possession of an N6 Certificate plus 18 months (2000 hours) relevant experience can apply for the National Diploma (NQF L6) in Business Management."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National N Diploma: Human Resource Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Grade 12 certificate in the relevant field of study."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National N Diploma: Management Assistant N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Grade 12 certificate in the relevant field of study."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National N Diploma: Marketing Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Grade 12 certificate in the relevant field of study."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate: Electrical Trade N1-N5",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: Grade 12 with Mathematics (passed).", "Source lists Electrical Trade N1-N3 and N1-N5 across the Maake and Giyani campus listings; the wider N1-N5 range is shown."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "National Certificate: Motor Trade N1-N3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 4,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: Grade 12 with Mathematics (passed)."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "Skills Programme: Artisan Development",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": "Skills",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "Skills Programme: Electrical Engineering",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": "Skills",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Letaba TVET College",
+      "programme": {
+        "name": "Skills Programme: Diesel Mechanic",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": null,
+        "faculty": "Skills",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Maake Campus", "Tzaneen Campus", "Giyani Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    }
+  ]
+}

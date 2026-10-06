@@ -1,0 +1,1497 @@
+{
+  "institution": "Ehlanzeni TVET College",
+  "province": "Mpumalanga",
+  "source_files": ["Ehlanzeni tvet.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 66,
+  "programmes": [
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": "The NC(V) in Civil Engineering and Building Construction develops practical construction skills alongside the theory needed to work on modern building sites, from planning and materials through to masonry or plumbing specialisations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 3",
+        "description": "The NC(V) in Civil Engineering and Building Construction develops practical construction skills alongside the theory needed to work on modern building sites, from planning and materials through to masonry or plumbing specialisations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 4",
+        "description": "The NC(V) in Civil Engineering and Building Construction develops practical construction skills alongside the theory needed to work on modern building sites, from planning and materials through to masonry or plumbing specialisations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": "The NC(V) in Electrical Infrastructure Construction prepares students for careers in electrical installation and infrastructure, combining classroom theory with hands-on workshop practice.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng", "Mlumati", "Mbombela", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3",
+        "description": "The NC(V) in Electrical Infrastructure Construction prepares students for careers in electrical installation and infrastructure, combining classroom theory with hands-on workshop practice.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng", "Mlumati", "Mbombela", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 4",
+        "description": "The NC(V) in Electrical Infrastructure Construction prepares students for careers in electrical installation and infrastructure, combining classroom theory with hands-on workshop practice.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng", "Mlumati", "Mbombela", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2",
+        "description": "The NC(V) in Engineering and Related Design builds mechanical engineering and design fundamentals, preparing students for artisan and technical pathways.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["KaNyamazane", "Mapulaneng", "Mashishing", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3",
+        "description": "The NC(V) in Engineering and Related Design builds mechanical engineering and design fundamentals, preparing students for artisan and technical pathways.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["KaNyamazane", "Mapulaneng", "Mashishing", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4",
+        "description": "The NC(V) in Engineering and Related Design builds mechanical engineering and design fundamentals, preparing students for artisan and technical pathways.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["KaNyamazane", "Mapulaneng", "Mashishing", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2",
+        "description": "The NC(V) in Finance, Economics and Accounting develops financial literacy, accounting practice and economic understanding for careers in finance and administration.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati", "Mbombela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 3",
+        "description": "The NC(V) in Finance, Economics and Accounting develops financial literacy, accounting practice and economic understanding for careers in finance and administration.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati", "Mbombela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 4",
+        "description": "The NC(V) in Finance, Economics and Accounting develops financial literacy, accounting practice and economic understanding for careers in finance and administration.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati", "Mbombela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration and Management Level 2",
+        "description": "The NC(V) in Office Administration prepares students to run modern offices, administration, business practice and computer skills for the workplace.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "Mlumati", "Mbombela", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration and Management Level 3",
+        "description": "The NC(V) in Office Administration prepares students to run modern offices, administration, business practice and computer skills for the workplace.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "Mlumati", "Mbombela", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration and Management Level 4",
+        "description": "The NC(V) in Office Administration prepares students to run modern offices, administration, business practice and computer skills for the workplace.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "Mlumati", "Mbombela", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2",
+        "description": "The NC(V) in Information Technology and Computer Science covers computer skills, systems and software fundamentals for careers in the digital economy.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 3",
+        "description": "The NC(V) in Information Technology and Computer Science covers computer skills, systems and software fundamentals for careers in the digital economy.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 4",
+        "description": "The NC(V) in Information Technology and Computer Science covers computer skills, systems and software fundamentals for careers in the digital economy.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2",
+        "description": "The NC(V) in Hospitality prepares students for careers in the hospitality and catering industry, combining practical service training with the theory behind running hospitality operations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 3",
+        "description": "The NC(V) in Hospitality prepares students for careers in the hospitality and catering industry, combining practical service training with the theory behind running hospitality operations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 4",
+        "description": "The NC(V) in Hospitality prepares students for careers in the hospitality and catering industry, combining practical service training with the theory behind running hospitality operations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2",
+        "description": "The NC(V) in Tourism develops the knowledge and practical skills needed to work in South Africa's tourism sector, from destination knowledge to customer service and tourism operations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 3",
+        "description": "The NC(V) in Tourism develops the knowledge and practical skills needed to work in South Africa's tourism sector, from destination knowledge to customer service and tourism operations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 4",
+        "description": "The NC(V) in Tourism develops the knowledge and practical skills needed to work in South Africa's tourism sector, from destination knowledge to customer service and tourism operations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "description": "The NC(V) in Primary Agriculture builds practical agricultural skills for careers in farming and agribusiness. It is offered at Mthimba Campus, the college's agriculture-focused campus.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mthimba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null }
+        ],
+        "notes": ["Level 2: Grade 9 year-end results with Mathematics passed, or an NQF Level 1 qualification, plus the placement assessment."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 3",
+        "description": "The NC(V) in Primary Agriculture builds practical agricultural skills for careers in farming and agribusiness. It is offered at Mthimba Campus, the college's agriculture-focused campus.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mthimba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["Level 3: NQF Level 2 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 4",
+        "description": "The NC(V) in Primary Agriculture builds practical agricultural skills for careers in farming and agribusiness. It is offered at Mthimba Campus, the college's agriculture-focused campus.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mthimba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["Level 4: NQF Level 3 in the same programme."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Full Qualification: Solar Photovoltaic Technician",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Renewable Energy and Green Economy",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Part Qualification: Solar Standalone Photovoltaic Technician",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 5,
+        "faculty": "Renewable Energy and Green Economy",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Part Qualification: Solar Photovoltaic Standalone System Mounter",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": "Renewable Energy and Green Economy",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Part Qualification: Solar Photovoltaic Standalone Systems Installer",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": "Renewable Energy and Green Economy",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Occupational Skills Programme: Renewable Energy Workshop Assistant",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": "Renewable Energy and Green Economy",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Occupational Skills Programme: Work Place Preparation",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 2,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Barberton", "KaNyamazane", "Mashishing", "Mapulaneng", "Mlumati", "Mthimba", "Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Occupational Skills Programme: Workplace Essential Skills",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Barberton", "KaNyamazane", "Mashishing", "Mapulaneng", "Mlumati", "Mthimba", "Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Certificate: Accounting Technician",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Includes Public Sector and Local Government specialisations."
+        ]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "FET Certificate: Accounting Technician",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Includes Public Sector and Local Government specialisations."
+        ]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Certificate: Accounting",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": [
+          "Entry requirements not specified in the college source - standard national TVET minimum shown.",
+          "Includes Public Sector and Local Government specialisations."
+        ]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Certificate: Local Government Accounting",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Management Assistant",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Mlumati", "Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "FET Certificate: Local Government Accounting",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Bookkeeper",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Mashishing", "Mapulaneng", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Retail Buyer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Mashishing"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Retail Supervisor",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Mashishing"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Occupational Skills Programme: New Venture",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 2,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Barberton", "Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Project Manager",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Occupational Skills Programme: General Residential Repairer",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 3,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Office Administrator",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "Mapulaneng", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Marketing Coordinator",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business, Commerce and Management",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "Mapulaneng", "Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Electrician",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering and Manufacturing",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Mlumati", "Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Fitter and Turner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering and Manufacturing",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "KaNyamazane"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Battery Based Domestic Energy",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering and Manufacturing",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Welder",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering and Manufacturing",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "KaNyamazane"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Occupational Skills Programme: Coded Welding",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 4,
+        "faculty": "Engineering and Manufacturing",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "KaNyamazane"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Occupational Skills Programme: Shielded Metal Arc Welder",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 2,
+        "faculty": "Engineering and Manufacturing",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "KaNyamazane"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Part Qualification: Dispatching and Receiving",
+        "description": null,
+        "saqa_code": null,
+        "type": "SKILLS",
+        "nqf_level": 3,
+        "faculty": "Transport and Logistics",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Transport Clerk",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Transport and Logistics",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Early Childhood Development Practitioner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Health and Community Service",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Nelspruit", "Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Chef",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Hospitality and Tourism",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mapulaneng"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Tourism Information Officer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Hospitality and Tourism",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashishing", "Mapulaneng", "Barberton"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Artificial Intelligence Software Developer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Information and Communication Technology (ICT)",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Cybersecurity Analyst",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Information and Communication Technology (ICT)",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Computer Technician",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Information and Communication Technology (ICT)",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mlumati"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Poultry Farmer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Agriculture and Environment",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mthimba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Gardener Worker",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 2,
+        "faculty": "Agriculture and Environment",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mthimba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Livestock Farmer (Livestock Farm Supervisor)",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": "Agriculture and Environment",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mthimba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Ehlanzeni TVET College",
+      "programme": {
+        "name": "Nursery Person (Nursery Supervisor)",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": "Agriculture and Environment",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mthimba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    }
+  ]
+}

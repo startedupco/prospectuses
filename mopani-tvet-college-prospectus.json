@@ -1,392 +1,1371 @@
 {
   "institution": "Mopani TVET College",
-  "year": 2027,
   "province": "Limpopo",
-  "campuses": {
-    "Phalaborwa": {
-      "location": "Phalaborwa, Limpopo",
-      "qualification_type": "NCV",
-      "registration_type": "Full Time",
-      "duration_per_level": "1 Year",
-      "courses": [
-        {
-          "course_name": "Hospitality",
-          "course_id": "ncv-hospitality-phalaborwa",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Grade 10, 11 or 12 with admission to Higher Certificate",
-              "target_audience": "New students with Grade 10+"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Level 2 Hospitality Required",
-              "target_audience": "Students who passed Hospitality L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Level 3 Hospitality Required",
-              "target_audience": "Students who passed Hospitality L3"
-            }
-          }
-        },
-        {
-          "course_name": "Tourism",
-          "course_id": "ncv-tourism-phalaborwa",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Grade 10, 11 or 12 with admission to Higher Certificate",
-              "target_audience": "New students with Grade 10+"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Level 2 Tourism Required",
-              "target_audience": "Students who passed Tourism L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Level 3 Tourism Required",
-              "target_audience": "Students who passed Tourism L3"
-            }
-          }
-        },
-        {
-          "course_name": "Generic Management",
-          "course_id": "ncv-generic-management-phalaborwa",
-          "levels": {
-            "L2": {
-              "available": false,
-              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Level 2 Generic Management Required",
-              "target_audience": "Students who passed Generic Management L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Level 3 Generic Management Required",
-              "target_audience": "Students who passed Generic Management L3"
-            }
-          }
-        },
-        {
-          "course_name": "Finance, Economics & Accounting",
-          "course_id": "ncv-finance-accounting-phalaborwa",
-          "levels": {
-            "L2": {
-              "available": false,
-              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Level 2 Finance Required",
-              "target_audience": "Students who passed Finance L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Level 3 Finance Required",
-              "target_audience": "Students who passed Finance L3"
-            }
-          }
-        },
-        {
-          "course_name": "Marketing",
-          "course_id": "ncv-marketing-phalaborwa",
-          "levels": {
-            "L2": {
-              "available": false,
-              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Level 2 Marketing Required",
-              "target_audience": "Students who passed Marketing L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Level 3 Marketing Required",
-              "target_audience": "Students who passed Marketing L3"
-            }
-          }
-        },
-        {
-          "course_name": "Office Administration",
-          "course_id": "ncv-office-administration-phalaborwa",
-          "levels": {
-            "L2": {
-              "available": false,
-              "note": "No L2 entry available at this campus. Requires prior L2 from elsewhere."
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Level 2 Office Administration Required",
-              "target_audience": "Students who passed Office Admin L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Level 3 Office Administration Required",
-              "target_audience": "Students who passed Office Admin L3"
-            }
-          }
-        }
-      ],
-      "note": "Only Hospitality and Tourism offer L2 entry for new students at Phalaborwa Campus."
+  "source_files": ["Mopani TVET College.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 39,
+  "programmes": [
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Hairdressing",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
     },
-    "Sir_Val_Duncan": {
-      "location": "Sir Val Duncan Campus, Limpopo",
-      "qualification_type": "NCV",
-      "registration_type": "Full Time",
-      "duration_per_level": "1 Year",
-      "courses": [
-        {
-          "course_name": "Engineering Related & Design (Automotive)",
-          "course_id": "ncv-engineering-automotive-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 Automotive",
-              "target_audience": "Students who passed Automotive L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 Automotive",
-              "target_audience": "Students who passed Automotive L3"
-            }
-          }
-        },
-        {
-          "course_name": "Civil Engineering & Building Construction (Carpentry)",
-          "course_id": "ncv-carpentry-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 Carpentry",
-              "target_audience": "Students who passed Carpentry L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 Carpentry",
-              "target_audience": "Students who passed Carpentry L3"
-            }
-          }
-        },
-        {
-          "course_name": "Electrical Infrastructure Construction (Electrical)",
-          "course_id": "ncv-electrical-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 Electrical",
-              "target_audience": "Students who passed Electrical L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 Electrical",
-              "target_audience": "Students who passed Electrical L3"
-            }
-          }
-        },
-        {
-          "course_name": "Engineering Related & Design (Fabrication)",
-          "course_id": "ncv-fabrication-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 Fabrication",
-              "target_audience": "Students who passed Fabrication L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 Fabrication",
-              "target_audience": "Students who passed Fabrication L3"
-            }
-          }
-        },
-        {
-          "course_name": "Engineering Related & Design (Fitting and Turning)",
-          "course_id": "ncv-fitting-turning-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 Fitting and Turning",
-              "target_audience": "Students who passed Fitting and Turning L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 Fitting and Turning",
-              "target_audience": "Students who passed Fitting and Turning L3"
-            }
-          }
-        },
-        {
-          "course_name": "Information Technology & Computer Science",
-          "course_id": "ncv-information-technology-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 IT",
-              "target_audience": "Students who passed IT L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 IT",
-              "target_audience": "Students who passed IT L3"
-            }
-          }
-        },
-        {
-          "course_name": "Civil Engineering & Building Construction (Masonry)",
-          "course_id": "ncv-masonry-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 Masonry",
-              "target_audience": "Students who passed Masonry L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 Masonry",
-              "target_audience": "Students who passed Masonry L3"
-            }
-          }
-        },
-        {
-          "course_name": "Civil Engineering & Building Construction (Plumbing)",
-          "course_id": "ncv-plumbing-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Level 2 Plumbing",
-              "target_audience": "Students who passed Plumbing L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Level 3 Plumbing",
-              "target_audience": "Students who passed Plumbing L3"
-            }
-          }
-        },
-        {
-          "course_name": "Electrical Renewable Technologies",
-          "course_id": "ncv-renewable-technologies-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths, Physical Science & English",
-              "target_audience": "New students with Grade 9+ and Science"
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Electrical Infrastructure Construction L2",
-              "target_audience": "Students who passed Electrical L2",
-              "note": "Progression from Electrical Infrastructure Construction L2 is required."
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Electrical Infrastructure Construction L3",
-              "target_audience": "Students who passed Electrical L3",
-              "note": "Progression from Electrical Infrastructure Construction L3 is required."
-            }
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Accounting", "level": null, "percentage": null },
+                  { "name": "Bookkeeping", "level": null, "percentage": null },
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
           },
-          "note": "Renewable Technologies is a specialization within Electrical Infrastructure Construction."
-        },
-        {
-          "course_name": "IT & Computer Science (Programming & Robotics)",
-          "course_id": "ncv-robotics-sirvalduncan",
-          "levels": {
-            "L2": {
-              "available": true,
-              "entry_requirement": "Passed Grade 9, 10, 11 or 12 with Maths and English",
-              "target_audience": "New students with Grade 9+",
-              "note": "Physical Science is NOT required for this course."
-            },
-            "L3": {
-              "available": true,
-              "entry_requirement": "Passed Information Technology (Robotics) L2",
-              "target_audience": "Students who passed Robotics L2"
-            },
-            "L4": {
-              "available": true,
-              "entry_requirement": "Passed Information Technology (Robotics) L3",
-              "target_audience": "Students who passed Robotics L3"
-            }
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": ["An equivalent qualification to NQF Level 4 is also accepted."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Supply Chain Practitioner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [ { "name": "Mathematical Literacy", "level": null, "percentage": null } ]
+              }
+            ]
           },
-          "note": "This is the only engineering/IT course at Sir Val Duncan that does NOT require Physical Science."
-        }
-      ],
-      "note": "All L2 engineering/trade courses require Grade 9+ with Maths, Physical Science & English."
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [ { "name": "Communication (English)", "level": null, "percentage": null } ]
+              }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Tourism Information Officer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [ { "name": "Communication (English)", "level": null, "percentage": null } ]
+              }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [ { "name": "Communication (English)", "level": null, "percentage": null } ]
+              }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null },
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Pipe Fitter",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 1, "field": null },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumber",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null },
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Building Drawing", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": ["A Grade 11 pass must be equivalent to N2 knowledge areas in engineering mathematics, science and building drawing."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Fitter and Turner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Boilermaker",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Diesel Mechanic",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Photovoltaic Standalone Installer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Carpenter",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Phalaborwa Campus", "Hoedspruit Satellite Centre", "Mošate Hotel School"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 2, "field": null },
+          {
+            "type": "grade",
+            "level": 10,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematical Literacy", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true }
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cook",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Hoedspruit Satellite Centre", "Mošate Hotel School"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An AET Grade 9 statement with a 50% pass in English First Additional Language is also accepted.",
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of the Grade 9 subjects plus English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An AET Grade 9 statement with a 50% pass in English First Additional Language is also accepted.",
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of the Grade 9 subjects plus English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An AET Grade 9 statement with a 50% pass in English First Additional Language is also accepted.",
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of the Grade 9 subjects plus English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An AET Grade 9 statement with a 50% pass in English First Additional Language is also accepted.",
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of the Grade 9 subjects plus English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An AET Grade 9 statement with a 50% pass in English First Additional Language is also accepted.",
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of the Grade 9 subjects plus English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of six Grade 9 subjects, inclusive of Mathematics/Mathematical Literacy, Technical Mathematics, and English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of six Grade 9 subjects, inclusive of Mathematics/Mathematical Literacy, Technical Mathematics, and English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of six Grade 9 subjects, inclusive of Mathematics/Mathematical Literacy, Technical Mathematics, and English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of six Grade 9 subjects, inclusive of Mathematics/Mathematical Literacy, Technical Mathematics, and English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science (Programming and Robotics) Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "plp",
+            "accepted": true,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Life Orientation", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 60 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Fundamental Science", "level": null, "percentage": 60 } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 50 }, { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          {
+            "type": "abet",
+            "level": 4,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 50 }, { "name": "Mathematical Literacy", "level": null, "percentage": 50 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English First Additional Language", "level": null, "percentage": 50 } ] }
+            ]
+          },
+          { "type": "rpl", "accepted": true },
+          { "type": "grade", "level": 9, "aps": 24, "subjects": [] }
+        ],
+        "notes": [
+          "An equivalent occupational qualification is also accepted.",
+          "The APS score of 24 is calculated using the best of six Grade 9 subjects, inclusive of Mathematics/Mathematical Literacy, Technical Mathematics, and English.",
+          "Enrolment schedule: January."
+        ]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Business Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Financial Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Management Assistant N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Human Resource Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Public Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Tourism N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Phalaborwa Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Electrical Engineering Heavy Current N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Mechanical Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "National N Diploma: Civil Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Mopani TVET College",
+      "programme": {
+        "name": "Pre-Vocational Learning Programme",
+        "description": "A programme designed to address deficiencies in general foundational learning and prepare students for access to TVET.",
+        "saqa_code": null,
+        "type": "OTHER",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Sir Val Duncan Campus"],
+        "intake": ["January"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Applicants must have passed Grade 9 but not meet the entry level requirements for NC(V) programmes."]
+      }
     }
-  },
-  "summary": {
-    "total_unique_courses": 16,
-    "phases": {
-      "Phalaborwa_Campus": 6,
-      "Sir_Val_Duncan_Campus": 10
-    },
-    "levels_offered": {
-      "L2_available": [
-        "Hospitality",
-        "Tourism",
-        "Automotive",
-        "Carpentry",
-        "Electrical",
-        "Fabrication",
-        "Fitting and Turning",
-        "Information Technology",
-        "Masonry",
-        "Plumbing",
-        "Renewable Technologies",
-        "Robotics"
-      ],
-      "L2_not_available_requires_prior_study": [
-        "Generic Management",
-        "Finance, Economics & Accounting",
-        "Marketing",
-        "Office Administration"
-      ]
-    },
-    "note": "Phalaborwa Campus only offers L2 entry for Hospitality and Tourism. All other Phalaborwa courses require prior L2 from elsewhere. Sir Val Duncan Campus offers L2 entry for all engineering/trade/IT courses."
-  }
+  ]
 }

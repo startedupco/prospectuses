@@ -1,0 +1,1526 @@
+{
+  "institution": "Nkangala TVET College",
+  "province": "Mpumalanga",
+  "source_files": ["Nkangala TVET College.txt", "We offer the following NCV Programm.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 45,
+  "programmes": [
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": "A programme at each of Levels 2, 3 and 4 of the NQF covering the theory and practice of Office Administration.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["CN Mahlangu", "Middelburg", "Witbank", "CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2-4",
+        "description": "A programme designed to provide both the theory and practice of Transport and Logistics.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Witbank"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2-4",
+        "description": "A programme at each of Levels 2, 3 and 4 of the NQF covering the theory and practice of Finance, Economics and Accounting.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["CN Mahlangu", "Middelburg", "Witbank", "CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2-4",
+        "description": "A programme covering IT concepts from computer hardware and software to systems development and networking.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Witbank", "CS Barlow", "CN Phatudi"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science (Programming and Robotics) Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Witbank"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2-4",
+        "description": "A programme at each of Levels 2, 3 and 4 of the NQF covering the theory and practice of Hospitality.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Witbank", "Waterval Boven"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": "A comprehensive programme covering theory and practical components of Electrical Infrastructure Construction.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Mpondozankomo", "Witbank", "CS Barlow", "CN Phatudi"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2-4",
+        "description": "A comprehensive programme covering theory and practical components of Civil Engineering and Building Construction.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": "A programme designed to provide both theory and practical experience in the field of engineering.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time", "part-time"],
+        "campus": ["Mpondozankomo", "Witbank", "CS Barlow", "CN Phatudi"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Management Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire.",
+          "CS Barlow and CN Phatudi campuses: Level 2 Business Studies requires a passed Grade 11 report and Level 2 Engineering Studies a Grade 11 report with Mathematics; Level 3 requires passing Level 2 with at least 5 subjects; Level 4 requires passing Level 2 in all 7 subjects and Level 3 with at least 5 subjects."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Waterval Boven"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Process Instrumentation Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Witbank"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true },
+          { "type": "rpl", "accepted": true }
+        ],
+        "notes": [
+          "A candidate may only register two consecutive levels in an academic year.",
+          "Prospective students must complete a placement questionnaire."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Financial Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] }
+        ],
+        "notes": [
+          "N4 entry requires a National Senior Certificate; N5 requires N4 or an equivalent qualification; N6 requires N5 or an equivalent qualification.",
+          "New students must enrol for all four subjects in the particular field.",
+          "Students must complete the required working hours before a National N Diploma is issued: 18 months / 2000 hours for semester programmes and 24 months / 2670 hours for trimester programmes.",
+          "Course duration is a semester per level at CS Barlow Campus (January-June, July-November) and a trimester per level at CN Phatudi Campus (January-April, May-August, September-November).",
+          "Also available as distance education."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Human Resource Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] }
+        ],
+        "notes": [
+          "N4 entry requires a National Senior Certificate; N5 requires N4 or an equivalent qualification; N6 requires N5 or an equivalent qualification.",
+          "New students must enrol for all four subjects in the particular field.",
+          "Students must complete the required working hours before a National N Diploma is issued: 18 months / 2000 hours for semester programmes and 24 months / 2670 hours for trimester programmes.",
+          "Course duration is a semester per level at CS Barlow Campus (January-June, July-November) and a trimester per level at CN Phatudi Campus (January-April, May-August, September-November).",
+          "Also available as distance education."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Marketing Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] }
+        ],
+        "notes": [
+          "N4 entry requires a National Senior Certificate; N5 requires N4 or an equivalent qualification; N6 requires N5 or an equivalent qualification.",
+          "New students must enrol for all four subjects in the particular field.",
+          "Students must complete the required working hours before a National N Diploma is issued: 18 months / 2000 hours for semester programmes and 24 months / 2670 hours for trimester programmes.",
+          "Course duration is a semester per level at CS Barlow Campus (January-June, July-November) and a trimester per level at CN Phatudi Campus (January-April, May-August, September-November).",
+          "Also available as distance education."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Assistant Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] }
+        ],
+        "notes": [
+          "N4 entry requires a National Senior Certificate; N5 requires N4 or an equivalent qualification; N6 requires N5 or an equivalent qualification.",
+          "New students must enrol for all four subjects in the particular field.",
+          "Students must complete the required working hours before a National N Diploma is issued: 18 months / 2000 hours for semester programmes and 24 months / 2670 hours for trimester programmes.",
+          "Course duration is a semester per level (January-June, July-November).",
+          "Also available as distance education."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Civil Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null },
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "N4 entry requires N3 or a Technical Senior Certificate; N5 requires N4 or an equivalent qualification; N6 requires N5 or an equivalent qualification.",
+          "Source also states an N1 entry requirement for Civil: Grade 12 with either a fail in Mathematics or a pass in Mathematical Literacy.",
+          "New students must enrol for all four subjects in the particular field.",
+          "Students must complete the required working hours before a National N Diploma is issued: 18 months / 2000 hours for semester programmes and 24 months / 2670 hours for trimester programmes.",
+          "Course duration is a semester per level (January-June, July-November).",
+          "Also available as distance education."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Electrical Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null },
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "N4 entry requires N3 or a Technical Senior Certificate; N5 requires N4 or an equivalent qualification; N6 requires N5 or an equivalent qualification.",
+          "Source also states an N1 entry requirement for Electrical and Mechanical: Grade 12 with a pass in Mathematics.",
+          "New students must enrol for all four subjects in the particular field.",
+          "Students must complete the required working hours before a National N Diploma is issued: 18 months / 2000 hours for semester programmes and 24 months / 2670 hours for trimester programmes.",
+          "Course duration is a semester per level at CS Barlow Campus (January-June, July-November) and a trimester per level at CN Phatudi Campus (January-April, May-August, September-November).",
+          "Also available as distance education."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Mechanical Engineering N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nated", "level": "N3", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [
+                  { "name": "Mathematics", "level": null, "percentage": null },
+                  { "name": "Mathematical Literacy", "level": null, "percentage": null }
+                ]
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "N4 entry requires N3 or a Technical Senior Certificate; N5 requires N4 or an equivalent qualification; N6 requires N5 or an equivalent qualification.",
+          "Source also states an N1 entry requirement for Electrical and Mechanical: Grade 12 with a pass in Mathematics.",
+          "New students must enrol for all four subjects in the particular field.",
+          "Students must complete the required working hours before a National N Diploma is issued: 18 months / 2000 hours for semester programmes and 24 months / 2670 hours for trimester programmes.",
+          "Course duration is a semester per level at CS Barlow Campus (January-June, July-November) and a trimester per level at CN Phatudi Campus (January-April, May-August, September-November).",
+          "Also available as distance education."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Boiler Making and Fitting N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "National N Diploma: Hospitality N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 5,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Pre-Vocational Learning Programme (PLP)",
+        "description": null,
+        "saqa_code": null,
+        "type": "OTHER",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 9, "aps": null, "subjects": [] }],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumber Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Boilermaker",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["CN Mahlangu", "Witbank"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Automotive Motor Mechanics Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu", "Middelburg"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu", "Middelburg", "Witbank"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Millwright",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 4, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Middelburg", "Witbank"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Fitter and Turner",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 4, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Middelburg", "Witbank"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Mechanical Fitter Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Middelburg", "Witbank"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Turner and Welder",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Witbank"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu", "Middelburg", "CS Barlow", "CN Phatudi"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "CS Barlow and CN Phatudi campuses require a Grade 10 school year-end report or higher.",
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Carpenter Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bookkeeper Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu", "Middelburg"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Hairdresser Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 36, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Middelburg", "CS Barlow", "CN Phatudi"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "CS Barlow and CN Phatudi campuses require a Grade 10 school year-end report or higher.",
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Computer Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu", "Middelburg"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Project Manager Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu", "Middelburg"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["CN Mahlangu", "Middelburg"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Conference and Events Organiser Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Waterval Boven"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Waterval Boven"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Tourist Information Officer",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Waterval Boven"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Travel Professional",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 24, "unit": "months" },
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Waterval Boven"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Physical Sciences", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": [
+          "Some programmes may require specific subjects such as Mathematics, Physical Science or Technical Drawing.",
+          "All occupational programmes fall under the Skill Development Provider (SDP) accreditation of the QCTO."
+        ]
+      }
+    },
+    {
+      "institution": "Nkangala TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Beauty Therapist",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["CS Barlow", "CN Phatudi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [{ "type": "grade", "level": 10, "aps": null, "subjects": [] }]
+      }
+    }
+  ]
+}

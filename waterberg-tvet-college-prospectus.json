@@ -1,213 +1,345 @@
-[
-  {
-    "id": "occupational-chef",
-    "name": "Occupational Certificate: Chef",
-    "entry_requirement": {
-      "min_grade": 10,
-      "max_grade": 12,
-      "subjects": [
-        {
-          "subject": ["Hospitality", "Consumer Studies"],
-          "minimum_percent": 40
-        },
-        {
-          "subject": ["Mathematics", "Mathematical Literacy"],
-          "minimum_percent": 40
-        },
-        {
-          "subject": ["English"],
-          "minimum_percent": 50
-        }
-      ]
+{
+  "institution": "Waterberg TVET College",
+  "province": "Limpopo",
+  "source_files": ["waterbergcollege.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 14,
+  "programmes": [
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this course under Thabazimbi Campus and under the Engineering and Skills Training Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design (Fitter and Turner) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Thabazimbi Campus"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source states: offered at Thabazimbi Campus only."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Thabazimbi Campus"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Diesel Mechanic Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists this course under Thabazimbi Campus and under the Engineering and Skills Training Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the IT and Computer Science Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the IT and Computer Science Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the IT and Computer Science Centre; source also states ITC only."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the IT and Computer Science Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction (Masonry) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the Engineering and Skills Training Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction (Plumbing) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the Engineering and Skills Training Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Robotics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the Engineering and Skills Training Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the Engineering and Skills Training Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Health Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the Business Studies Centre."]
+      }
+    },
+    {
+      "institution": "Waterberg TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source groups this under the Business Studies Centre."]
+      }
     }
-  },
-  {
-    "id": "occupational-ecd-practitioner",
-    "name": "Occupational Certificate: Early Childhood Development Practitioner",
-    "entry_requirement": {
-      "min_grade": 9,
-      "max_grade": 11,
-      "subjects": [
-        {
-          "subject": ["English"],
-          "minimum_percent": 40
-        },
-        {
-          "subject": ["Mathematics", "Mathematical Literacy"],
-          "minimum_percent": 40
-        }
-      ],
-      "notes": [
-        "No NCV Level 4 students allowed to apply."
-      ]
-    }
-  },
-  {
-    "id": "ncv-primary-health-l2",
-    "name": "National Certificate Vocational: Primary Health Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Life Sciences"],
-          "required": true
-        },
-        {
-          "subject": ["Physical Science", "Natural Science"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-safety-in-society-l2",
-    "name": "National Certificate Vocational: Safety in Society Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Physical Sciences", "Natural Science"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-civil-engineering-building-construction-masonry-l2",
-    "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2 (Masonry)",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-civil-engineering-building-construction-plumbing-l2",
-    "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2 (Plumbing)",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-electrical-infrastructure-construction-l2",
-    "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-it-computer-science-robotics-l2",
-    "name": "National Certificate Vocational: Information Technology and Computer Science (Robotics) Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        },
-        {
-          "subject": ["Physical Science", "Natural Science", "CAT"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-it-computer-science-software-development-design-l2",
-    "name": "National Certificate Vocational: Information Technology and Computer Science (Software Development and Design) Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        },
-        {
-          "subject": ["Physical Science", "Natural Science", "CAT"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-primary-agriculture-mathlit-l2",
-    "name": "National Certificate Vocational: Primary Agriculture Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematical Literacy"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-primary-agriculture-maths-l2",
-    "name": "National Certificate Vocational: Primary Agriculture Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-tourism-l2",
-    "name": "National Certificate Vocational: Tourism Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Tourism", "Geography"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-electrical-infrastructure-construction-l2-thabazimbi",
-    "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        }
-      ]
-    }
-  },
-  {
-    "id": "ncv-engineering-related-design-fitting-turning-l2",
-    "name": "National Certificate Vocational: Engineering and Related Design (Fitting and Turning) Level 2",
-    "entry_requirement": {
-      "min_grade": 9,
-      "subjects": [
-        {
-          "subject": ["Mathematics"],
-          "required": true
-        }
-      ]
-    }
-  }
-]
+  ]
+}

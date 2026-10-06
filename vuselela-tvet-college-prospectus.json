@@ -1,0 +1,962 @@
+{
+  "institution": "Vuselela TVET College",
+  "province": "North West",
+  "source_files": ["vuselela tvet.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 30,
+  "programmes": [
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Jouberton Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "abet", "level": 4, "subjects": [] },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["Source states: a year-end school report for Grade 9, preferably Grade 10, 11 or Grade 12 with Mathematics or Technical Mathematics; OR AET Level 4; OR PLP Level 1."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Jouberton Campus", "Potchefstroom Campus", "Taung Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "abet", "level": 4, "subjects": [] },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["Source states: a year-end school report for Grade 9, preferably Grade 10, 11 or Grade 12 with Mathematics or Technical Mathematics; OR AET Level 4; OR PLP Level 1."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Jouberton Campus", "Potchefstroom Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "abet", "level": 4, "subjects": [] },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["Source states: a year-end school report for Grade 9, preferably Grade 10, 11 or Grade 12 with Mathematics or Technical Mathematics; OR AET Level 4; OR PLP Level 1."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Taung Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "abet", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: a year-end school report for Grade 9, preferably Grade 10, 11 or Grade 12 with Mathematics or Technical Mathematics; OR AET Level 4."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science (Software Design and Development) Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Jouberton Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "abet", "level": 4, "subjects": [] },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["Source states: a year-end school report for Grade 9, preferably Grade 10, 11 or Grade 12 with Mathematics or Technical Mathematics; OR AET Level 4; OR PLP Level 1."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science (Programming and Robotics) Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Jouberton Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "abet", "level": 4, "subjects": [] },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["Source states: a year-end school report for Grade 9, preferably Grade 10, 11 or Grade 12 with Mathematics or Technical Mathematics; OR AET Level 4; OR PLP Level 1."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Practitioner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus", "Potchefstroom Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "ncv", "level": 3, "subjects": [] },
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "grade", "level": 11, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: passed NCV at NQF Level 3, OR any other NQF Level 3 qualification, OR passed Grade 11."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Cook Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Taung Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": "Kitchen Hand" },
+          { "type": "ncv", "level": 3, "subjects": [] },
+          {
+            "type": "grade",
+            "level": 11,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Consumer Studies", "level": null, "percentage": null }, { "name": "Hospitality Studies", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: passed NQF Level 3 Kitchen Hand, OR NC(V) L3 Hospitality, OR Grade 11 with Consumer Studies/Hospitality Studies."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administrator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 3, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus", "Potchefstroom Campus", "Taung Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": null } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Accounting", "level": null, "percentage": null } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Computer Applications Technology", "level": null, "percentage": null } ] }
+            ]
+          },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "IC", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Management Assistant", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Source states: passed Grade 12 with English and Accounting, OR CAT, OR IC, OR NC(V) L4 Office Administration, OR Management Assistant N4."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Supervisor Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 2, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus", "Taung Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: passed NQF Level 4 qualification OR Grade 12."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Small Retail Business Owner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null },
+          {
+            "type": "grade",
+            "level": 10,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Mathematical Literacy", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: passed NQF Level 3 qualification OR Grade 10 with Mathematics/Mathematical Literacy."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Retail Supervisor Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 3, "field": null },
+          { "type": "grade", "level": 10, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: passed NQF Level 3 qualification OR Grade 10."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Computer Technician Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 2, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Jouberton Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": 30 }, { "name": "Mathematical Literacy", "level": null, "percentage": 40 } ] },
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Computer Applications Technology", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "nqf", "level": 4, "field": null }
+        ],
+        "notes": ["Source states: Grade 12 Maths (30%), Maths Literacy (40%) and CAT, OR an NQF Level 4 qualification in ITC/Robotics."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Public Service Administrator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus", "Potchefstroom Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: passed NQF Level 4 qualification OR Grade 12."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Human Resource Management Administrator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus", "Potchefstroom Campus", "Taung Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "English", "level": null, "percentage": 40 } ] }
+            ]
+          },
+          { "type": "nated", "level": "N4", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Human Resource Management", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Source states: passed NQF Level 4 OR Grade 12 with English (40%), OR Human Resource Management N4."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 2, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus", "Potchefstroom Campus", "Taung Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Computer Applications Technology", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "nated", "level": "N4", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Management Assistant", "level": null, "percentage": null } ] } ] },
+          { "type": "ncv", "level": 4, "subjects": [] }
+        ],
+        "notes": ["Source states: passed NQF Level 4 qualification OR Grade 12 with CAT OR Management Assistant N4 OR NC(V) Office Administration L4."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Project Manager Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 2, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus", "Potchefstroom Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          {
+            "type": "nqf",
+            "level": 4,
+            "field": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Mathematical Literacy", "level": null, "percentage": null } ] }
+            ]
+          },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: passed NQF L4 with Mathematics/Mathematical Literacy OR Grade 12."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Marketing Coordinator Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": ["Klerksdorp Campus"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Marketing Management", "level": null, "percentage": null } ] } ] }
+        ],
+        "notes": ["Source states: passed NQF Level 4 qualification OR Grade 12 OR NC(V) Marketing L4 OR Marketing Management N4."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Bricklayer Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Carpenter Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: SPYT Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "Trade listed by the source as SPYT (NQF L5); the general trade requirement is shown."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Mechanical Fitter Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Boilermaker Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Fitter and Turner Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Welder Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Millwright Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": 4, "percentage": null }, { "name": "Technical Mathematics", "level": 4, "percentage": null }, { "name": "Applicable Technical Subject", "level": 4, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states for trades: NQF L4 (relevant to qualification) OR N4, N5, N6 (relevant to qualification) OR Grade 12 with Mathematics/Technical Mathematics/applicable technical subject with a minimum level 4 pass mark.", "None of the trade programmes are funded by NSFAS."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Installer (Standalone) Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Technical Mathematics", "level": null, "percentage": null }, { "name": "Electrical Technical Subject", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: NQF L4 (Electrical) OR NC(V) L4 (Electrical) with a preference subject OR N4, N5, N6 (Electrical) OR Grade 12 with Mathematics/Technical Mathematics/Electrical technical subject."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Mounter (Standalone) Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Technical Mathematics", "level": null, "percentage": null }, { "name": "Electrical Technical Subject", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: NQF L4 (Electrical) OR NC(V) L4 (Electrical) with a preference subject RET L4 OR N4, N5, N6 (Electrical) OR Grade 12 with Mathematics/Technical Mathematics/Electrical technical subject."]
+      }
+    },
+    {
+      "institution": "Vuselela TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Service Technician (Standalone) Level 5",
+        "description": null,
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": null,
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "nqf", "level": 4, "field": null },
+          { "type": "ncv", "level": 4, "subjects": [] },
+          { "type": "nated", "level": "N4", "subjects": [] },
+          { "type": "nated", "level": "N5", "subjects": [] },
+          { "type": "nated", "level": "N6", "subjects": [] },
+          {
+            "type": "grade",
+            "level": 12,
+            "aps": null,
+            "subjects": [
+              { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null }, { "name": "Technical Mathematics", "level": null, "percentage": null }, { "name": "Electrical Technical Subject", "level": null, "percentage": null } ] }
+            ]
+          }
+        ],
+        "notes": ["Source states: NQF L4 (Electrical) OR NC(V) L4 (Electrical) with a preference subject RET L4 OR N4, N5, N6 (Electrical) OR Grade 12 with Mathematics/Technical Mathematics/Electrical technical subject."]
+      }
+    }
+  ]
+}

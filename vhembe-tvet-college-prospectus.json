@@ -1,0 +1,659 @@
+{
+  "institution": "Vhembe TVET College",
+  "province": "Limpopo",
+  "source_files": ["VHEMBE TVET COLLEGE.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 27,
+  "programmes": [
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Generic Management Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Marketing Management Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela", "Mavhoi", "Thengwe"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Primary Agriculture Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Mashamba"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela", "Mavhoi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Construction Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela", "Mavhoi", "Thengwe"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Technology and Computer Science Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela", "Mavhoi"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Programming and Robotics Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Process Plant Operations Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hairdressing Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Services Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Utility Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2-4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": null,
+        "faculty": "Utility Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": ["Makwarela"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: minimum requirement for NCV L2-L4 is Grade 9."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Marketing Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Nated N4-N6 Business Studies minimum requirement is Grade 12 or Diploma Pass."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Human Resource Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Nated N4-N6 Business Studies minimum requirement is Grade 12 or Diploma Pass."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Financial Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Nated N4-N6 Business Studies minimum requirement is Grade 12 or Diploma Pass."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Business Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Nated N4-N6 Business Studies minimum requirement is Grade 12 or Diploma Pass."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Public Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Nated N4-N6 Business Studies minimum requirement is Grade 12 or Diploma Pass."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Management Assistant N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Nated N4-N6 Business Studies minimum requirement is Grade 12 or Diploma Pass."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Farming Management N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Business Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Source states: Nated N4-N6 Business Studies minimum requirement is Grade 12 or Diploma Pass."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate: Electrical Infrastructure Construction N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists NATED Engineering Studies programmes without stating levels; the standard engineering N1-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate: Civil Engineering and Construction N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists NATED Engineering Studies programmes without stating levels; the standard engineering N1-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate: Mechanical Engineering N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists NATED Engineering Studies programmes without stating levels; the standard engineering N1-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National Certificate: Chemical Engineering N1-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": null,
+        "faculty": "Engineering Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source lists NATED Engineering Studies programmes without stating levels; the standard engineering N1-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Hospitality Services N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Utility Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source does not state NATED levels for Utility Studies; the standard business N4-N6 route is shown."]
+      }
+    },
+    {
+      "institution": "Vhembe TVET College",
+      "programme": {
+        "name": "National N Diploma: Clothing Production N4-N6",
+        "description": null,
+        "saqa_code": null,
+        "type": "NATED",
+        "nqf_level": 6,
+        "faculty": "Utility Studies",
+        "duration": null,
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 12, "aps": null, "subjects": [] },
+          { "type": "nated", "level": "N3", "subjects": [] }
+        ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown.", "Source does not state NATED levels for Utility Studies; the standard business N4-N6 route is shown."]
+      }
+    }
+  ]
+}

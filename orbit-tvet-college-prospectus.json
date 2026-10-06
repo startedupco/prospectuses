@@ -1,0 +1,753 @@
+{
+  "institution": "Orbit TVET College",
+  "province": "North West",
+  "source_files": ["orbit tvet.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 31,
+  "programmes": [
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "Must have passed Mathematics, not Mathematical Literacy.",
+          "All entry applicants must adhere to placement assessment criteria before admission.",
+          "The Automotive Repair and Maintenance option is only available at Mankwe Campus."
+        ]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": [
+          "NQF Level 2 in the specific programme is required.",
+          "The Automotive Repair and Maintenance option is only available at Mankwe Campus."
+        ]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": [
+          "NQF Level 3 in the specific programme is required.",
+          "The Automotive Repair and Maintenance option is only available at Mankwe Campus."
+        ]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "Must have passed Mathematics, not Mathematical Literacy.",
+          "All entry applicants must adhere to placement assessment criteria before admission."
+        ]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "Must have passed Mathematics, not Mathematical Literacy.",
+          "All entry applicants must adhere to placement assessment criteria before admission."
+        ]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Civil Engineering and Building Construction Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Communication Technology and Computer Science Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "Must have passed Mathematics, not Mathematical Literacy.",
+          "All entry applicants must adhere to placement assessment criteria before admission."
+        ]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Communication Technology and Computer Science Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Communication Technology and Computer Science Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Communication Technology and Computer Science (Programming and Robotics) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [ { "compulsory": true, "match": "any", "choices": [ { "name": "Mathematics", "level": null, "percentage": null } ] } ] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": [
+          "Must have passed Mathematics, not Mathematical Literacy.",
+          "All entry applicants must adhere to placement assessment criteria before admission."
+        ]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Communication Technology and Computer Science (Programming and Robotics) Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Information Communication Technology and Computer Science (Programming and Robotics) Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Engineering-related and ICT",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["All entry applicants must adhere to placement assessment criteria before admission."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Finance, Economics and Accounting Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Business-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["All entry applicants must adhere to placement assessment criteria before admission."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Business-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["All entry applicants must adhere to placement assessment criteria before admission."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Tourism Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality (Accommodation, Catering and Event Services) Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["All entry applicants must adhere to placement assessment criteria before admission."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality (Accommodation, Catering and Event Services) Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality (Accommodation, Catering and Event Services) Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 2,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [
+          { "type": "grade", "level": 9, "aps": null, "subjects": [] },
+          { "type": "nqf", "level": 1, "field": null },
+          { "type": "plp", "accepted": true }
+        ],
+        "notes": ["All entry applicants must adhere to placement assessment criteria before admission."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 3",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 3,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 2, "field": null } ],
+        "notes": ["NQF Level 2 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 4",
+        "description": null,
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Services-related",
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "nqf", "level": 3, "field": null } ],
+        "notes": ["NQF Level 3 in the specific programme is required."]
+      }
+    },
+    {
+      "institution": "Orbit TVET College",
+      "programme": {
+        "name": "Pre-Vocational Learning Programme",
+        "description": "Designed to assist candidates who do not meet the minimum APS score required for entry into the NC(V) programmes, so that they can improve their subject achievement levels; the period of completion is one year.",
+        "saqa_code": null,
+        "type": "OTHER",
+        "nqf_level": null,
+        "faculty": null,
+        "duration": { "value": 1, "unit": "years" },
+        "credits": null,
+        "attendance": [],
+        "campus": null,
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": { "min": null, "max": null },
+        "match": "any",
+        "options": [ { "type": "grade", "level": 9, "aps": null, "subjects": [] } ],
+        "notes": ["Entry requirements not specified in the college source - standard national TVET minimum shown."]
+      }
+    }
+  ]
+}

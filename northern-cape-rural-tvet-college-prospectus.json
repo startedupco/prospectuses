@@ -1,0 +1,407 @@
+{
+  "institution": "Northern Cape Rural TVET College",
+  "province": "Northern Cape",
+  "source_files": ["Northern Cape Rural TVET College.txt"],
+  "updated": "2026-10-06",
+  "programme_count": 18,
+  "programmes": [
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Electrical Infrastructure Construction Level 2-4",
+        "description": "Learn to design, install and maintain electrical systems for homes, factories, mines and solar farms.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Engineering",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kathu", "Upington"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Prevocational Learning Programme Level 1",
+        "description": "A supportive bridging year that gets you ready for any NCV programme.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 1,
+        "faculty": "Foundation",
+        "duration": {"value": 1, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kathu", "Namaqualand"],
+        "intake": []
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": null, "aps": null, "subjects": []}],
+        "notes": ["Entry requirement in the source: no Grade 9 needed."]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Engineering and Related Design Level 2-4",
+        "description": "Engineering and Related Design is the hands-on foundation of mechanical engineering, covering fitting and turning, welding, fabrication and machine maintenance.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Engineering",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kathu", "Namaqualand", "Upington"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Hospitality Level 2-4",
+        "description": "Learn professional cooking techniques, front-of-house service, accommodation management and client relations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Hospitality",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kathu"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Office Administration Level 2-4",
+        "description": "Master office software, financial record-keeping, data processing and professional business communication across all types of workplaces.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kuruman", "Kathu", "Namaqualand", "Upington", "De Aar"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Safety in Society Level 2-4",
+        "description": "Safety in Society prepares you for careers in policing, traffic, corrections and private security.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Safety",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kuruman", "Upington"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "National Certificate Vocational: Transport and Logistics Level 2-4",
+        "description": "Transport and Logistics teaches you how goods move, covering supply chains, warehousing, freight planning and road transport operations.",
+        "saqa_code": null,
+        "type": "NCV",
+        "nqf_level": 4,
+        "faculty": "Business",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": ["full-time"],
+        "campus": ["Kuruman"],
+        "intake": ["2027"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 9, "aps": null, "subjects": []}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Fitter and Turner Level 4",
+        "description": "Precision machining, fitting and industrial component manufacturing.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Namaqualand"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}, {"type": "nqf", "level": 3, "field": null}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Electrician Level 4",
+        "description": "Industrial, domestic and renewable energy electrical systems.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kathu", "Namaqualand"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}, {"type": "nqf", "level": 3, "field": null}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Solar Photovoltaic Standalone Installer Level 4",
+        "description": "Install and commission standalone solar photovoltaic systems.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering",
+        "duration": {"value": 12, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kathu"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [
+          {
+            "type": "grade",
+            "level": 9,
+            "aps": null,
+            "subjects": [
+              {
+                "compulsory": true,
+                "match": "any",
+                "choices": [{"name": "Mathematics", "level": null, "percentage": null}]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Chef Level 5",
+        "description": "Professional cookery, kitchen management and food science.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Hospitality",
+        "duration": {"value": 3, "unit": "years"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Upington"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}, {"type": "nqf", "level": 2, "field": null}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Plumbing Level 4",
+        "description": "Domestic, commercial and industrial plumbing and sanitation.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Engineering",
+        "duration": {"value": 24, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Upington"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}, {"type": "nqf", "level": 3, "field": null}],
+        "notes": [
+          "Programme marked 'Pending final confirmation for 2026' in the source - contact the college to confirm it is running before you apply."
+        ]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Early Childhood Development Level 4",
+        "description": "Professional ECD practitioner for creches and pre-schools.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Education",
+        "duration": {"value": 18, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Upington"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 12, "aps": null, "subjects": []}, {"type": "nqf", "level": 3, "field": null}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Office Administration Level 5",
+        "description": "Professional office management and administrative systems.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business",
+        "duration": {"value": 12, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kuruman", "Namaqualand", "Upington", "De Aar"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 12, "aps": null, "subjects": []}, {"type": "nqf", "level": 4, "field": null}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Public Service Administrator Level 5",
+        "description": "Government administration and municipal service delivery.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business",
+        "duration": {"value": 18, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kuruman"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 12, "aps": null, "subjects": []}, {"type": "nqf", "level": 4, "field": null}],
+        "notes": [
+          "Programme marked 'Pending final confirmation for 2026' in the source - contact the college to confirm it is running before you apply."
+        ]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Management Assistant Level 5",
+        "description": "Executive support, PA skills and project coordination.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 5,
+        "faculty": "Business",
+        "duration": {"value": 12, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kuruman", "Namaqualand", "De Aar"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 12, "aps": null, "subjects": []}, {"type": "nqf", "level": 4, "field": null}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Small Retail Business Owner Level 4",
+        "description": "Retail entrepreneurship and small business management.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 4,
+        "faculty": "Business",
+        "duration": {"value": 12, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kuruman"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}, {"type": "nqf", "level": 3, "field": null}]
+      }
+    },
+    {
+      "institution": "Northern Cape Rural TVET College",
+      "programme": {
+        "name": "Occupational Certificate: Road Freight Transport Clerk Level 3",
+        "description": "Freight documentation, dispatch and load control for road transport.",
+        "saqa_code": null,
+        "type": "OC",
+        "nqf_level": 3,
+        "faculty": "Business",
+        "duration": {"value": 12, "unit": "months"},
+        "credits": null,
+        "attendance": [],
+        "campus": ["Kuruman"],
+        "intake": ["2026"]
+      },
+      "entry_requirements": {
+        "age": {"min": null, "max": null},
+        "match": "any",
+        "options": [{"type": "grade", "level": 10, "aps": null, "subjects": []}, {"type": "nqf", "level": 2, "field": null}]
+      }
+    }
+  ]
+}
