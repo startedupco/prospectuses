@@ -1,7 +1,8 @@
 # institution-prospectus
 
-Raw prospectus sources (`.txt`) and converted JSON for South African institutions, pulled by
-`raw.githubusercontent.com/startedupco/prospectuses/main/...`.
+Converted prospectus JSON for South African institutions, pulled by
+`raw.githubusercontent.com/startedupco/prospectuses/main/...`. The repo is JSON-only —
+raw source documents were removed and live in git history (commit `21f1e6d` and earlier).
 
 ## TVET college files (programme-structure format)
 
@@ -41,6 +42,9 @@ All TVET college prospectuses are stored as **one file per college** named
 `nated` (Report 191 certificate, e.g. `"N3"`), `plp`, `rpl`. Nothing is invented —
 where a source stated no requirements, the standard national TVET minimum is used and
 flagged in `entry_requirements.notes`.
+
+`source_files` records the original source document each college was converted from
+(the raw text itself now lives only in git history).
 
 ### Check eligibility (YES / NO / REVIEW)
 
@@ -85,13 +89,15 @@ checkProgramme({ grade: 12, aps: 30, subjects: { Mathematics: 65, English: 60 },
 | Vuselela TVET College | North West | 30 | [vuselela-tvet-college-prospectus.json](vuselela-tvet-college-prospectus.json) |
 | Waterberg TVET College | Limpopo | 14 | [waterberg-tvet-college-prospectus.json](waterberg-tvet-college-prospectus.json) |
 
-**Still in the older `qualifications` format** (no raw source text in this repo to
+**Still in the older `qualifications` format** (no source document available to
 reconvert from): `northlink-`, `south-cape-`, `west-coast-tvet-college-prospectus.json`.
 University prospectuses (`*-prospectus.json` for CPUT, UCT, UP, …) are unchanged.
 
 ## Data provenance
 
-Programmes were converted from the college `.txt` sources stored alongside them.
+Programmes were converted from the original college programme documents; those raw
+texts were deleted from the repo and can be recovered from git history (they are also
+named per college in each entry's `source_files`).
 Requirements are reproduced faithfully; `null` / `[]` means the source did not state a
 value. Always confirm final admission decisions with the college — this repo is a guide,
 not an offer of admission.
